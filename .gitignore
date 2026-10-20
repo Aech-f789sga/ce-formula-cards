@@ -1,0 +1,20 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# editor
+.vscode/
+.idea/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# local QA output from _build/overlays.py
+_build/qa/
+_build/*.png
+
+# keep the card images — they are the deck
+!assets/cards/*.jpg

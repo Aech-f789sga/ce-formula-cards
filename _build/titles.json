@@ -1,0 +1,1629 @@
+{
+ "1": {
+  "section": "Properties of Soil",
+  "titles": {
+   "0": "Phase Diagram of Soil",
+   "1": "Degree of Saturation",
+   "2": "Moisture Content",
+   "3": "Void Ratio and Porosity",
+   "4": "Unit Weight",
+   "5": "Saturated Unit Weight",
+   "6": "Submerged Unit Weight (Buoyant)",
+   "7": "Bulk Specific Gravity (G)",
+   "8": "Moist Unit Weight Notes",
+   "9": "Specific Gravity of Solids (Gs)",
+   "10": "Special Notes on Soil"
+  }
+ },
+ "2": {
+  "section": "Properties of Soil",
+  "titles": {
+   "0": "Air Content (ac)",
+   "1": "Air Void Ratio (na)",
+   "2": "Relative Density (Dr)",
+   "3": "Relative Compaction (R)",
+   "4": "Effective Grain Size (D10)",
+   "5": "Coefficient of Uniformity (Cu)",
+   "6": "Coefficient of Curvature (Cc)",
+   "7": "Linear Interpolation (Mode-Stat-Log)"
+  }
+ },
+ "3": {
+  "section": "Consistency and Classification of Soil",
+  "titles": {
+   "0": "Shrinkage Limit (SL)",
+   "1": "Initial Moisture Content (wi)",
+   "2": "Change in Moisture (Δw)",
+   "3": "Shrinkage Ratio (SR)",
+   "4": "Specific Gravity of Solids (Gs)",
+   "5": "Liquidity Index (LI)",
+   "6": "Plastic Limit (PL)",
+   "7": "Activity Classification (Ac)",
+   "8": "Consistency Classification Tables",
+   "9": "Liquid Limit at 25 Blows",
+   "10": "Atterberg Limits Chart"
+  }
+ },
+ "4": {
+  "section": "Soil Exploration and Compaction",
+  "titles": {
+   "0": "Sand Cone Method",
+   "1": "Stoke's Law",
+   "2": "Stokes' Law Variables",
+   "3": "Hydrometer Correction Factor (K)",
+   "4": "Pycnometer Test",
+   "5": "Toughness Index",
+   "6": "Flow Index",
+   "7": "Volumetric Shrinkage",
+   "8": "Fall Cone Method"
+  }
+ },
+ "5": {
+  "section": "Soil Classification",
+  "titles": {
+   "0": "Soil Modification with Gravel",
+   "1": "Group Index (GI)",
+   "2": "USCS Coarse-Grained Soils",
+   "3": "Flow of Water Through Soil"
+  }
+ },
+ "6": {
+  "section": "Permeability and Seepage",
+  "titles": {
+   "0": "Constant Head Test",
+   "1": "Falling Head Test",
+   "2": "Pumping Test (Unconfined)",
+   "3": "Pumping Test (Confined)",
+   "4": "Parallel Flow",
+   "5": "Variable Head Test Notes",
+   "6": "Perpendicular Flow",
+   "7": "Total Stress (Pt)",
+   "8": "Pore Water Pressure (Pw)",
+   "9": "Special Notes"
+  }
+ },
+ "7": {
+  "section": "Consolidation and Settlement",
+  "titles": {
+   "0": "Normally Consolidated",
+   "1": "When Po + ΔP < Pc",
+   "2": "When Po + ΔP > Pc",
+   "3": "Swell Index (Cs)",
+   "4": "Compression Index (Cc)",
+   "5": "Overconsolidation Ratio (OCR)",
+   "6": "Special Notes"
+  }
+ },
+ "8": {
+  "section": "Stress Distribution and Seepage",
+  "titles": {
+   "0": "Additional Pressure (Square)",
+   "1": "Additional Pressure (Rectangular)",
+   "2": "Compression Index (Cc)",
+   "3": "Flow Net Seepage (Q)",
+   "4": "Flow Net Diagram"
+  }
+ },
+ "9": {
+  "section": "Shear Strength of Soil",
+  "titles": {
+   "0": "Stress Elements on Failure Plane",
+   "1": "Triaxial Test Failure Criteria",
+   "2": "Angle of Failure Plane",
+   "3": "Direct Shear Test Note",
+   "4": "Triaxial Test Specimen Stresses"
+  }
+ },
+ "10": {
+  "section": "Lateral Earth Pressure",
+  "titles": {
+   "0": "Active Soil Pressure",
+   "1": "Passive Soil Pressure",
+   "2": "Pressure Diagram for 1 Layer of Soil",
+   "3": "Rest Earth Pressure",
+   "4": "Lateral Pressure Components",
+   "5": "Unit Weight Classification"
+  }
+ },
+ "11": {
+  "section": "Stress Distribution",
+  "titles": {
+   "0": "Boussinesq Point Load",
+   "1": "Boussinesq Uniform Load",
+   "2": "Westergaard Analysis",
+   "3": "Circular, Square & Strip Footings",
+   "4": "Rectangular Footing Capacity"
+  }
+ },
+ "12": {
+  "section": "Foundation and Piles",
+  "titles": {
+   "0": "Case I: GWT Above FTG",
+   "1": "Case II: GWT at Footing Bottom",
+   "2": "Case III: GWT Below Base (Within B)",
+   "3": "Case IV: GWT Below Base (Outside B)",
+   "4": "Mat Foundation Bearing (Saturated Clay)",
+   "5": "Allowable Pile Capacity",
+   "6": "Granular Soils Settlement (N60)",
+   "7": "Piles in Clay",
+   "8": "Pile Group Notes",
+   "9": "Pile Capacity Diagram"
+  }
+ },
+ "13": {
+  "section": "Slope Stability",
+  "titles": {
+   "0": "Braced Cut Pressure Envelope",
+   "1": "Sand Braced Cuts",
+   "2": "Soft to Medium Clay",
+   "3": "Stiff Clay",
+   "4": "Peck Pressure Envelopes (1969)",
+   "5": "Shear Strength Factor of Safety",
+   "6": "Infinite Slope Factor of Safety",
+   "7": "Friction and Cohesion Forces",
+   "8": "Critical Angle of Failure",
+   "9": "Slope Stability Against Sliding",
+   "10": "Critical Height and Stability Number"
+  }
+ },
+ "15": {
+  "section": "Properties of Fluids",
+  "titles": {
+   "0": "Unit Weight (γ)",
+   "1": "Density (ρ)",
+   "2": "Specific Volume (Vs)",
+   "3": "Specific Gravity (sg)",
+   "4": "Absolute Viscosity (μ)",
+   "5": "Celerity of Pressure Wave (C)",
+   "6": "Pressure (P)"
+  }
+ },
+ "16": {
+  "section": "Hydrostatic Forces",
+  "titles": {
+   "0": "Pressure Head",
+   "1": "Pressure at the Bottom",
+   "2": "Resultant Direction (tan θ)",
+   "3": "Center of Pressure (c)",
+   "4": "Minimum Seepage Notes",
+   "5": "Eccentricity (e)",
+   "6": "Slant Depth (ȳ) and yp"
+  }
+ },
+ "17": {
+  "section": "Dams and Retaining Structures",
+  "titles": {
+   "0": "Gravity Dam Cross Section",
+   "1": "Horizontal Hydrostatic Force",
+   "2": "Factor of Safety (Overturning)",
+   "3": "Factor of Safety (Sliding)",
+   "4": "Location of Resultant (x̄)",
+   "5": "Foundation Pressure (qmax, qmin)",
+   "6": "Eccentricity (e)"
+  }
+ },
+ "18": {
+  "section": "Buoyancy and Stability",
+  "titles": {
+   "0": "Archimedes' Principle",
+   "1": "Volume Displaced",
+   "2": "Draft in Two Liquids (a)",
+   "3": "Specific Gravity Draft Equality",
+   "4": "Draft in Two Liquids (b)",
+   "5": "Fraction of Volume",
+   "6": "Nadine Lustre Method",
+   "7": "Righting Moment",
+   "8": "Overturning Moment",
+   "9": "Exact Metacentric Radius (MBo)",
+   "10": "Stability of Floating Bodies",
+   "11": "Exact MBo Diagram"
+  }
+ },
+ "19": {
+  "section": "Relative Equilibrium",
+  "titles": {
+   "0": "Circumferential Stress",
+   "1": "Hoop Tension",
+   "2": "Moving Vessel Horizontal Motion",
+   "3": "Inclined Motion",
+   "4": "No Water Spill",
+   "5": "Water Spill"
+  }
+ },
+ "20": {
+  "section": "Relative Equilibrium",
+  "titles": {
+   "0": "Closed Vessel & Rotating Vessel"
+  }
+ },
+ "21": {
+  "section": "Relative Equilibrium",
+  "titles": {
+   "0": "Max Rotation Without Spilling",
+   "1": "Max Rotation With Spilling",
+   "2": "Paraboloid Height (h = H²/2D)",
+   "3": "Closed Vessel Rotation Cases",
+   "4": "Volume Conservation (2yz)",
+   "5": "Zero Depth at Center"
+  }
+ },
+ "22": {
+  "section": "Fundamentals of Fluid Flow",
+  "titles": {
+   "0": "Bernoulli's Energy Theorem",
+   "1": "Mass Flow Rate",
+   "2": "Total Head or Energy",
+   "3": "Completely Filled Tank Pressure",
+   "4": "Tank With Cover Pressure",
+   "5": "Continuous Flow",
+   "6": "Bernoulli's Energy Equation",
+   "7": "Slope of EGL"
+  }
+ },
+ "23": {
+  "section": "Pumps and Orifices",
+  "titles": {
+   "0": "Pump",
+   "1": "Turbine",
+   "2": "Power",
+   "3": "Efficiency and Rating",
+   "4": "Orifice Velocity and Head Loss",
+   "5": "Theoretical Velocity",
+   "6": "Head with Surface Pressure",
+   "7": "Coefficient of Contraction (Cc)"
+  }
+ },
+ "24": {
+  "section": "Flow Measurement",
+  "titles": {
+   "0": "Falling Head Test",
+   "1": "Velocity Formulas (Projectile)",
+   "2": "Discharge (Q = Av)",
+   "3": "Chezy C by Manning and Bazin",
+   "4": "Chezy Coefficient (Theoretical)",
+   "5": "Chezy C by Kutter",
+   "6": "Uniform Flow (Q = Av)",
+   "7": "Bed Slope Equals EGL Slope"
+  }
+ },
+ "25": {
+  "section": "Open Channel Flow",
+  "titles": {
+   "0": "Most Efficient Section (Rectangular)",
+   "1": "Hydraulic Radius (R)",
+   "2": "Boundary Shearing Stress",
+   "3": "Most Efficient Section (Circular)",
+   "4": "Alternate Stages of Flow",
+   "5": "Froude Number (Nf)",
+   "6": "Mean Depth (dm)",
+   "7": "Flow Regime Table"
+  }
+ },
+ "26": {
+  "section": "Critical Flow",
+  "titles": {
+   "0": "Critical Flow (General Sections)",
+   "1": "Critical Depth (Rectangular)",
+   "2": "Accelerated Flow",
+   "3": "Unit Discharge (q)",
+   "4": "Impact of Jet on a Plane",
+   "5": "Force on Pipe Bend and Reducer"
+  }
+ },
+ "27": {
+  "section": "Weirs and Hydraulic Jump",
+  "titles": {
+   "0": "Force on a Curve Vane/Blade",
+   "1": "Rectangular Weir",
+   "2": "Weir Discharge Formula",
+   "3": "Hydraulic Jump",
+   "4": "Singly Contracted Weir",
+   "5": "Momentum Equation for Q",
+   "6": "Doubly Contracted Weir",
+   "7": "Hydraulic Jump Cross-Section",
+   "8": "Hydrostatic Force (P = γ h̄ A)",
+   "9": "Height of the Jump",
+   "10": "Power Loss by the Jump",
+   "11": "Head Loss (HL = E1 - E2)"
+  }
+ },
+ "28": {
+  "section": "Weirs and Pipes",
+  "titles": {
+   "0": "Weir Discharge Without Approach Velocity",
+   "1": "Francis Formula",
+   "2": "Triangular Weir (Symmetrical)",
+   "3": "Cipolletti & Broad-Crested Weir",
+   "4": "Unsymmetrical Triangular Weir",
+   "5": "Pipes in Series",
+   "6": "Pipes in Parallel"
+  }
+ },
+ "29": {
+  "section": "Water Hammer and Pipe Flow",
+  "titles": {
+   "0": "Water Hammer Celerity (c)",
+   "1": "Pressure Wave Travel Time (T)",
+   "2": "Rapid Closure (tc < 2L/c)",
+   "3": "Slow Closure (tc > 2L/c)",
+   "4": "Reynolds Number (NR)",
+   "5": "Special Notes",
+   "6": "Friction Factor (Laminar/Turbulent)"
+  }
+ },
+ "30": {
+  "section": "Head Losses",
+  "titles": {
+   "0": "Darcy-Weisbach Formula",
+   "1": "Manning Formula",
+   "2": "Hazen-Williams Formula",
+   "3": "Non-Circular Pipe (D = 4R)",
+   "4": "Minor Loss and Total Head Loss",
+   "5": "Slope of EGL",
+   "6": "Three-Reservoir, Case 1",
+   "7": "Three-Reservoir, Case 2"
+  }
+ },
+ "33": {
+  "section": "Strength of Materials",
+  "titles": {
+   "0": "Axial Stress",
+   "1": "Bearing Stress",
+   "2": "Single Shear",
+   "3": "Double Shear",
+   "4": "Punching Shear",
+   "5": "Axial Strain",
+   "6": "Relative Displacement",
+   "7": "Poisson's Ratio"
+  }
+ },
+ "34": {
+  "section": "Strength of Materials",
+  "titles": {
+   "0": "Virtual Work Method",
+   "1": "Mohr's Circle Sign Convention",
+   "2": "Axial Rigidity (AE)",
+   "3": "Cable Angle (β = 90° − θ)",
+   "4": "Axial Stiffness (AE/L)",
+   "5": "Helical Spring (Approximate)",
+   "6": "Spring Deformation (δ)",
+   "7": "Spring Reaction (R)",
+   "8": "Spring Constant (k = P/δ)",
+   "9": "Spring Force (P = kδ)",
+   "10": "Springs in Series (keq)",
+   "11": "Springs in Parallel (keq)"
+  }
+ },
+ "35": {
+  "section": "Torsion",
+  "titles": {
+   "0": "Torsional Stress",
+   "1": "Polar Moment of Inertia",
+   "2": "Polar Moment of Inertia (Solid)",
+   "3": "Polar Moment of Inertia (Hollow)",
+   "4": "Angle of Twist",
+   "5": "Angular Deformation",
+   "6": "Maximum Torsional Shear Stress",
+   "7": "Angle of Twist (Shaft Segment)",
+   "8": "Moment Diagram Sign Convention",
+   "9": "Spandrel Property"
+  }
+ },
+ "36": {
+  "section": "Shear and Thin-Walled Vessels",
+  "titles": {
+   "0": "Flexural Shear Stress (Rectangular)",
+   "1": "Flexural Shear Stress (Circular Solid)",
+   "2": "Minimum Moment: 1-Point Lift",
+   "3": "Minimum Moment: 2-Point Lift",
+   "4": "Minimum Moment: 3-Point Lift",
+   "5": "Flexural Shear Stress (Hollow)",
+   "6": "Thin-Walled Vessel Force",
+   "7": "Circumferential (Hoop) Stress",
+   "8": "Longitudinal Stress and Shear Flow"
+  }
+ },
+ "37": {
+  "section": "Engineering Mechanics",
+  "titles": {
+   "0": "Concurrent Forces",
+   "1": "Friction",
+   "2": "Belt Friction",
+   "3": "Belt Tension Direction",
+   "4": "Contact Angle Diagrams",
+   "5": "Support Reactions Table",
+   "6": "Wrap Angle Formula (β)",
+   "7": "Full Turn Angle (β = 360°)",
+   "8": "Angle to Radians Conversion",
+   "9": "Zero-Force Members"
+  }
+ },
+ "38": {
+  "section": "Engineering Mechanics",
+  "titles": {
+   "0": "Maximum Tension in Parabolic Cable",
+   "1": "Tensile Force in Catenary Cable",
+   "2": "Vertical Distance in Catenary",
+   "3": "Unsymmetrical Catenary Cable",
+   "4": "Symmetrical Catenary Cable",
+   "5": "Total Acceleration",
+   "6": "Tangential Acceleration"
+  }
+ },
+ "39": {
+  "section": "Engineering Mechanics",
+  "titles": {
+   "0": "Uniform Acceleration",
+   "1": "Uniform Velocity (a = 0)",
+   "2": "Variable Acceleration",
+   "3": "Rotational Motion",
+   "4": "Projectile at Summit",
+   "5": "Projectile at Ground",
+   "6": "Projectile Path Equation",
+   "7": "Newton's Second Law",
+   "8": "Work-Energy Equation",
+   "9": "Minimum Speed (T = 0)",
+   "10": "Critical Speed (v = √gR)"
+  }
+ },
+ "40": {
+  "section": "Engineering Mechanics",
+  "titles": {
+   "0": "Impulse-Momentum",
+   "1": "Conservation of Momentum",
+   "2": "Percent Energy Loss",
+   "3": "Force Vectors in 3D Space",
+   "4": "Moment Vector (M = r × T)",
+   "5": "Point of Intersection of Resultant"
+  }
+ },
+ "41": {
+  "section": "Theory of Structures",
+  "titles": {
+   "0": "Beams, Trusses & Frames Determinacy",
+   "1": "Number of Releases (S)",
+   "2": "Beam Stability Criteria",
+   "3": "Releases per Support Type",
+   "4": "Frames Determinacy (Loop Method)",
+   "5": "Truss Determinacy Criteria",
+   "6": "Moment Equation Sign Convention",
+   "7": "Impact Load Deflection",
+   "8": "Moment-Area Theorem 1",
+   "9": "Moment-Area Theorem 2",
+   "10": "Beam Deflection Diagrams",
+   "11": "Parabolic Spandrel Area & Centroid"
+  }
+ },
+ "42": {
+  "section": "Theory of Structures",
+  "titles": {
+   "0": "Moment Diagram by Parts",
+   "1": "Load Sign Convention",
+   "2": "Conjugate Beam Slope (y′)",
+   "3": "Conjugate Beam Deflection (y)"
+  }
+ },
+ "43": {
+  "section": "Theory of Structures",
+  "titles": {
+   "0": "Three-Moment Equation",
+   "1": "Load Values for Three-Moment",
+   "2": "Integral Load Term (GAx/L)",
+   "3": "Stiffness Factor (Fixed End)",
+   "4": "Distribution Factor",
+   "5": "Carry Over Moment",
+   "6": "Stiffness Factor (Hinge End)",
+   "7": "Integral Load Term (GAxR/L)"
+  }
+ },
+ "44": {
+  "section": "Theory of Structures",
+  "titles": {
+   "0": "Fixed-End Moments (Any Loading)",
+   "1": "Point-Load Analogous Deflection",
+   "2": "Moment at Support Note"
+  }
+ },
+ "45": {
+  "section": "Theory of Structures",
+  "titles": {
+   "0": "Simply Supported Beam (Uniform Load)",
+   "1": "Point Load Deflection",
+   "2": "Deflection at Any Point",
+   "3": "Midspan Deflection with MF",
+   "4": "Fixed-End Point Load Deflection"
+  }
+ },
+ "46": {
+  "section": "Theory of Structures",
+  "titles": {
+   "0": "Beam Deflection Formulas",
+   "1": "Fixed-End Moment Formulas"
+  }
+ },
+ "47": {
+  "section": "Theory of Structures",
+  "titles": {
+   "0": "Muller-Breslau Moment",
+   "1": "Muller-Breslau Properties",
+   "2": "Maximum Moment (Moving Loads)",
+   "3": "Cantilever Shear Influence Line",
+   "4": "Resultant Load (Pb + Ps)",
+   "5": "Simple Beam Influence Lines",
+   "6": "Maximum Shear (Moving Loads)"
+  }
+ },
+ "48": {
+  "section": "Theory of Structures",
+  "titles": {
+   "0": "Influence Line for Trusses",
+   "1": "Influence Line Samples",
+   "2": "Effective Length Factor (k)",
+   "3": "Slenderness Ratio (KL/r)",
+   "4": "End Fixity Factor, Hinged",
+   "5": "Nomogram Charts for k",
+   "6": "Joint Stiffness Ratio",
+   "7": "Pattern Loading, Both Spans Loaded",
+   "8": "Pattern Loading, One Span Loaded"
+  }
+ },
+ "49": {
+  "section": "Theory of Structures",
+  "titles": {
+   "0": "Pattern Loadings"
+  }
+ },
+ "50": {
+  "section": "Theory of Structures",
+  "titles": {
+   "0": "Fixed-End Beam Moments"
+  }
+ },
+ "51": {
+  "section": "Steel Design",
+  "titles": {
+   "0": "Average Web Shear Stress",
+   "1": "General Shear Stress",
+   "2": "Shear Flow",
+   "3": "Bolt Spacing",
+   "4": "Shearing Resistance",
+   "5": "Flexural Bending Stress",
+   "6": "Shear Stress (Other Sections)",
+   "7": "Bending Stress & Section Properties",
+   "8": "A36 Steel Yield Strength",
+   "9": "A36 Steel Ultimate Strength",
+   "10": "Modular Ratio",
+   "11": "Allowable Concrete Stress (Steel Design)"
+  }
+ },
+ "52": {
+  "section": "Steel Design",
+  "titles": {
+   "0": "Maximum Unbraced Length (Lc)",
+   "1": "Compact Section",
+   "2": "Partially Compact Section",
+   "3": "Intermediate Beam (L/rT)",
+   "4": "Non-Compact Section",
+   "5": "Allowable Fb (Partially Compact)",
+   "6": "Long Beam Check",
+   "7": "Fb Cap (Partially Compact)",
+   "8": "Fb Cap (Long Beam)"
+  }
+ },
+ "53": {
+  "section": "Steel Design",
+  "titles": {
+   "0": "Check if Short Beam",
+   "1": "Allowable Bending Stress (Fb)",
+   "2": "Cb Formula",
+   "3": "End Moment Ratio (m1/m2)",
+   "4": "Moment of Inertia (Ix, Iy)",
+   "5": "Slenderness Ratio (KL/r)",
+   "6": "Compression Index (Cc)",
+   "7": "Moment of Inertia (No Axis of Symmetry)",
+   "8": "Factor of Safety (FS)",
+   "9": "Allowable Compressive Stress (Fa)"
+  }
+ },
+ "54": {
+  "section": "Steel Design",
+  "titles": {
+   "0": "Mohr's Circle (Unsymmetrical Section)",
+   "1": "Principal Axis Direction",
+   "2": "Axial Ratio Check (fa/Fa ≤ 0.15)",
+   "3": "Combined Stress (fa/Fa > 0.15)",
+   "4": "Euler Buckling Stress (F'e)",
+   "5": "Combined Stress Interaction",
+   "6": "Side Sway Not Prevented (Cm)"
+  }
+ },
+ "55": {
+  "section": "Steel Design",
+  "titles": {
+   "0": "Axial Tensile Stress (ft)",
+   "1": "Bending Stress (fb)",
+   "2": "Axial Tension Interaction Formula",
+   "3": "Euler Buckling Stress (Fcr)",
+   "4": "Critical Load (Pcr)",
+   "5": "Purlin Load Computation",
+   "6": "Windward Loads (Wn, Wt)",
+   "7": "Moment Mx (Windward)",
+   "8": "Moment My (Windward)",
+   "9": "Interaction Value (Windward)",
+   "10": "Leeward Loads and Moments",
+   "11": "Interaction Value (Leeward)"
+  }
+ },
+ "56": {
+  "section": "Steel Design",
+  "titles": {
+   "0": "Purlins with Sagrods",
+   "1": "NSCP Web Yielding",
+   "2": "Allowable Axial Load and Plate Thickness",
+   "3": "Bearing Plate, Non-Parallel",
+   "4": "Allowable Bearing Pressure",
+   "5": "Bearing Plate, Parallel",
+   "6": "Bearing Area Ratio (b2/a2)",
+   "7": "Bearing Plate Offset (x = ad/b)",
+   "8": "Bearing Area Ratio (xd/ab)",
+   "9": "Excess Length (Lb)",
+   "10": "Base Plate Thickness, New Version",
+   "11": "Plate Thickness Factor"
+  }
+ },
+ "57": {
+  "section": "Steel Design",
+  "titles": {
+   "0": "Gross and Net Area",
+   "1": "Staggered Connection",
+   "2": "Gross Tensile Yielding",
+   "3": "Tensile Rupture Strength",
+   "4": "Block Shear Strength",
+   "5": "Tension Slenderness Limit",
+   "6": "Web Case 5 (λ = h/tw)",
+   "7": "Slenderness Ratio (KL/r)",
+   "8": "Flange Case I (λ = bf/2tf)",
+   "9": "Design Strength Limit States",
+   "10": "Beam Moment and Shear Limits",
+   "11": "Critical Slenderness (Cc)",
+   "12": "Nominal Strength Formulas"
+  }
+ },
+ "58": {
+  "section": "Steel Design",
+  "titles": {
+   "0": "Gross Area (Yielding)",
+   "1": "Net Area (Fracture)",
+   "2": "Bolt Shear Area (Av)",
+   "3": "Bolt Bearing Area (Ab)",
+   "4": "Torsional Shear on Bolts",
+   "5": "Bolt Shear Stress (fv)",
+   "6": "Polar Moment of Inertia (J)"
+  }
+ },
+ "59": {
+  "section": "Steel Design",
+  "titles": {
+   "0": "Bending Shear (Load Alone)",
+   "1": "Bending Shear (Moment Alone)",
+   "2": "Bending Shear (Combined Load)",
+   "3": "Bending Shear Stress",
+   "4": "Torsional Shear (Load Alone)",
+   "5": "Torsional Shear (Moment Alone)",
+   "6": "Torsional Shear (Combined Load)",
+   "7": "Allowable Weld Shear",
+   "8": "Effective Throat Thickness",
+   "9": "Instantaneous Center",
+   "10": "Ultimate Weld Strength"
+  }
+ },
+ "60": {
+  "section": "Steel Design",
+  "titles": {
+   "0": "Elastic Neutral Axis",
+   "1": "Elastic Section Modulus",
+   "2": "Yielding Moment",
+   "3": "Plastic Shape Factor",
+   "4": "Plastic Neutral Axis",
+   "5": "Collapse Mechanism (Mp)",
+   "6": "Plastic Hinge Count (NPH)",
+   "7": "Lowest P, Highest Mp"
+  }
+ },
+ "61": {
+  "section": "Concrete Design",
+  "titles": {
+   "0": "Concrete Elasticity Modulus",
+   "1": "Ec for 1500-2500 kg/m³",
+   "2": "Reinforcing Steel (Grade 40)",
+   "3": "High Carbon Steel (Grade 60)",
+   "4": "Value of β1",
+   "5": "Balanced Strain Conditions",
+   "6": "Maximum Strain Conditions",
+   "7": "Strength Reduction Factor (φ)",
+   "8": "Crack Index Parameters",
+   "9": "Curvature at Cracking",
+   "10": "Crack Index (C)",
+   "11": "Modulus of Rupture (fr)",
+   "12": "Cracking Moment (Mcr)"
+  }
+ },
+ "62": {
+  "section": "Concrete Design",
+  "titles": {
+   "0": "WSD Beam Analysis Diagrams",
+   "1": "Doubly Reinforced Uncracked Section",
+   "2": "Doubly Reinforced Cracked Section",
+   "3": "Flexural Stress (WSD)",
+   "4": "Allowable Concrete Stress",
+   "5": "Allowable Steel Stress"
+  }
+ },
+ "63": {
+  "section": "Concrete Design",
+  "titles": {
+   "0": "Coefficient of Resisting Moment (Rn)",
+   "1": "Steel Ratio (ρ)",
+   "2": "Min and Max Steel Ratio",
+   "3": "Reinforcement Steel Area (As)",
+   "4": "Number of Bars (N)",
+   "5": "Beam Design (SRB)",
+   "6": "Beam Design (DRB)",
+   "7": "Nominal Moment Mn1",
+   "8": "As2 Actual and Compression Bars",
+   "9": "Number of Bars (DRB)"
+  }
+ },
+ "64": {
+  "section": "Concrete Design",
+  "titles": {
+   "0": "Assume SRB and Tension Yields",
+   "1": "Check if SRB (Cmax)",
+   "2": "Check Tension Yields and T-C",
+   "3": "Solve for a and c",
+   "4": "Maximum Depth amax",
+   "5": "Nominal Moment Mu, SRB",
+   "6": "Neutral Axis Depth c",
+   "7": "Actual Depth a",
+   "8": "Nominal Moment Mn, SDNY",
+   "9": "Steel Area Equation, DRB",
+   "10": "Tension Yielding Check, DRB",
+   "11": "Neutral Axis, Doubly Reinforced"
+  }
+ },
+ "65": {
+  "section": "Concrete Design",
+  "titles": {
+   "0": "Nominal Moment, Mn",
+   "1": "Ultimate Moment, Mu",
+   "2": "Get Cmax",
+   "3": "Get amax",
+   "4": "Get Mu(max)",
+   "5": "Design as SRB",
+   "6": "T-Beam Web Nominal Moment",
+   "7": "Steel Area Required (Asf)"
+  }
+ },
+ "66": {
+  "section": "Concrete Design",
+  "titles": {
+   "0": "T-Beam: Assume a at Flange",
+   "1": "Check a vs Flange Thickness",
+   "2": "Check Steel Stress (fs)",
+   "3": "Nominal Moment (Mn)",
+   "4": "T-Beam: a at Web",
+   "5": "Check Tension Yields",
+   "6": "Nominal Moment (bf − bw)"
+  }
+ },
+ "67": {
+  "section": "Concrete Design",
+  "titles": {
+   "0": "Tension-Controlled Section Table",
+   "1": "Strain Limits (εt)",
+   "2": "Compression Block Depth (c)"
+  }
+ },
+ "68": {
+  "section": "Concrete Design",
+  "titles": {
+   "0": "Simplified Vc (Shear & Flexure)",
+   "1": "Detailed Vc Calculation",
+   "2": "Shear with Axial Tension",
+   "3": "Simplified Vc with Axial Compression",
+   "4": "Mm for Axial Compression",
+   "5": "Detailed Vc with Axial Compression",
+   "6": "Circular Column Parameters",
+   "7": "Web Steel Ratio (ρw)"
+  }
+ },
+ "69": {
+  "section": "Concrete Design",
+  "titles": {
+   "0": "Shear Strength (Stirrups)",
+   "1": "Stirrup Spacing (Vu > φVc)",
+   "2": "Minimum Shear Reinforcement",
+   "3": "Theoretical Spacing (x)"
+  }
+ },
+ "70": {
+  "section": "Concrete Design",
+  "titles": {
+   "0": "Threshold Torsion",
+   "1": "Cracking Torsion",
+   "2": "Shear Stress from Loads",
+   "3": "Torsional Moment Strength",
+   "4": "Stirrup Spacing (Torsion & Shear)",
+   "5": "Maximum Torsion Spacing",
+   "6": "Additional Torsional Reinforcement",
+   "7": "Minimum Longitudinal Reinforcement",
+   "8": "Area Enclosed by Shear Flow (Ao)"
+  }
+ },
+ "71": {
+  "section": "Concrete Design",
+  "titles": {
+   "0": "Tied Column Axial Load",
+   "1": "Tied Column Design Strength",
+   "2": "Reinforcement Ratio Limits (ρ)",
+   "3": "Minimum Tie Spacing",
+   "4": "Maximum Tie Spacing",
+   "5": "Spiral Column Axial Load",
+   "6": "Spiral Column Design Strength",
+   "7": "Minimum Bars per Column (Nmin)",
+   "8": "Volumetric Spiral Ratio (ρs)",
+   "9": "Maximum Spiral Spacing"
+  }
+ },
+ "72": {
+  "section": "Concrete Design",
+  "titles": {
+   "0": "Balanced Condition",
+   "1": "Balanced Forces (T, Cs, Cc)",
+   "2": "Balanced Loads (Pb, Mb, eb)",
+   "3": "Check Eccentricity",
+   "4": "Tension-Controlled Case (e > eb)",
+   "5": "Interaction Diagram (γ)",
+   "6": "Bresler's Reciprocal Equation",
+   "7": "Minimum Eccentricity (emin)",
+   "8": "Design Interaction (Rn)",
+   "9": "Analysis Interaction (Kn)",
+   "10": "Nominal Axial Load (Pn)"
+  }
+ },
+ "73": {
+  "section": "Concrete Design",
+  "titles": {
+   "0": "Centroid of Concrete",
+   "1": "Get Forces",
+   "2": "Location of PC and Mu",
+   "3": "Euler's Buckling Load",
+   "4": "Magnitude Factored Moment, Mc",
+   "5": "Slender or Long Column",
+   "6": "Effective Eccentricity of Loading"
+  }
+ },
+ "74": {
+  "section": "Concrete Design",
+  "titles": {
+   "0": "End Restraint Factor (ψ)",
+   "1": "Radius of Gyration (r)"
+  }
+ },
+ "75": {
+  "section": "Concrete Design",
+  "titles": {
+   "0": "Lightweight Modification Factor",
+   "1": "Modification Factor (Fy ≠ 415)",
+   "2": "Floor Load Distribution",
+   "3": "Equivalent Uniform Load (One-Way)",
+   "4": "Reinforcement Ratio (SRB)",
+   "5": "Slab Ratio (m)",
+   "6": "Bar Spacing (ρ)",
+   "7": "Minimum Steel Ratio (ρmin)",
+   "8": "Maximum Bar Spacing",
+   "9": "Bar Spacing (Temperature Steel)"
+  }
+ },
+ "76": {
+  "section": "Concrete Design",
+  "titles": {
+   "0": "ACI Shear & Moment Coefficients"
+  }
+ },
+ "77": {
+  "section": "Concrete Design",
+  "titles": {
+   "0": "Minimum Dimension for Uplift",
+   "1": "Footing Dimensions",
+   "2": "Net Soil Pressure (qunet)",
+   "3": "Actual Shear (Vu act)",
+   "4": "Shear Capacity (Vucap)",
+   "5": "Average Effective Depth (dave)",
+   "6": "Critical Section for Punching",
+   "7": "Punching Perimeter (bo)",
+   "8": "Actual Punching Shear (Vupact)"
+  }
+ },
+ "78": {
+  "section": "Concrete Design",
+  "titles": {
+   "0": "Concrete Shear Capacity (Vucap)",
+   "1": "Column Location Factors (αs)",
+   "2": "Nominal Shear Stress (vn)",
+   "3": "Longitudinal & Transverse Bars (SRRB)",
+   "4": "Circular Column to Square",
+   "5": "Biaxial Bending Pressure",
+   "6": "Steel Column Base Plate"
+  }
+ },
+ "79": {
+  "section": "Concrete Design",
+  "titles": {
+   "0": "Footing Bar Layout",
+   "1": "Longitudinal Bars (Footing)",
+   "2": "Wall Footing Spacing",
+   "3": "Transverse Bars (Footing)",
+   "4": "Center Band Number of Bars"
+  }
+ },
+ "80": {
+  "section": "Concrete Design",
+  "titles": {
+   "0": "Combined Footing",
+   "1": "Minimum Length of Footing",
+   "2": "Minimum Width",
+   "3": "Maximum Factored Moment, Longitudinal",
+   "4": "One-Way Shear Critical Section",
+   "5": "Two-Way Shear Critical Section",
+   "6": "One-Way Shear (Vu, vn)",
+   "7": "Two-Way Shear (Vup, vn)"
+  }
+ },
+ "81": {
+  "section": "Concrete Design",
+  "titles": {
+   "0": "Pile Foundation Formula",
+   "1": "Factor Shear at Critical Section",
+   "2": "Critical Section for Wide Beam",
+   "3": "Wide Beam Shear (Vu)",
+   "4": "Nominal Flexural Strength",
+   "5": "Critical Section for Punching Shear",
+   "6": "Rectangular Punching Diagram",
+   "7": "Punching Perimeter (bo) for Rectangle",
+   "8": "Punching Shear Force (Vup)"
+  }
+ },
+ "82": {
+  "section": "Concrete Design",
+  "titles": {
+   "0": "Cantilever Retaining Wall",
+   "1": "Lateral Force (Fs)",
+   "2": "Factored Moment (Mu)",
+   "3": "Resistance Factor (Rn)",
+   "4": "Reinforcement Ratio (ρ)",
+   "5": "Bar Spacing (S)",
+   "6": "Overturning Moment (Mu)",
+   "7": "Pressure Distribution (e ≤ B/6)",
+   "8": "Eccentricity and qmax"
+  }
+ },
+ "83": {
+  "section": "Earthquake Engineering",
+  "titles": {
+   "0": "Fundamental Period (T)",
+   "1": "Base Shear (V)",
+   "2": "Lateral Force Distribution (Fx)",
+   "3": "Frame Orientation Diagram"
+  }
+ },
+ "84": {
+  "section": "Construction Management",
+  "titles": {
+   "0": "PERT-CPM Formulas"
+  }
+ },
+ "87": {
+  "section": "Trigonometry",
+  "titles": {
+   "0": "Right Triangle Equations",
+   "1": "Sine Law",
+   "2": "Reciprocal Relations",
+   "3": "Quotient Relations",
+   "4": "Sum and Difference of Two Angles",
+   "5": "Co-Function Identities"
+  }
+ },
+ "88": {
+  "section": "Trigonometry",
+  "titles": {
+   "0": "Double Angle Identities",
+   "1": "Half Angle Identities",
+   "2": "Period, Amplitude & Frequency",
+   "3": "Angle of Measurement",
+   "4": "Trig Functions on Unit Circle"
+  }
+ },
+ "89": {
+  "section": "Trigonometry",
+  "titles": {
+   "0": "Area of a Triangle",
+   "1": "Heron's Formula",
+   "2": "Area with Three Angles and Side",
+   "3": "Medians of a Triangle",
+   "4": "Altitudes of a Triangle",
+   "5": "Angle Bisectors of a Triangle"
+  }
+ },
+ "90": {
+  "section": "Spherical Trigonometry",
+  "titles": {
+   "0": "Spherical Defect",
+   "1": "Right Spherical Triangle",
+   "2": "Law of Cosines, Sides and Angles",
+   "3": "Napier's Rule",
+   "4": "Law of Sines",
+   "5": "Terrestrial Sphere Problems",
+   "6": "L'Huilier's Formula",
+   "7": "Area and Volume of Spherical Triangle",
+   "8": "Semiperimeter (s)"
+  }
+ },
+ "91": {
+  "section": "Plane Geometry",
+  "titles": {
+   "0": "Similar Polygons",
+   "1": "Properties of Polygons",
+   "2": "Sum of Interior and Exterior Angles",
+   "3": "Sum of Central Angles",
+   "4": "Apothem",
+   "5": "Regular Polygon Perimeter and Area",
+   "6": "Inscribed Triangle Diagram",
+   "7": "Polygon Circumscribing a Circle",
+   "8": "Inscribed Triangle Area (abc/4r)",
+   "9": "Triangle Circumscribing a Circle",
+   "10": "Escribed Circle Area"
+  }
+ },
+ "92": {
+  "section": "Plane Geometry",
+  "titles": {
+   "0": "Parallelogram",
+   "1": "Trapezoid",
+   "2": "Kite and Rhombus",
+   "3": "Trapezoid Area",
+   "4": "Parallelogram Area",
+   "5": "Trapezoid Median Area",
+   "6": "Trapezium (General Quadrilateral)",
+   "7": "Circles",
+   "8": "Two Chords Rule",
+   "9": "Two Secants Rule",
+   "10": "Chord Segments Product (ab = cd)",
+   "11": "Secant Tangent Rule"
+  }
+ },
+ "93": {
+  "section": "Solid Geometry",
+  "titles": {
+   "0": "Cyclic Quadrilateral",
+   "1": "Circle Theorem",
+   "2": "Ptolemy's Theorem",
+   "3": "Circumscribed Quadrilateral",
+   "4": "Prism Dimensions",
+   "5": "Prism Volume and Surface Area",
+   "6": "Truncated Prism",
+   "7": "Pyramid",
+   "8": "Cylinder",
+   "9": "Cone",
+   "10": "Prismatoid"
+  }
+ },
+ "94": {
+  "section": "Solid Geometry",
+  "titles": {
+   "0": "Sphere Diagram",
+   "1": "Spherical Segment (One Base)",
+   "2": "Sphere Volume and Surface Area",
+   "3": "Spherical Segment Volume",
+   "4": "Spherical Zone, Cone and Lune",
+   "5": "Frustum of a Pyramid"
+  }
+ },
+ "95": {
+  "section": "Analytic Geometry",
+  "titles": {
+   "0": "Distance Formula",
+   "1": "Distance (PLX Mode)",
+   "2": "Slope of a Line",
+   "3": "Midpoint Formula",
+   "4": "Point-Slope Form",
+   "5": "Intercept Form",
+   "6": "Slope-Intercept Form",
+   "7": "Angle Between Two Lines",
+   "8": "Distance from Point to Line"
+  }
+ },
+ "96": {
+  "section": "Analytic Geometry",
+  "titles": {
+   "0": "Conic Sections by Eccentricity",
+   "1": "Circle Diagram (Radius r)",
+   "2": "Circle Center at (h, k)",
+   "3": "Circle at Origin",
+   "4": "General Equation of a Circle",
+   "5": "Parabola Focus & Directrix",
+   "6": "Parabola Standard Equations",
+   "7": "Ellipse Standard Equations"
+  }
+ },
+ "97": {
+  "section": "Analytic Geometry",
+  "titles": {
+   "0": "Eccentricity (e, e')",
+   "1": "Area of Ellipse",
+   "2": "Perimeter of Ellipse",
+   "3": "Directrix of Ellipse",
+   "4": "Latus Rectum of Ellipse",
+   "5": "Ellipse Focal Property",
+   "6": "Hyperbola Standard Equations"
+  }
+ },
+ "98": {
+  "section": "Analytic Geometry",
+  "titles": {
+   "0": "Hyperbola Focal Radii",
+   "1": "Eccentricity",
+   "2": "Directrix",
+   "3": "Latus Rectum",
+   "4": "General Equation of Conic Section",
+   "5": "Conic Type by Signs",
+   "6": "Discriminant (B² − 4AC)",
+   "7": "Rotation of Axes",
+   "8": "Polar Coordinates"
+  }
+ },
+ "99": {
+  "section": "Algebra",
+  "titles": {
+   "0": "Laws of Exponents",
+   "1": "Properties of Radicals",
+   "2": "Properties of Logarithms",
+   "3": "rth Term of (a+b)^n",
+   "4": "Sum of Exponents (SOE)"
+  }
+ },
+ "100": {
+  "section": "Algebra",
+  "titles": {
+   "0": "Motion-Related Problem",
+   "1": "Work-Related Problem",
+   "2": "De Moivre's Theorem",
+   "3": "Clock-Related Problem"
+  }
+ },
+ "101": {
+  "section": "Algebra",
+  "titles": {
+   "0": "Arithmetic Progression (AP)",
+   "1": "Geometric Progression (GP)",
+   "2": "Infinite Geometric Progression",
+   "3": "AM, GM, HM Relations",
+   "4": "Mixture Problem",
+   "5": "Variation Problems"
+  }
+ },
+ "102": {
+  "section": "Statistics",
+  "titles": {
+   "0": "Mean",
+   "1": "Median",
+   "2": "Mode",
+   "3": "Grouped Measurement",
+   "4": "Grouped Mean",
+   "5": "Class Mark",
+   "6": "Estimated Median",
+   "7": "Estimated Mode",
+   "8": "Population Standard Deviation",
+   "9": "Sample Standard Deviation",
+   "10": "Coefficient of Range",
+   "11": "Coefficient of IQR"
+  }
+ },
+ "103": {
+  "section": "Statistics",
+  "titles": {
+   "0": "Permutation (nPr)",
+   "1": "Permutation Cases",
+   "2": "Cyclic Permutation",
+   "3": "Probability",
+   "4": "Multiplication Rule"
+  }
+ },
+ "104": {
+  "section": "Statistics",
+  "titles": {
+   "0": "Bayes' Theorem",
+   "1": "Independent Events",
+   "2": "Intersection Probability (A∩B)",
+   "3": "Addition Rule (OR Rule)",
+   "4": "Union Probability (A∪B)",
+   "5": "Mutually Exclusive Events",
+   "6": "Venn Diagram of Intersection",
+   "7": "Venn Diagram of Union",
+   "8": "Venn Diagram: Mutually Exclusive",
+   "9": "Complement of Event A (Ac)",
+   "10": "Multinomial Probability Distribution",
+   "11": "Negative Binomial Distribution",
+   "12": "Complement Probability Rule"
+  }
+ },
+ "105": {
+  "section": "Statistics",
+  "titles": {
+   "0": "Geometric Distribution",
+   "1": "Hypergeometric Distribution",
+   "2": "Multivariate Hypergeometric Distribution",
+   "3": "Poisson Probability Distribution",
+   "4": "Normal Probability Distribution",
+   "5": "Standard Normal Distribution (z)"
+  }
+ },
+ "106": {
+  "section": "Surveying",
+  "titles": {
+   "0": "Tape Error Correction Table",
+   "1": "Corrected Tape Length",
+   "2": "Temperature Correction (Ct)",
+   "3": "Pull and Sag Corrections",
+   "4": "Standard Error (Se)",
+   "5": "Closed Traverse Table",
+   "6": "Complex Number Output (x + yi)",
+   "7": "Departure and Latitude"
+  }
+ },
+ "107": {
+  "section": "Surveying",
+  "titles": {
+   "0": "Double Meridian Distance (DMD)",
+   "1": "Compass Rule",
+   "2": "Transit Rule",
+   "3": "Rec (r, θ) for Lat/Dep",
+   "4": "External Distance (E)",
+   "5": "Deflection Angle",
+   "6": "Degree of Curve"
+  }
+ },
+ "108": {
+  "section": "Surveying",
+  "titles": {
+   "0": "Spiral Curve Formulas"
+  }
+ },
+ "109": {
+  "section": "Surveying",
+  "titles": {
+   "0": "Symmetrical Parabolic Vertical Curve",
+   "1": "Unsymmetrical Vertical Curve"
+  }
+ },
+ "110": {
+  "section": "Surveying",
+  "titles": {
+   "0": "Level Cross Section Area",
+   "1": "Five-Level Cross Section Area",
+   "2": "Prismoidal Correction",
+   "3": "Trapezoidal Rule (Area)",
+   "4": "Simpson's 1/3 Rule",
+   "5": "CALTECH Area Computation",
+   "6": "CALTECH Volume Computation"
+  }
+ },
+ "111": {
+  "section": "Transportation Engineering",
+  "titles": {
+   "0": "Crash Rate per Segment",
+   "1": "Crash Rate per Intersection",
+   "2": "Severity Ratio (SR)",
+   "3": "Crash Rate Terms",
+   "4": "Intersection Traffic Terms",
+   "5": "Space Mean Speed (us)",
+   "6": "Rate of Flow (q)",
+   "7": "Minimum Time Headway (T)",
+   "8": "Flow from Headway (q = n/t)",
+   "9": "Peak Hour Factor (PHF)"
+  }
+ },
+ "112": {
+  "section": "Transportation Engineering",
+  "titles": {
+   "0": "Minimum Radius of Curvature",
+   "1": "Centrifugal Ratio & Impact Factor",
+   "2": "Stopping Sight Distance",
+   "3": "Sight Distance for Speed Change",
+   "4": "Deceleration (a)",
+   "5": "Braking Time (tb)",
+   "6": "Rigid Pavement Without Dowels",
+   "7": "Rigid Pavement at Edge",
+   "8": "Flexible Pavement Thickness",
+   "9": "Rigid Pavement at Center"
+  }
+ },
+ "113": {
+  "section": "Transportation Engineering",
+  "titles": {
+   "0": "Spacing of Bars",
+   "1": "Frog Number",
+   "2": "Number of Bars and Friction",
+   "3": "Quaywall Depth (Gravity, Sheet Pile)",
+   "4": "Shallow-Water Waves (d < L/2)",
+   "5": "Deep-Water Waves (d > L/2)",
+   "6": "Wave Velocity in Terms of L",
+   "7": "Wave Velocity in Terms of Period"
+  }
+ },
+ "114": {
+  "section": "Engineering Economy",
+  "titles": {
+   "0": "Simple Interest",
+   "1": "Defining Leap Year",
+   "2": "Divisible by 100, Century Years",
+   "3": "Divisible by 400",
+   "4": "Normal Year",
+   "5": "Compound Interest",
+   "6": "Compounding Period Table",
+   "7": "Leap Year",
+   "8": "Interest Rate per Period (i = r/m)",
+   "9": "Continuous Compounding",
+   "10": "General Compound Interest Formula"
+  }
+ },
+ "115": {
+  "section": "Engineering Economy",
+  "titles": {
+   "0": "Effective Rate of Interest",
+   "1": "Conversion of Nominal Rate",
+   "2": "Future Worth of Annuity (F/A)",
+   "3": "Future Worth Timing Note"
+  }
+ },
+ "116": {
+  "section": "Engineering Economy",
+  "titles": {
+   "0": "Gradient Series",
+   "1": "Arithmetic Gradient Series",
+   "2": "Geometric Gradient Series",
+   "3": "Calculator Regression for A and B",
+   "4": "Inflation",
+   "5": "Real Interest Rate",
+   "6": "Depreciation",
+   "7": "Straight Line Depreciation",
+   "8": "Sinking Fund Method",
+   "9": "Book Value (BVm)"
+  }
+ },
+ "117": {
+  "section": "Engineering Economy",
+  "titles": {
+   "0": "Declining Balance Method",
+   "1": "Book Value (Sum of Years Digits)",
+   "2": "Book Value (Declining Balance)",
+   "3": "Double Declining Balance",
+   "4": "Service Output Method",
+   "5": "Book Value (Double Declining)",
+   "6": "MACRS Method",
+   "7": "Book Value (Service Output)"
+  }
+ },
+ "118": {
+  "section": "Engineering Economy",
+  "titles": {
+   "0": "Capitalized Cost",
+   "1": "Break-Even Analysis",
+   "2": "Benefit-Cost Ratio (BCR)",
+   "3": "Rate of Return on Stock",
+   "4": "Stock Return with Growth"
+  }
+ },
+ "119": {
+  "section": "Engineering Economy",
+  "titles": {
+   "0": "Payback Period",
+   "1": "Capital Terms",
+   "2": "Simple Discount Rate"
+  }
+ },
+ "120": {
+  "section": "Integral Calculus",
+  "titles": {
+   "0": "Algebraic, Exponential & Logarithmic Integrals",
+   "1": "Wallis Formula",
+   "2": "Trigonometric Integrals",
+   "3": "Inverse Trigonometric Integrals"
+  }
+ },
+ "121": {
+  "section": "Integral Calculus",
+  "titles": {
+   "0": "Area by Horizontal Strip",
+   "1": "Area by Vertical Strip",
+   "2": "Length of Polar Curve",
+   "3": "Length of Arc (Rectangular)"
+  }
+ },
+ "122": {
+  "section": "Integral Calculus",
+  "titles": {
+   "0": "Circular Disk Method, Y-Axis",
+   "1": "Circular Disk Method, X-Axis",
+   "2": "Cylindrical Shell Method, Y-Axis",
+   "3": "Cylindrical Shell Method, X-Axis",
+   "4": "Shell Element, Y-Axis Rotation",
+   "5": "Shell Element, X-Axis Rotation"
+  }
+ },
+ "123": {
+  "section": "Integral Calculus",
+  "titles": {
+   "0": "Surface Area of Revolution",
+   "1": "Centroid of a Strip (xc, yc)",
+   "2": "Centroids by Integration",
+   "3": "Pappus Theorem (Distance R)",
+   "4": "Varignon's Theorem",
+   "5": "Pappus Theorem Volume"
+  }
+ },
+ "124": {
+  "section": "Integral Calculus",
+  "titles": {
+   "0": "Ix by Horizontal Strip",
+   "1": "Ix by Vertical Strip",
+   "2": "Iy by Horizontal Strip",
+   "3": "Polar Moment of Inertia (J)",
+   "4": "Product of Inertia and Radius of Gyration",
+   "5": "Motion Functions of Time"
+  }
+ },
+ "125": {
+  "section": "Differential Calculus",
+  "titles": {
+   "0": "Constant Rule",
+   "1": "Power Rule",
+   "2": "Product Rule",
+   "3": "Quotient Rule",
+   "4": "Chain Rule",
+   "5": "Indeterminate Forms",
+   "6": "L'Hospital's Rule",
+   "7": "Slope of a Curve",
+   "8": "Slope of Polar Curves",
+   "9": "Curvature of a Curve"
+  }
+ },
+ "126": {
+  "section": "Differential Calculus",
+  "titles": {
+   "0": "Exponential Functions",
+   "1": "Hyperbolic Functions",
+   "2": "Logarithmic Functions",
+   "3": "Trigonometric Functions"
+  }
+ },
+ "127": {
+  "section": "Differential Calculus",
+  "titles": {
+   "0": "Rational Asymptotes",
+   "1": "Angular Acceleration",
+   "2": "Motion/Flow Rates",
+   "3": "Time Rates",
+   "4": "Tangent Lines",
+   "5": "Normal Lines",
+   "6": "Subtangent (ST)",
+   "7": "Subnormal (SN)"
+  }
+ },
+ "128": {
+  "section": "Differential Equations",
+  "titles": {
+   "0": "Separation of Variables",
+   "1": "Exponential Growth & Decay",
+   "2": "Newton's Law of Cooling",
+   "3": "Half-Life",
+   "4": "Flow with Concentration",
+   "5": "Bernoulli Differential Equation",
+   "6": "Exact Differential Equation",
+   "7": "Homogeneous Differential Equation"
+  }
+ },
+ "129": {
+  "section": "Differential Equations",
+  "titles": {
+   "0": "Linear Differential Equation",
+   "1": "Inexact Differential Equation",
+   "2": "Ladder Formula (L^2/3)",
+   "3": "Max Volume of Box (Cube)",
+   "4": "Max Volume Open Box",
+   "5": "Ladder Proportions (x = √ab)",
+   "6": "Cylindrical Tank (D = 2H)",
+   "7": "Max Area / Min Perimeter",
+   "8": "Rectangle Inscribed in Ellipse",
+   "9": "Maxima/Minima Shortcuts"
+  }
+ },
+ "130": {
+  "section": "Construction Engineering",
+  "titles": {
+   "0": "Soil Condition",
+   "1": "Swell",
+   "2": "Shrinkage",
+   "3": "Load Factor",
+   "4": "Shrinkage Factor",
+   "5": "Triangular Spoil Bank",
+   "6": "Pit Excavation",
+   "7": "Conical Spoil Pile",
+   "8": "Excavator Production",
+   "9": "Hydraulic Excavator",
+   "10": "Drag Line",
+   "11": "Production Variables (C, S, V, B, E)"
+  }
+ },
+ "131": {
+  "section": "Construction Engineering",
+  "titles": {
+   "0": "Resistance Factor",
+   "1": "Rolling Resistance Factor (RRF)",
+   "2": "Effective Grade %",
+   "3": "Grade Resistance Factor (GRF)"
+  }
+ },
+ "132": {
+  "section": "Vector Analysis",
+  "titles": {
+   "0": "Unit Vector",
+   "1": "Dot Product",
+   "2": "Components Parallel",
+   "3": "Unit Vector Magnitude",
+   "4": "Cross Product",
+   "5": "Normal Acceleration",
+   "6": "Direction Cosines",
+   "7": "Area of Parallelogram and Triangle",
+   "8": "Volume of Parallelepiped"
+  }
+ },
+ "133": {
+  "section": "Physics",
+  "titles": {
+   "0": "Gradient (∇F)",
+   "1": "Divergence of A",
+   "2": "Universal Law of Gravitation",
+   "3": "Coulomb's Law",
+   "4": "Gravitational Constant (G)",
+   "5": "Coulomb Constant (k)",
+   "6": "Centripetal Force",
+   "7": "Heat Capacity",
+   "8": "Kepler's Third Law",
+   "9": "Specific Heat Capacity (C)",
+   "10": "Wave Velocity and Period",
+   "11": "Sound Intensity (dB)"
+  }
+ },
+ "134": {
+  "section": "Physics",
+  "titles": {
+   "0": "Law of Reflection",
+   "1": "Law of Refraction (Snell's Law)",
+   "2": "Wavelength-Index Relationship",
+   "3": "Total Internal Reflection",
+   "4": "Wave Speed by Water Depth"
+  }
+ },
+ "135": {
+  "section": "Refresher Notes",
+  "titles": {
+   "0": "Stiffness Factor",
+   "1": "Limit of Economic Haul",
+   "2": "Survey Error Formulas",
+   "3": "Harmonic Motion & Energy",
+   "4": "Simple Pendulum Period",
+   "5": "Efficiency & Orbital Velocity"
+  }
+ }
+}

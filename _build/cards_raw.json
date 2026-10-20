@@ -1,0 +1,7770 @@
+[
+ {
+  "file": "p001_00.jpg",
+  "w": 1150,
+  "h": 794,
+  "page": 1,
+  "idx": 0,
+  "category": "geotech"
+ },
+ {
+  "file": "p001_01.jpg",
+  "w": 1150,
+  "h": 402,
+  "page": 1,
+  "idx": 1,
+  "category": "geotech"
+ },
+ {
+  "file": "p001_02.jpg",
+  "w": 1042,
+  "h": 395,
+  "page": 1,
+  "idx": 2,
+  "category": "geotech"
+ },
+ {
+  "file": "p001_03.jpg",
+  "w": 1150,
+  "h": 505,
+  "page": 1,
+  "idx": 3,
+  "category": "geotech"
+ },
+ {
+  "file": "p001_04.jpg",
+  "w": 1150,
+  "h": 274,
+  "page": 1,
+  "idx": 4,
+  "category": "geotech"
+ },
+ {
+  "file": "p001_05.jpg",
+  "w": 1150,
+  "h": 226,
+  "page": 1,
+  "idx": 5,
+  "category": "geotech"
+ },
+ {
+  "file": "p001_06.jpg",
+  "w": 1150,
+  "h": 238,
+  "page": 1,
+  "idx": 6,
+  "category": "geotech"
+ },
+ {
+  "file": "p001_07.jpg",
+  "w": 539,
+  "h": 316,
+  "page": 1,
+  "idx": 7,
+  "category": "geotech"
+ },
+ {
+  "file": "p001_08.jpg",
+  "w": 1150,
+  "h": 273,
+  "page": 1,
+  "idx": 8,
+  "category": "geotech"
+ },
+ {
+  "file": "p001_09.jpg",
+  "w": 540,
+  "h": 314,
+  "page": 1,
+  "idx": 9,
+  "category": "geotech"
+ },
+ {
+  "file": "p001_10.jpg",
+  "w": 970,
+  "h": 2826,
+  "page": 1,
+  "idx": 10,
+  "category": "geotech"
+ },
+ {
+  "file": "p002_00.jpg",
+  "w": 920,
+  "h": 452,
+  "page": 2,
+  "idx": 0,
+  "category": "geotech"
+ },
+ {
+  "file": "p002_01.jpg",
+  "w": 901,
+  "h": 453,
+  "page": 2,
+  "idx": 1,
+  "category": "geotech"
+ },
+ {
+  "file": "p002_02.jpg",
+  "w": 1150,
+  "h": 703,
+  "page": 2,
+  "idx": 2,
+  "category": "geotech"
+ },
+ {
+  "file": "p002_03.jpg",
+  "w": 1150,
+  "h": 269,
+  "page": 2,
+  "idx": 3,
+  "category": "geotech"
+ },
+ {
+  "file": "p002_04.jpg",
+  "w": 265,
+  "h": 193,
+  "page": 2,
+  "idx": 4,
+  "category": "geotech"
+ },
+ {
+  "file": "p002_05.jpg",
+  "w": 548,
+  "h": 323,
+  "page": 2,
+  "idx": 5,
+  "category": "geotech"
+ },
+ {
+  "file": "p002_06.jpg",
+  "w": 1150,
+  "h": 1047,
+  "page": 2,
+  "idx": 6,
+  "category": "geotech"
+ },
+ {
+  "file": "p002_07.jpg",
+  "w": 1150,
+  "h": 2285,
+  "page": 2,
+  "idx": 7,
+  "category": "geotech"
+ },
+ {
+  "file": "p003_00.jpg",
+  "w": 1150,
+  "h": 508,
+  "page": 3,
+  "idx": 0,
+  "category": "geotech"
+ },
+ {
+  "file": "p003_01.jpg",
+  "w": 1095,
+  "h": 437,
+  "page": 3,
+  "idx": 1,
+  "category": "geotech"
+ },
+ {
+  "file": "p003_02.jpg",
+  "w": 1140,
+  "h": 440,
+  "page": 3,
+  "idx": 2,
+  "category": "geotech"
+ },
+ {
+  "file": "p003_03.jpg",
+  "w": 1150,
+  "h": 445,
+  "page": 3,
+  "idx": 3,
+  "category": "geotech"
+ },
+ {
+  "file": "p003_04.jpg",
+  "w": 1150,
+  "h": 431,
+  "page": 3,
+  "idx": 4,
+  "category": "geotech"
+ },
+ {
+  "file": "p003_05.jpg",
+  "w": 1023,
+  "h": 1560,
+  "page": 3,
+  "idx": 5,
+  "category": "geotech"
+ },
+ {
+  "file": "p003_06.jpg",
+  "w": 1150,
+  "h": 177,
+  "page": 3,
+  "idx": 6,
+  "category": "geotech"
+ },
+ {
+  "file": "p003_07.jpg",
+  "w": 1009,
+  "h": 546,
+  "page": 3,
+  "idx": 7,
+  "category": "geotech"
+ },
+ {
+  "file": "p003_08.jpg",
+  "w": 1097,
+  "h": 1112,
+  "page": 3,
+  "idx": 8,
+  "category": "geotech"
+ },
+ {
+  "file": "p003_09.jpg",
+  "w": 732,
+  "h": 479,
+  "page": 3,
+  "idx": 9,
+  "category": "geotech"
+ },
+ {
+  "file": "p003_10.jpg",
+  "w": 902,
+  "h": 1720,
+  "page": 3,
+  "idx": 10,
+  "category": "geotech"
+ },
+ {
+  "file": "p004_00.jpg",
+  "w": 1148,
+  "h": 912,
+  "page": 4,
+  "idx": 0,
+  "category": "geotech"
+ },
+ {
+  "file": "p004_01.jpg",
+  "w": 747,
+  "h": 459,
+  "page": 4,
+  "idx": 1,
+  "category": "geotech"
+ },
+ {
+  "file": "p004_02.jpg",
+  "w": 882,
+  "h": 649,
+  "page": 4,
+  "idx": 2,
+  "category": "geotech"
+ },
+ {
+  "file": "p004_03.jpg",
+  "w": 704,
+  "h": 584,
+  "page": 4,
+  "idx": 3,
+  "category": "geotech"
+ },
+ {
+  "file": "p004_04.jpg",
+  "w": 1150,
+  "h": 312,
+  "page": 4,
+  "idx": 4,
+  "category": "geotech"
+ },
+ {
+  "file": "p004_05.jpg",
+  "w": 658,
+  "h": 368,
+  "page": 4,
+  "idx": 5,
+  "category": "geotech"
+ },
+ {
+  "file": "p004_06.jpg",
+  "w": 1150,
+  "h": 344,
+  "page": 4,
+  "idx": 6,
+  "category": "geotech"
+ },
+ {
+  "file": "p004_07.jpg",
+  "w": 884,
+  "h": 655,
+  "page": 4,
+  "idx": 7,
+  "category": "geotech"
+ },
+ {
+  "file": "p004_08.jpg",
+  "w": 1150,
+  "h": 1082,
+  "page": 4,
+  "idx": 8,
+  "category": "geotech"
+ },
+ {
+  "file": "p005_00.jpg",
+  "w": 1150,
+  "h": 328,
+  "page": 5,
+  "idx": 0,
+  "category": "geotech"
+ },
+ {
+  "file": "p005_01.jpg",
+  "w": 1150,
+  "h": 184,
+  "page": 5,
+  "idx": 1,
+  "category": "geotech"
+ },
+ {
+  "file": "p005_02.jpg",
+  "w": 1150,
+  "h": 786,
+  "page": 5,
+  "idx": 2,
+  "category": "geotech"
+ },
+ {
+  "file": "p005_03.jpg",
+  "w": 1150,
+  "h": 1254,
+  "page": 5,
+  "idx": 3,
+  "category": "geotech"
+ },
+ {
+  "file": "p006_00.jpg",
+  "w": 848,
+  "h": 454,
+  "page": 6,
+  "idx": 0,
+  "category": "geotech"
+ },
+ {
+  "file": "p006_01.jpg",
+  "w": 852,
+  "h": 468,
+  "page": 6,
+  "idx": 1,
+  "category": "geotech"
+ },
+ {
+  "file": "p006_02.jpg",
+  "w": 1150,
+  "h": 430,
+  "page": 6,
+  "idx": 2,
+  "category": "geotech"
+ },
+ {
+  "file": "p006_03.jpg",
+  "w": 1150,
+  "h": 447,
+  "page": 6,
+  "idx": 3,
+  "category": "geotech"
+ },
+ {
+  "file": "p006_04.jpg",
+  "w": 893,
+  "h": 387,
+  "page": 6,
+  "idx": 4,
+  "category": "geotech"
+ },
+ {
+  "file": "p006_05.jpg",
+  "w": 654,
+  "h": 273,
+  "page": 6,
+  "idx": 5,
+  "category": "geotech"
+ },
+ {
+  "file": "p006_06.jpg",
+  "w": 1150,
+  "h": 508,
+  "page": 6,
+  "idx": 6,
+  "category": "geotech"
+ },
+ {
+  "file": "p006_07.jpg",
+  "w": 567,
+  "h": 193,
+  "page": 6,
+  "idx": 7,
+  "category": "geotech"
+ },
+ {
+  "file": "p006_08.jpg",
+  "w": 1150,
+  "h": 1095,
+  "page": 6,
+  "idx": 8,
+  "category": "geotech"
+ },
+ {
+  "file": "p006_09.jpg",
+  "w": 1150,
+  "h": 2763,
+  "page": 6,
+  "idx": 9,
+  "category": "geotech"
+ },
+ {
+  "file": "p007_00.jpg",
+  "w": 1056,
+  "h": 457,
+  "page": 7,
+  "idx": 0,
+  "category": "geotech"
+ },
+ {
+  "file": "p007_01.jpg",
+  "w": 1045,
+  "h": 462,
+  "page": 7,
+  "idx": 1,
+  "category": "geotech"
+ },
+ {
+  "file": "p007_02.jpg",
+  "w": 1150,
+  "h": 343,
+  "page": 7,
+  "idx": 2,
+  "category": "geotech"
+ },
+ {
+  "file": "p007_03.jpg",
+  "w": 791,
+  "h": 457,
+  "page": 7,
+  "idx": 3,
+  "category": "geotech"
+ },
+ {
+  "file": "p007_04.jpg",
+  "w": 1150,
+  "h": 561,
+  "page": 7,
+  "idx": 4,
+  "category": "geotech"
+ },
+ {
+  "file": "p007_05.jpg",
+  "w": 1150,
+  "h": 1727,
+  "page": 7,
+  "idx": 5,
+  "category": "geotech"
+ },
+ {
+  "file": "p007_06.jpg",
+  "w": 1150,
+  "h": 1291,
+  "page": 7,
+  "idx": 6,
+  "category": "geotech"
+ },
+ {
+  "file": "p008_00.jpg",
+  "w": 722,
+  "h": 471,
+  "page": 8,
+  "idx": 0,
+  "category": "geotech"
+ },
+ {
+  "file": "p008_01.jpg",
+  "w": 1150,
+  "h": 1211,
+  "page": 8,
+  "idx": 1,
+  "category": "geotech"
+ },
+ {
+  "file": "p008_02.jpg",
+  "w": 860,
+  "h": 324,
+  "page": 8,
+  "idx": 2,
+  "category": "geotech"
+ },
+ {
+  "file": "p008_03.jpg",
+  "w": 1150,
+  "h": 701,
+  "page": 8,
+  "idx": 3,
+  "category": "geotech"
+ },
+ {
+  "file": "p008_04.jpg",
+  "w": 1150,
+  "h": 599,
+  "page": 8,
+  "idx": 4,
+  "category": "geotech"
+ },
+ {
+  "file": "p009_00.jpg",
+  "w": 838,
+  "h": 478,
+  "page": 9,
+  "idx": 0,
+  "category": "geotech"
+ },
+ {
+  "file": "p009_01.jpg",
+  "w": 1062,
+  "h": 1732,
+  "page": 9,
+  "idx": 1,
+  "category": "geotech"
+ },
+ {
+  "file": "p009_02.jpg",
+  "w": 853,
+  "h": 776,
+  "page": 9,
+  "idx": 2,
+  "category": "geotech"
+ },
+ {
+  "file": "p009_03.jpg",
+  "w": 1150,
+  "h": 1071,
+  "page": 9,
+  "idx": 3,
+  "category": "geotech"
+ },
+ {
+  "file": "p009_04.jpg",
+  "w": 797,
+  "h": 1045,
+  "page": 9,
+  "idx": 4,
+  "category": "geotech"
+ },
+ {
+  "file": "p010_00.jpg",
+  "w": 1150,
+  "h": 845,
+  "page": 10,
+  "idx": 0,
+  "category": "geotech"
+ },
+ {
+  "file": "p010_01.jpg",
+  "w": 1150,
+  "h": 718,
+  "page": 10,
+  "idx": 1,
+  "category": "geotech"
+ },
+ {
+  "file": "p010_02.jpg",
+  "w": 580,
+  "h": 640,
+  "page": 10,
+  "idx": 2,
+  "category": "geotech"
+ },
+ {
+  "file": "p010_03.jpg",
+  "w": 590,
+  "h": 213,
+  "page": 10,
+  "idx": 3,
+  "category": "geotech"
+ },
+ {
+  "file": "p010_04.jpg",
+  "w": 599,
+  "h": 225,
+  "page": 10,
+  "idx": 4,
+  "category": "geotech"
+ },
+ {
+  "file": "p010_05.jpg",
+  "w": 1150,
+  "h": 988,
+  "page": 10,
+  "idx": 5,
+  "category": "geotech"
+ },
+ {
+  "file": "p011_00.jpg",
+  "w": 1150,
+  "h": 392,
+  "page": 11,
+  "idx": 0,
+  "category": "geotech"
+ },
+ {
+  "file": "p011_01.jpg",
+  "w": 1097,
+  "h": 479,
+  "page": 11,
+  "idx": 1,
+  "category": "geotech"
+ },
+ {
+  "file": "p011_02.jpg",
+  "w": 1150,
+  "h": 801,
+  "page": 11,
+  "idx": 2,
+  "category": "geotech"
+ },
+ {
+  "file": "p011_03.jpg",
+  "w": 1150,
+  "h": 184,
+  "page": 11,
+  "idx": 3,
+  "category": "geotech"
+ },
+ {
+  "file": "p011_04.jpg",
+  "w": 1150,
+  "h": 749,
+  "page": 11,
+  "idx": 4,
+  "category": "geotech"
+ },
+ {
+  "file": "p012_00.jpg",
+  "w": 1120,
+  "h": 465,
+  "page": 12,
+  "idx": 0,
+  "category": "geotech"
+ },
+ {
+  "file": "p012_01.jpg",
+  "w": 1150,
+  "h": 357,
+  "page": 12,
+  "idx": 1,
+  "category": "geotech"
+ },
+ {
+  "file": "p012_02.jpg",
+  "w": 1150,
+  "h": 334,
+  "page": 12,
+  "idx": 2,
+  "category": "geotech"
+ },
+ {
+  "file": "p012_03.jpg",
+  "w": 1150,
+  "h": 345,
+  "page": 12,
+  "idx": 3,
+  "category": "geotech"
+ },
+ {
+  "file": "p012_04.jpg",
+  "w": 1150,
+  "h": 316,
+  "page": 12,
+  "idx": 4,
+  "category": "geotech"
+ },
+ {
+  "file": "p012_05.jpg",
+  "w": 1150,
+  "h": 1360,
+  "page": 12,
+  "idx": 5,
+  "category": "geotech"
+ },
+ {
+  "file": "p012_06.jpg",
+  "w": 1150,
+  "h": 174,
+  "page": 12,
+  "idx": 6,
+  "category": "geotech"
+ },
+ {
+  "file": "p012_07.jpg",
+  "w": 824,
+  "h": 377,
+  "page": 12,
+  "idx": 7,
+  "category": "geotech"
+ },
+ {
+  "file": "p012_08.jpg",
+  "w": 1150,
+  "h": 943,
+  "page": 12,
+  "idx": 8,
+  "category": "geotech"
+ },
+ {
+  "file": "p012_09.jpg",
+  "w": 292,
+  "h": 586,
+  "page": 12,
+  "idx": 9,
+  "category": "geotech"
+ },
+ {
+  "file": "p013_00.jpg",
+  "w": 1069,
+  "h": 784,
+  "page": 13,
+  "idx": 0,
+  "category": "geotech"
+ },
+ {
+  "file": "p013_01.jpg",
+  "w": 876,
+  "h": 300,
+  "page": 13,
+  "idx": 1,
+  "category": "geotech"
+ },
+ {
+  "file": "p013_02.jpg",
+  "w": 897,
+  "h": 239,
+  "page": 13,
+  "idx": 2,
+  "category": "geotech"
+ },
+ {
+  "file": "p013_03.jpg",
+  "w": 694,
+  "h": 196,
+  "page": 13,
+  "idx": 3,
+  "category": "geotech"
+ },
+ {
+  "file": "p013_04.jpg",
+  "w": 446,
+  "h": 559,
+  "page": 13,
+  "idx": 4,
+  "category": "geotech"
+ },
+ {
+  "file": "p013_05.jpg",
+  "w": 1087,
+  "h": 1159,
+  "page": 13,
+  "idx": 5,
+  "category": "geotech"
+ },
+ {
+  "file": "p013_06.jpg",
+  "w": 1150,
+  "h": 584,
+  "page": 13,
+  "idx": 6,
+  "category": "geotech"
+ },
+ {
+  "file": "p013_07.jpg",
+  "w": 1150,
+  "h": 260,
+  "page": 13,
+  "idx": 7,
+  "category": "geotech"
+ },
+ {
+  "file": "p013_08.jpg",
+  "w": 1150,
+  "h": 174,
+  "page": 13,
+  "idx": 8,
+  "category": "geotech"
+ },
+ {
+  "file": "p013_09.jpg",
+  "w": 672,
+  "h": 323,
+  "page": 13,
+  "idx": 9,
+  "category": "geotech"
+ },
+ {
+  "file": "p013_10.jpg",
+  "w": 1150,
+  "h": 772,
+  "page": 13,
+  "idx": 10,
+  "category": "geotech"
+ },
+ {
+  "file": "p015_00.jpg",
+  "w": 1033,
+  "h": 776,
+  "page": 15,
+  "idx": 0,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p015_01.jpg",
+  "w": 892,
+  "h": 540,
+  "page": 15,
+  "idx": 1,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p015_02.jpg",
+  "w": 882,
+  "h": 461,
+  "page": 15,
+  "idx": 2,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p015_03.jpg",
+  "w": 1150,
+  "h": 546,
+  "page": 15,
+  "idx": 3,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p015_04.jpg",
+  "w": 1150,
+  "h": 2479,
+  "page": 15,
+  "idx": 4,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p015_05.jpg",
+  "w": 500,
+  "h": 315,
+  "page": 15,
+  "idx": 5,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p015_06.jpg",
+  "w": 1150,
+  "h": 1502,
+  "page": 15,
+  "idx": 6,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p016_00.jpg",
+  "w": 788,
+  "h": 340,
+  "page": 16,
+  "idx": 0,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p016_01.jpg",
+  "w": 1093,
+  "h": 318,
+  "page": 16,
+  "idx": 1,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p016_02.jpg",
+  "w": 658,
+  "h": 264,
+  "page": 16,
+  "idx": 2,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p016_03.jpg",
+  "w": 963,
+  "h": 295,
+  "page": 16,
+  "idx": 3,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p016_04.jpg",
+  "w": 1150,
+  "h": 832,
+  "page": 16,
+  "idx": 4,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p016_05.jpg",
+  "w": 943,
+  "h": 367,
+  "page": 16,
+  "idx": 5,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p016_06.jpg",
+  "w": 471,
+  "h": 476,
+  "page": 16,
+  "idx": 6,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p017_00.jpg",
+  "w": 1150,
+  "h": 1481,
+  "page": 17,
+  "idx": 0,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p017_01.jpg",
+  "w": 1150,
+  "h": 1178,
+  "page": 17,
+  "idx": 1,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p017_02.jpg",
+  "w": 659,
+  "h": 328,
+  "page": 17,
+  "idx": 2,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p017_03.jpg",
+  "w": 677,
+  "h": 451,
+  "page": 17,
+  "idx": 3,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p017_04.jpg",
+  "w": 835,
+  "h": 677,
+  "page": 17,
+  "idx": 4,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p017_05.jpg",
+  "w": 960,
+  "h": 1301,
+  "page": 17,
+  "idx": 5,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p017_06.jpg",
+  "w": 507,
+  "h": 168,
+  "page": 17,
+  "idx": 6,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p018_00.jpg",
+  "w": 1066,
+  "h": 620,
+  "page": 18,
+  "idx": 0,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p018_01.jpg",
+  "w": 1150,
+  "h": 312,
+  "page": 18,
+  "idx": 1,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p018_02.jpg",
+  "w": 584,
+  "h": 395,
+  "page": 18,
+  "idx": 2,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p018_03.jpg",
+  "w": 901,
+  "h": 284,
+  "page": 18,
+  "idx": 3,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p018_04.jpg",
+  "w": 454,
+  "h": 396,
+  "page": 18,
+  "idx": 4,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p018_05.jpg",
+  "w": 1150,
+  "h": 697,
+  "page": 18,
+  "idx": 5,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p018_06.jpg",
+  "w": 1150,
+  "h": 722,
+  "page": 18,
+  "idx": 6,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p018_07.jpg",
+  "w": 952,
+  "h": 918,
+  "page": 18,
+  "idx": 7,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p018_08.jpg",
+  "w": 1052,
+  "h": 757,
+  "page": 18,
+  "idx": 8,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p018_09.jpg",
+  "w": 569,
+  "h": 300,
+  "page": 18,
+  "idx": 9,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p018_10.jpg",
+  "w": 1150,
+  "h": 89,
+  "page": 18,
+  "idx": 10,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p018_11.jpg",
+  "w": 629,
+  "h": 340,
+  "page": 18,
+  "idx": 11,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p019_00.jpg",
+  "w": 817,
+  "h": 520,
+  "page": 19,
+  "idx": 0,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p019_01.jpg",
+  "w": 596,
+  "h": 324,
+  "page": 19,
+  "idx": 1,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p019_02.jpg",
+  "w": 1150,
+  "h": 1208,
+  "page": 19,
+  "idx": 2,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p020_00.jpg",
+  "w": 1150,
+  "h": 683,
+  "page": 20,
+  "idx": 0,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p021_00.jpg",
+  "w": 1150,
+  "h": 793,
+  "page": 21,
+  "idx": 0,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p021_01.jpg",
+  "w": 1150,
+  "h": 828,
+  "page": 21,
+  "idx": 1,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p021_02.jpg",
+  "w": 1150,
+  "h": 392,
+  "page": 21,
+  "idx": 2,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p021_03.jpg",
+  "w": 1150,
+  "h": 660,
+  "page": 21,
+  "idx": 3,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p021_04.jpg",
+  "w": 498,
+  "h": 206,
+  "page": 21,
+  "idx": 4,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p021_05.jpg",
+  "w": 735,
+  "h": 532,
+  "page": 21,
+  "idx": 5,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p022_00.jpg",
+  "w": 1150,
+  "h": 302,
+  "page": 22,
+  "idx": 0,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p022_01.jpg",
+  "w": 486,
+  "h": 320,
+  "page": 22,
+  "idx": 1,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p022_02.jpg",
+  "w": 936,
+  "h": 408,
+  "page": 22,
+  "idx": 2,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p022_03.jpg",
+  "w": 487,
+  "h": 216,
+  "page": 22,
+  "idx": 3,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p022_04.jpg",
+  "w": 555,
+  "h": 894,
+  "page": 22,
+  "idx": 4,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p022_05.jpg",
+  "w": 651,
+  "h": 501,
+  "page": 22,
+  "idx": 5,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p022_06.jpg",
+  "w": 1150,
+  "h": 367,
+  "page": 22,
+  "idx": 6,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p022_07.jpg",
+  "w": 442,
+  "h": 304,
+  "page": 22,
+  "idx": 7,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p023_00.jpg",
+  "w": 1150,
+  "h": 362,
+  "page": 23,
+  "idx": 0,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p023_01.jpg",
+  "w": 1150,
+  "h": 352,
+  "page": 23,
+  "idx": 1,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p023_02.jpg",
+  "w": 590,
+  "h": 907,
+  "page": 23,
+  "idx": 2,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p023_03.jpg",
+  "w": 1063,
+  "h": 771,
+  "page": 23,
+  "idx": 3,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p023_04.jpg",
+  "w": 1150,
+  "h": 1318,
+  "page": 23,
+  "idx": 4,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p023_05.jpg",
+  "w": 512,
+  "h": 200,
+  "page": 23,
+  "idx": 5,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p023_06.jpg",
+  "w": 415,
+  "h": 290,
+  "page": 23,
+  "idx": 6,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p023_07.jpg",
+  "w": 910,
+  "h": 221,
+  "page": 23,
+  "idx": 7,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p024_00.jpg",
+  "w": 1059,
+  "h": 1017,
+  "page": 24,
+  "idx": 0,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p024_01.jpg",
+  "w": 1150,
+  "h": 889,
+  "page": 24,
+  "idx": 1,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p024_02.jpg",
+  "w": 1150,
+  "h": 1197,
+  "page": 24,
+  "idx": 2,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p024_03.jpg",
+  "w": 745,
+  "h": 703,
+  "page": 24,
+  "idx": 3,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p024_04.jpg",
+  "w": 1045,
+  "h": 315,
+  "page": 24,
+  "idx": 4,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p024_05.jpg",
+  "w": 1150,
+  "h": 752,
+  "page": 24,
+  "idx": 5,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p024_06.jpg",
+  "w": 1150,
+  "h": 679,
+  "page": 24,
+  "idx": 6,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p024_07.jpg",
+  "w": 843,
+  "h": 769,
+  "page": 24,
+  "idx": 7,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p025_00.jpg",
+  "w": 867,
+  "h": 542,
+  "page": 25,
+  "idx": 0,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p025_01.jpg",
+  "w": 734,
+  "h": 722,
+  "page": 25,
+  "idx": 1,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p025_02.jpg",
+  "w": 1065,
+  "h": 315,
+  "page": 25,
+  "idx": 2,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p025_03.jpg",
+  "w": 772,
+  "h": 876,
+  "page": 25,
+  "idx": 3,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p025_04.jpg",
+  "w": 1065,
+  "h": 172,
+  "page": 25,
+  "idx": 4,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p025_05.jpg",
+  "w": 792,
+  "h": 799,
+  "page": 25,
+  "idx": 5,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p025_06.jpg",
+  "w": 968,
+  "h": 176,
+  "page": 25,
+  "idx": 6,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p025_07.jpg",
+  "w": 1150,
+  "h": 438,
+  "page": 25,
+  "idx": 7,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p026_00.jpg",
+  "w": 551,
+  "h": 219,
+  "page": 26,
+  "idx": 0,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p026_01.jpg",
+  "w": 443,
+  "h": 293,
+  "page": 26,
+  "idx": 1,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p026_02.jpg",
+  "w": 1150,
+  "h": 1355,
+  "page": 26,
+  "idx": 2,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p026_03.jpg",
+  "w": 356,
+  "h": 273,
+  "page": 26,
+  "idx": 3,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p026_04.jpg",
+  "w": 1150,
+  "h": 414,
+  "page": 26,
+  "idx": 4,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p026_05.jpg",
+  "w": 840,
+  "h": 504,
+  "page": 26,
+  "idx": 5,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p027_00.jpg",
+  "w": 1150,
+  "h": 997,
+  "page": 27,
+  "idx": 0,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p027_01.jpg",
+  "w": 1150,
+  "h": 519,
+  "page": 27,
+  "idx": 1,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p027_02.jpg",
+  "w": 1150,
+  "h": 291,
+  "page": 27,
+  "idx": 2,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p027_03.jpg",
+  "w": 1150,
+  "h": 284,
+  "page": 27,
+  "idx": 3,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p027_04.jpg",
+  "w": 596,
+  "h": 422,
+  "page": 27,
+  "idx": 4,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p027_05.jpg",
+  "w": 1150,
+  "h": 470,
+  "page": 27,
+  "idx": 5,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p027_06.jpg",
+  "w": 530,
+  "h": 216,
+  "page": 27,
+  "idx": 6,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p027_07.jpg",
+  "w": 736,
+  "h": 632,
+  "page": 27,
+  "idx": 7,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p027_08.jpg",
+  "w": 447,
+  "h": 180,
+  "page": 27,
+  "idx": 8,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p027_09.jpg",
+  "w": 360,
+  "h": 185,
+  "page": 27,
+  "idx": 9,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p027_10.jpg",
+  "w": 570,
+  "h": 184,
+  "page": 27,
+  "idx": 10,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p027_11.jpg",
+  "w": 356,
+  "h": 173,
+  "page": 27,
+  "idx": 11,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p028_00.jpg",
+  "w": 1150,
+  "h": 746,
+  "page": 28,
+  "idx": 0,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p028_01.jpg",
+  "w": 1150,
+  "h": 480,
+  "page": 28,
+  "idx": 1,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p028_02.jpg",
+  "w": 1150,
+  "h": 756,
+  "page": 28,
+  "idx": 2,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p028_03.jpg",
+  "w": 1150,
+  "h": 1049,
+  "page": 28,
+  "idx": 3,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p029_00.jpg",
+  "w": 1150,
+  "h": 1143,
+  "page": 29,
+  "idx": 0,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p029_01.jpg",
+  "w": 466,
+  "h": 321,
+  "page": 29,
+  "idx": 1,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p029_02.jpg",
+  "w": 1118,
+  "h": 329,
+  "page": 29,
+  "idx": 2,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p029_03.jpg",
+  "w": 537,
+  "h": 326,
+  "page": 29,
+  "idx": 3,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p029_04.jpg",
+  "w": 1150,
+  "h": 1661,
+  "page": 29,
+  "idx": 4,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p029_05.jpg",
+  "w": 1150,
+  "h": 1058,
+  "page": 29,
+  "idx": 5,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p029_06.jpg",
+  "w": 1150,
+  "h": 886,
+  "page": 29,
+  "idx": 6,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p030_00.jpg",
+  "w": 916,
+  "h": 768,
+  "page": 30,
+  "idx": 0,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p030_01.jpg",
+  "w": 897,
+  "h": 762,
+  "page": 30,
+  "idx": 1,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p030_02.jpg",
+  "w": 1015,
+  "h": 757,
+  "page": 30,
+  "idx": 2,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p030_03.jpg",
+  "w": 1150,
+  "h": 220,
+  "page": 30,
+  "idx": 3,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p030_04.jpg",
+  "w": 1150,
+  "h": 1295,
+  "page": 30,
+  "idx": 4,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p030_05.jpg",
+  "w": 659,
+  "h": 301,
+  "page": 30,
+  "idx": 5,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p030_06.jpg",
+  "w": 656,
+  "h": 474,
+  "page": 30,
+  "idx": 6,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p030_07.jpg",
+  "w": 1150,
+  "h": 436,
+  "page": 30,
+  "idx": 7,
+  "category": "hydraulics"
+ },
+ {
+  "file": "p033_00.jpg",
+  "w": 738,
+  "h": 438,
+  "page": 33,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p033_01.jpg",
+  "w": 885,
+  "h": 453,
+  "page": 33,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p033_02.jpg",
+  "w": 575,
+  "h": 449,
+  "page": 33,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p033_03.jpg",
+  "w": 601,
+  "h": 443,
+  "page": 33,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p033_04.jpg",
+  "w": 644,
+  "h": 453,
+  "page": 33,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p033_05.jpg",
+  "w": 844,
+  "h": 2551,
+  "page": 33,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p033_06.jpg",
+  "w": 907,
+  "h": 246,
+  "page": 33,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p033_07.jpg",
+  "w": 1150,
+  "h": 1241,
+  "page": 33,
+  "idx": 7,
+  "category": "structural"
+ },
+ {
+  "file": "p034_00.jpg",
+  "w": 1150,
+  "h": 279,
+  "page": 34,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p034_01.jpg",
+  "w": 880,
+  "h": 490,
+  "page": 34,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p034_02.jpg",
+  "w": 281,
+  "h": 130,
+  "page": 34,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p034_03.jpg",
+  "w": 468,
+  "h": 233,
+  "page": 34,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p034_04.jpg",
+  "w": 338,
+  "h": 448,
+  "page": 34,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p034_05.jpg",
+  "w": 1150,
+  "h": 936,
+  "page": 34,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p034_06.jpg",
+  "w": 551,
+  "h": 332,
+  "page": 34,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p034_07.jpg",
+  "w": 745,
+  "h": 324,
+  "page": 34,
+  "idx": 7,
+  "category": "structural"
+ },
+ {
+  "file": "p034_08.jpg",
+  "w": 556,
+  "h": 185,
+  "page": 34,
+  "idx": 8,
+  "category": "structural"
+ },
+ {
+  "file": "p034_09.jpg",
+  "w": 378,
+  "h": 188,
+  "page": 34,
+  "idx": 9,
+  "category": "structural"
+ },
+ {
+  "file": "p034_10.jpg",
+  "w": 689,
+  "h": 196,
+  "page": 34,
+  "idx": 10,
+  "category": "structural"
+ },
+ {
+  "file": "p034_11.jpg",
+  "w": 604,
+  "h": 199,
+  "page": 34,
+  "idx": 11,
+  "category": "structural"
+ },
+ {
+  "file": "p035_00.jpg",
+  "w": 1150,
+  "h": 384,
+  "page": 35,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p035_01.jpg",
+  "w": 1150,
+  "h": 263,
+  "page": 35,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p035_02.jpg",
+  "w": 1085,
+  "h": 437,
+  "page": 35,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p035_03.jpg",
+  "w": 1121,
+  "h": 433,
+  "page": 35,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p035_04.jpg",
+  "w": 637,
+  "h": 457,
+  "page": 35,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p035_05.jpg",
+  "w": 910,
+  "h": 343,
+  "page": 35,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p035_06.jpg",
+  "w": 1082,
+  "h": 601,
+  "page": 35,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p035_07.jpg",
+  "w": 740,
+  "h": 604,
+  "page": 35,
+  "idx": 7,
+  "category": "structural"
+ },
+ {
+  "file": "p035_08.jpg",
+  "w": 1095,
+  "h": 1245,
+  "page": 35,
+  "idx": 8,
+  "category": "structural"
+ },
+ {
+  "file": "p035_09.jpg",
+  "w": 1099,
+  "h": 586,
+  "page": 35,
+  "idx": 9,
+  "category": "structural"
+ },
+ {
+  "file": "p036_00.jpg",
+  "w": 569,
+  "h": 453,
+  "page": 36,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p036_01.jpg",
+  "w": 442,
+  "h": 464,
+  "page": 36,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p036_02.jpg",
+  "w": 668,
+  "h": 299,
+  "page": 36,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p036_03.jpg",
+  "w": 691,
+  "h": 460,
+  "page": 36,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p036_04.jpg",
+  "w": 699,
+  "h": 304,
+  "page": 36,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p036_05.jpg",
+  "w": 446,
+  "h": 317,
+  "page": 36,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p036_06.jpg",
+  "w": 609,
+  "h": 179,
+  "page": 36,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p036_07.jpg",
+  "w": 560,
+  "h": 281,
+  "page": 36,
+  "idx": 7,
+  "category": "structural"
+ },
+ {
+  "file": "p036_08.jpg",
+  "w": 663,
+  "h": 1219,
+  "page": 36,
+  "idx": 8,
+  "category": "structural"
+ },
+ {
+  "file": "p037_00.jpg",
+  "w": 902,
+  "h": 435,
+  "page": 37,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p037_01.jpg",
+  "w": 674,
+  "h": 448,
+  "page": 37,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p037_02.jpg",
+  "w": 736,
+  "h": 455,
+  "page": 37,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p037_03.jpg",
+  "w": 368,
+  "h": 131,
+  "page": 37,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p037_04.jpg",
+  "w": 354,
+  "h": 654,
+  "page": 37,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p037_05.jpg",
+  "w": 354,
+  "h": 612,
+  "page": 37,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p037_06.jpg",
+  "w": 956,
+  "h": 312,
+  "page": 37,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p037_07.jpg",
+  "w": 817,
+  "h": 312,
+  "page": 37,
+  "idx": 7,
+  "category": "structural"
+ },
+ {
+  "file": "p037_08.jpg",
+  "w": 1022,
+  "h": 290,
+  "page": 37,
+  "idx": 8,
+  "category": "structural"
+ },
+ {
+  "file": "p037_09.jpg",
+  "w": 1150,
+  "h": 1527,
+  "page": 37,
+  "idx": 9,
+  "category": "structural"
+ },
+ {
+  "file": "p038_00.jpg",
+  "w": 1065,
+  "h": 247,
+  "page": 38,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p038_01.jpg",
+  "w": 1150,
+  "h": 209,
+  "page": 38,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p038_02.jpg",
+  "w": 1150,
+  "h": 494,
+  "page": 38,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p038_03.jpg",
+  "w": 515,
+  "h": 787,
+  "page": 38,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p038_04.jpg",
+  "w": 898,
+  "h": 991,
+  "page": 38,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p038_05.jpg",
+  "w": 504,
+  "h": 196,
+  "page": 38,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p038_06.jpg",
+  "w": 749,
+  "h": 464,
+  "page": 38,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p039_00.jpg",
+  "w": 1064,
+  "h": 626,
+  "page": 39,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p039_01.jpg",
+  "w": 383,
+  "h": 320,
+  "page": 39,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p039_02.jpg",
+  "w": 1150,
+  "h": 713,
+  "page": 39,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p039_03.jpg",
+  "w": 980,
+  "h": 800,
+  "page": 39,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p039_04.jpg",
+  "w": 717,
+  "h": 638,
+  "page": 39,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p039_05.jpg",
+  "w": 935,
+  "h": 766,
+  "page": 39,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p039_06.jpg",
+  "w": 924,
+  "h": 315,
+  "page": 39,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p039_07.jpg",
+  "w": 1150,
+  "h": 480,
+  "page": 39,
+  "idx": 7,
+  "category": "structural"
+ },
+ {
+  "file": "p039_08.jpg",
+  "w": 1150,
+  "h": 633,
+  "page": 39,
+  "idx": 8,
+  "category": "structural"
+ },
+ {
+  "file": "p039_09.jpg",
+  "w": 1150,
+  "h": 146,
+  "page": 39,
+  "idx": 9,
+  "category": "structural"
+ },
+ {
+  "file": "p039_10.jpg",
+  "w": 384,
+  "h": 204,
+  "page": 39,
+  "idx": 10,
+  "category": "structural"
+ },
+ {
+  "file": "p040_00.jpg",
+  "w": 1073,
+  "h": 442,
+  "page": 40,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p040_01.jpg",
+  "w": 1104,
+  "h": 764,
+  "page": 40,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p040_02.jpg",
+  "w": 1058,
+  "h": 456,
+  "page": 40,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p040_03.jpg",
+  "w": 1150,
+  "h": 522,
+  "page": 40,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p040_04.jpg",
+  "w": 470,
+  "h": 179,
+  "page": 40,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p040_05.jpg",
+  "w": 1150,
+  "h": 339,
+  "page": 40,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p041_00.jpg",
+  "w": 1150,
+  "h": 817,
+  "page": 41,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p041_01.jpg",
+  "w": 672,
+  "h": 299,
+  "page": 41,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p041_02.jpg",
+  "w": 1150,
+  "h": 496,
+  "page": 41,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p041_03.jpg",
+  "w": 226,
+  "h": 640,
+  "page": 41,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p041_04.jpg",
+  "w": 1142,
+  "h": 792,
+  "page": 41,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p041_05.jpg",
+  "w": 1150,
+  "h": 545,
+  "page": 41,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p041_06.jpg",
+  "w": 1124,
+  "h": 280,
+  "page": 41,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p041_07.jpg",
+  "w": 1020,
+  "h": 317,
+  "page": 41,
+  "idx": 7,
+  "category": "structural"
+ },
+ {
+  "file": "p041_08.jpg",
+  "w": 1077,
+  "h": 309,
+  "page": 41,
+  "idx": 8,
+  "category": "structural"
+ },
+ {
+  "file": "p041_09.jpg",
+  "w": 987,
+  "h": 271,
+  "page": 41,
+  "idx": 9,
+  "category": "structural"
+ },
+ {
+  "file": "p041_10.jpg",
+  "w": 190,
+  "h": 125,
+  "page": 41,
+  "idx": 10,
+  "category": "structural"
+ },
+ {
+  "file": "p041_11.jpg",
+  "w": 400,
+  "h": 340,
+  "page": 41,
+  "idx": 11,
+  "category": "structural"
+ },
+ {
+  "file": "p042_00.jpg",
+  "w": 250,
+  "h": 402,
+  "page": 42,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p042_01.jpg",
+  "w": 916,
+  "h": 124,
+  "page": 42,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p042_02.jpg",
+  "w": 509,
+  "h": 256,
+  "page": 42,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p042_03.jpg",
+  "w": 509,
+  "h": 266,
+  "page": 42,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p043_00.jpg",
+  "w": 1150,
+  "h": 391,
+  "page": 43,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p043_01.jpg",
+  "w": 569,
+  "h": 356,
+  "page": 43,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p043_02.jpg",
+  "w": 930,
+  "h": 312,
+  "page": 43,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p043_03.jpg",
+  "w": 607,
+  "h": 593,
+  "page": 43,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p043_04.jpg",
+  "w": 926,
+  "h": 432,
+  "page": 43,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p043_05.jpg",
+  "w": 911,
+  "h": 459,
+  "page": 43,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p043_06.jpg",
+  "w": 615,
+  "h": 596,
+  "page": 43,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p043_07.jpg",
+  "w": 1150,
+  "h": 297,
+  "page": 43,
+  "idx": 7,
+  "category": "structural"
+ },
+ {
+  "file": "p044_00.jpg",
+  "w": 1005,
+  "h": 737,
+  "page": 44,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p044_01.jpg",
+  "w": 643,
+  "h": 284,
+  "page": 44,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p044_02.jpg",
+  "w": 894,
+  "h": 137,
+  "page": 44,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p045_00.jpg",
+  "w": 671,
+  "h": 224,
+  "page": 45,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p045_01.jpg",
+  "w": 700,
+  "h": 435,
+  "page": 45,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p045_02.jpg",
+  "w": 1143,
+  "h": 416,
+  "page": 45,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p045_03.jpg",
+  "w": 743,
+  "h": 283,
+  "page": 45,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p045_04.jpg",
+  "w": 708,
+  "h": 272,
+  "page": 45,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p046_00.jpg",
+  "w": 1150,
+  "h": 1554,
+  "page": 46,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p046_01.jpg",
+  "w": 1150,
+  "h": 822,
+  "page": 46,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p047_00.jpg",
+  "w": 758,
+  "h": 380,
+  "page": 47,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p047_01.jpg",
+  "w": 848,
+  "h": 435,
+  "page": 47,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p047_02.jpg",
+  "w": 653,
+  "h": 298,
+  "page": 47,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p047_03.jpg",
+  "w": 801,
+  "h": 286,
+  "page": 47,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p047_04.jpg",
+  "w": 368,
+  "h": 173,
+  "page": 47,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p047_05.jpg",
+  "w": 1150,
+  "h": 805,
+  "page": 47,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p047_06.jpg",
+  "w": 612,
+  "h": 432,
+  "page": 47,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p048_00.jpg",
+  "w": 1150,
+  "h": 379,
+  "page": 48,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p048_01.jpg",
+  "w": 552,
+  "h": 123,
+  "page": 48,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p048_02.jpg",
+  "w": 805,
+  "h": 1009,
+  "page": 48,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p048_03.jpg",
+  "w": 548,
+  "h": 304,
+  "page": 48,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p048_04.jpg",
+  "w": 557,
+  "h": 123,
+  "page": 48,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p048_05.jpg",
+  "w": 818,
+  "h": 1012,
+  "page": 48,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p048_06.jpg",
+  "w": 1141,
+  "h": 632,
+  "page": 48,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p048_07.jpg",
+  "w": 556,
+  "h": 268,
+  "page": 48,
+  "idx": 7,
+  "category": "structural"
+ },
+ {
+  "file": "p048_08.jpg",
+  "w": 537,
+  "h": 276,
+  "page": 48,
+  "idx": 8,
+  "category": "structural"
+ },
+ {
+  "file": "p049_00.jpg",
+  "w": 1150,
+  "h": 668,
+  "page": 49,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p050_00.jpg",
+  "w": 1150,
+  "h": 666,
+  "page": 50,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p051_00.jpg",
+  "w": 631,
+  "h": 448,
+  "page": 51,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p051_01.jpg",
+  "w": 1049,
+  "h": 440,
+  "page": 51,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p051_02.jpg",
+  "w": 560,
+  "h": 448,
+  "page": 51,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p051_03.jpg",
+  "w": 782,
+  "h": 435,
+  "page": 51,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p051_04.jpg",
+  "w": 1005,
+  "h": 306,
+  "page": 51,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p051_05.jpg",
+  "w": 1150,
+  "h": 365,
+  "page": 51,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p051_06.jpg",
+  "w": 714,
+  "h": 376,
+  "page": 51,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p051_07.jpg",
+  "w": 1150,
+  "h": 1262,
+  "page": 51,
+  "idx": 7,
+  "category": "structural"
+ },
+ {
+  "file": "p051_08.jpg",
+  "w": 612,
+  "h": 133,
+  "page": 51,
+  "idx": 8,
+  "category": "structural"
+ },
+ {
+  "file": "p051_09.jpg",
+  "w": 694,
+  "h": 285,
+  "page": 51,
+  "idx": 9,
+  "category": "structural"
+ },
+ {
+  "file": "p051_10.jpg",
+  "w": 423,
+  "h": 306,
+  "page": 51,
+  "idx": 10,
+  "category": "structural"
+ },
+ {
+  "file": "p051_11.jpg",
+  "w": 1150,
+  "h": 859,
+  "page": 51,
+  "idx": 11,
+  "category": "structural"
+ },
+ {
+  "file": "p052_00.jpg",
+  "w": 1111,
+  "h": 453,
+  "page": 52,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p052_01.jpg",
+  "w": 1082,
+  "h": 1222,
+  "page": 52,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p052_02.jpg",
+  "w": 1150,
+  "h": 1127,
+  "page": 52,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p052_03.jpg",
+  "w": 1150,
+  "h": 261,
+  "page": 52,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p052_04.jpg",
+  "w": 1150,
+  "h": 104,
+  "page": 52,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p052_05.jpg",
+  "w": 928,
+  "h": 645,
+  "page": 52,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p052_06.jpg",
+  "w": 792,
+  "h": 1088,
+  "page": 52,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p052_07.jpg",
+  "w": 907,
+  "h": 320,
+  "page": 52,
+  "idx": 7,
+  "category": "structural"
+ },
+ {
+  "file": "p052_08.jpg",
+  "w": 688,
+  "h": 178,
+  "page": 52,
+  "idx": 8,
+  "category": "structural"
+ },
+ {
+  "file": "p053_00.jpg",
+  "w": 902,
+  "h": 928,
+  "page": 53,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p053_01.jpg",
+  "w": 1150,
+  "h": 296,
+  "page": 53,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p053_02.jpg",
+  "w": 1150,
+  "h": 368,
+  "page": 53,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p053_03.jpg",
+  "w": 1088,
+  "h": 465,
+  "page": 53,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p053_04.jpg",
+  "w": 741,
+  "h": 768,
+  "page": 53,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p053_05.jpg",
+  "w": 330,
+  "h": 319,
+  "page": 53,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p053_06.jpg",
+  "w": 1080,
+  "h": 457,
+  "page": 53,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p053_07.jpg",
+  "w": 378,
+  "h": 284,
+  "page": 53,
+  "idx": 7,
+  "category": "structural"
+ },
+ {
+  "file": "p053_08.jpg",
+  "w": 1150,
+  "h": 552,
+  "page": 53,
+  "idx": 8,
+  "category": "structural"
+ },
+ {
+  "file": "p053_09.jpg",
+  "w": 1150,
+  "h": 961,
+  "page": 53,
+  "idx": 9,
+  "category": "structural"
+ },
+ {
+  "file": "p054_00.jpg",
+  "w": 612,
+  "h": 666,
+  "page": 54,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p054_01.jpg",
+  "w": 1150,
+  "h": 572,
+  "page": 54,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p054_02.jpg",
+  "w": 304,
+  "h": 296,
+  "page": 54,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p054_03.jpg",
+  "w": 714,
+  "h": 576,
+  "page": 54,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p054_04.jpg",
+  "w": 1016,
+  "h": 943,
+  "page": 54,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p054_05.jpg",
+  "w": 1150,
+  "h": 796,
+  "page": 54,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p054_06.jpg",
+  "w": 435,
+  "h": 166,
+  "page": 54,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p055_00.jpg",
+  "w": 552,
+  "h": 436,
+  "page": 55,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p055_01.jpg",
+  "w": 812,
+  "h": 440,
+  "page": 55,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p055_02.jpg",
+  "w": 1040,
+  "h": 454,
+  "page": 55,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p055_03.jpg",
+  "w": 886,
+  "h": 463,
+  "page": 55,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p055_04.jpg",
+  "w": 690,
+  "h": 390,
+  "page": 55,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p055_05.jpg",
+  "w": 848,
+  "h": 633,
+  "page": 55,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p055_06.jpg",
+  "w": 848,
+  "h": 312,
+  "page": 55,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p055_07.jpg",
+  "w": 529,
+  "h": 282,
+  "page": 55,
+  "idx": 7,
+  "category": "structural"
+ },
+ {
+  "file": "p055_08.jpg",
+  "w": 486,
+  "h": 276,
+  "page": 55,
+  "idx": 8,
+  "category": "structural"
+ },
+ {
+  "file": "p055_09.jpg",
+  "w": 851,
+  "h": 296,
+  "page": 55,
+  "idx": 9,
+  "category": "structural"
+ },
+ {
+  "file": "p055_10.jpg",
+  "w": 1061,
+  "h": 766,
+  "page": 55,
+  "idx": 10,
+  "category": "structural"
+ },
+ {
+  "file": "p055_11.jpg",
+  "w": 868,
+  "h": 273,
+  "page": 55,
+  "idx": 11,
+  "category": "structural"
+ },
+ {
+  "file": "p056_00.jpg",
+  "w": 1147,
+  "h": 1046,
+  "page": 56,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p056_01.jpg",
+  "w": 1095,
+  "h": 782,
+  "page": 56,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p056_02.jpg",
+  "w": 1150,
+  "h": 853,
+  "page": 56,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p056_03.jpg",
+  "w": 538,
+  "h": 366,
+  "page": 56,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p056_04.jpg",
+  "w": 1082,
+  "h": 307,
+  "page": 56,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p056_05.jpg",
+  "w": 508,
+  "h": 348,
+  "page": 56,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p056_06.jpg",
+  "w": 423,
+  "h": 245,
+  "page": 56,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p056_07.jpg",
+  "w": 297,
+  "h": 195,
+  "page": 56,
+  "idx": 7,
+  "category": "structural"
+ },
+ {
+  "file": "p056_08.jpg",
+  "w": 463,
+  "h": 258,
+  "page": 56,
+  "idx": 8,
+  "category": "structural"
+ },
+ {
+  "file": "p056_09.jpg",
+  "w": 989,
+  "h": 352,
+  "page": 56,
+  "idx": 9,
+  "category": "structural"
+ },
+ {
+  "file": "p056_10.jpg",
+  "w": 456,
+  "h": 289,
+  "page": 56,
+  "idx": 10,
+  "category": "structural"
+ },
+ {
+  "file": "p056_11.jpg",
+  "w": 882,
+  "h": 1093,
+  "page": 56,
+  "idx": 11,
+  "category": "structural"
+ },
+ {
+  "file": "p057_00.jpg",
+  "w": 811,
+  "h": 471,
+  "page": 57,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p057_01.jpg",
+  "w": 1126,
+  "h": 459,
+  "page": 57,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p057_02.jpg",
+  "w": 927,
+  "h": 314,
+  "page": 57,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p057_03.jpg",
+  "w": 957,
+  "h": 303,
+  "page": 57,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p057_04.jpg",
+  "w": 966,
+  "h": 986,
+  "page": 57,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p057_05.jpg",
+  "w": 635,
+  "h": 198,
+  "page": 57,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p057_06.jpg",
+  "w": 993,
+  "h": 307,
+  "page": 57,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p057_07.jpg",
+  "w": 988,
+  "h": 660,
+  "page": 57,
+  "idx": 7,
+  "category": "structural"
+ },
+ {
+  "file": "p057_08.jpg",
+  "w": 787,
+  "h": 304,
+  "page": 57,
+  "idx": 8,
+  "category": "structural"
+ },
+ {
+  "file": "p057_09.jpg",
+  "w": 504,
+  "h": 581,
+  "page": 57,
+  "idx": 9,
+  "category": "structural"
+ },
+ {
+  "file": "p057_10.jpg",
+  "w": 579,
+  "h": 281,
+  "page": 57,
+  "idx": 10,
+  "category": "structural"
+ },
+ {
+  "file": "p057_11.jpg",
+  "w": 1150,
+  "h": 1152,
+  "page": 57,
+  "idx": 11,
+  "category": "structural"
+ },
+ {
+  "file": "p057_12.jpg",
+  "w": 652,
+  "h": 1094,
+  "page": 57,
+  "idx": 12,
+  "category": "structural"
+ },
+ {
+  "file": "p058_00.jpg",
+  "w": 1150,
+  "h": 401,
+  "page": 58,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p058_01.jpg",
+  "w": 1150,
+  "h": 446,
+  "page": 58,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p058_02.jpg",
+  "w": 1143,
+  "h": 485,
+  "page": 58,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p058_03.jpg",
+  "w": 1150,
+  "h": 404,
+  "page": 58,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p058_04.jpg",
+  "w": 1093,
+  "h": 2087,
+  "page": 58,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p058_05.jpg",
+  "w": 964,
+  "h": 1251,
+  "page": 58,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p058_06.jpg",
+  "w": 903,
+  "h": 197,
+  "page": 58,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p059_00.jpg",
+  "w": 1036,
+  "h": 454,
+  "page": 59,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p059_01.jpg",
+  "w": 954,
+  "h": 461,
+  "page": 59,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p059_02.jpg",
+  "w": 1135,
+  "h": 320,
+  "page": 59,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p059_03.jpg",
+  "w": 979,
+  "h": 464,
+  "page": 59,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p059_04.jpg",
+  "w": 988,
+  "h": 758,
+  "page": 59,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p059_05.jpg",
+  "w": 1034,
+  "h": 612,
+  "page": 59,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p059_06.jpg",
+  "w": 600,
+  "h": 452,
+  "page": 59,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p059_07.jpg",
+  "w": 1000,
+  "h": 236,
+  "page": 59,
+  "idx": 7,
+  "category": "structural"
+ },
+ {
+  "file": "p059_08.jpg",
+  "w": 633,
+  "h": 202,
+  "page": 59,
+  "idx": 8,
+  "category": "structural"
+ },
+ {
+  "file": "p059_09.jpg",
+  "w": 1150,
+  "h": 353,
+  "page": 59,
+  "idx": 9,
+  "category": "structural"
+ },
+ {
+  "file": "p059_10.jpg",
+  "w": 648,
+  "h": 195,
+  "page": 59,
+  "idx": 10,
+  "category": "structural"
+ },
+ {
+  "file": "p060_00.jpg",
+  "w": 528,
+  "h": 325,
+  "page": 60,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p060_01.jpg",
+  "w": 933,
+  "h": 438,
+  "page": 60,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p060_02.jpg",
+  "w": 840,
+  "h": 457,
+  "page": 60,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p060_03.jpg",
+  "w": 891,
+  "h": 463,
+  "page": 60,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p060_04.jpg",
+  "w": 863,
+  "h": 1093,
+  "page": 60,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p060_05.jpg",
+  "w": 1094,
+  "h": 276,
+  "page": 60,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p060_06.jpg",
+  "w": 869,
+  "h": 186,
+  "page": 60,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p060_07.jpg",
+  "w": 354,
+  "h": 207,
+  "page": 60,
+  "idx": 7,
+  "category": "structural"
+ },
+ {
+  "file": "p061_00.jpg",
+  "w": 1150,
+  "h": 264,
+  "page": 61,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p061_01.jpg",
+  "w": 1150,
+  "h": 254,
+  "page": 61,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p061_02.jpg",
+  "w": 692,
+  "h": 342,
+  "page": 61,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p061_03.jpg",
+  "w": 1058,
+  "h": 488,
+  "page": 61,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p061_04.jpg",
+  "w": 1150,
+  "h": 332,
+  "page": 61,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p061_05.jpg",
+  "w": 1150,
+  "h": 366,
+  "page": 61,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p061_06.jpg",
+  "w": 1150,
+  "h": 468,
+  "page": 61,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p061_07.jpg",
+  "w": 410,
+  "h": 219,
+  "page": 61,
+  "idx": 7,
+  "category": "structural"
+ },
+ {
+  "file": "p061_08.jpg",
+  "w": 296,
+  "h": 120,
+  "page": 61,
+  "idx": 8,
+  "category": "structural"
+ },
+ {
+  "file": "p061_09.jpg",
+  "w": 769,
+  "h": 562,
+  "page": 61,
+  "idx": 9,
+  "category": "structural"
+ },
+ {
+  "file": "p061_10.jpg",
+  "w": 920,
+  "h": 535,
+  "page": 61,
+  "idx": 10,
+  "category": "structural"
+ },
+ {
+  "file": "p061_11.jpg",
+  "w": 729,
+  "h": 216,
+  "page": 61,
+  "idx": 11,
+  "category": "structural"
+ },
+ {
+  "file": "p061_12.jpg",
+  "w": 481,
+  "h": 559,
+  "page": 61,
+  "idx": 12,
+  "category": "structural"
+ },
+ {
+  "file": "p062_00.jpg",
+  "w": 1150,
+  "h": 146,
+  "page": 62,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p062_01.jpg",
+  "w": 1150,
+  "h": 649,
+  "page": 62,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p062_02.jpg",
+  "w": 1150,
+  "h": 366,
+  "page": 62,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p062_03.jpg",
+  "w": 680,
+  "h": 1210,
+  "page": 62,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p062_04.jpg",
+  "w": 548,
+  "h": 190,
+  "page": 62,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p062_05.jpg",
+  "w": 517,
+  "h": 320,
+  "page": 62,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p063_00.jpg",
+  "w": 1150,
+  "h": 369,
+  "page": 63,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p063_01.jpg",
+  "w": 1150,
+  "h": 397,
+  "page": 63,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p063_02.jpg",
+  "w": 1150,
+  "h": 999,
+  "page": 63,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p063_03.jpg",
+  "w": 688,
+  "h": 330,
+  "page": 63,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p063_04.jpg",
+  "w": 807,
+  "h": 288,
+  "page": 63,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p063_05.jpg",
+  "w": 1082,
+  "h": 246,
+  "page": 63,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p063_06.jpg",
+  "w": 1150,
+  "h": 1015,
+  "page": 63,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p063_07.jpg",
+  "w": 1088,
+  "h": 954,
+  "page": 63,
+  "idx": 7,
+  "category": "structural"
+ },
+ {
+  "file": "p063_08.jpg",
+  "w": 1150,
+  "h": 536,
+  "page": 63,
+  "idx": 8,
+  "category": "structural"
+ },
+ {
+  "file": "p063_09.jpg",
+  "w": 454,
+  "h": 296,
+  "page": 63,
+  "idx": 9,
+  "category": "structural"
+ },
+ {
+  "file": "p064_00.jpg",
+  "w": 632,
+  "h": 318,
+  "page": 64,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p064_01.jpg",
+  "w": 678,
+  "h": 452,
+  "page": 64,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p064_02.jpg",
+  "w": 1150,
+  "h": 432,
+  "page": 64,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p064_03.jpg",
+  "w": 779,
+  "h": 368,
+  "page": 64,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p064_04.jpg",
+  "w": 605,
+  "h": 274,
+  "page": 64,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p064_05.jpg",
+  "w": 1033,
+  "h": 353,
+  "page": 64,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p064_06.jpg",
+  "w": 1150,
+  "h": 643,
+  "page": 64,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p064_07.jpg",
+  "w": 607,
+  "h": 318,
+  "page": 64,
+  "idx": 7,
+  "category": "structural"
+ },
+ {
+  "file": "p064_08.jpg",
+  "w": 1139,
+  "h": 332,
+  "page": 64,
+  "idx": 8,
+  "category": "structural"
+ },
+ {
+  "file": "p064_09.jpg",
+  "w": 1150,
+  "h": 174,
+  "page": 64,
+  "idx": 9,
+  "category": "structural"
+ },
+ {
+  "file": "p064_10.jpg",
+  "w": 953,
+  "h": 599,
+  "page": 64,
+  "idx": 10,
+  "category": "structural"
+ },
+ {
+  "file": "p064_11.jpg",
+  "w": 1150,
+  "h": 650,
+  "page": 64,
+  "idx": 11,
+  "category": "structural"
+ },
+ {
+  "file": "p065_00.jpg",
+  "w": 1150,
+  "h": 324,
+  "page": 65,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p065_01.jpg",
+  "w": 823,
+  "h": 317,
+  "page": 65,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p065_02.jpg",
+  "w": 620,
+  "h": 443,
+  "page": 65,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p065_03.jpg",
+  "w": 718,
+  "h": 320,
+  "page": 65,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p065_04.jpg",
+  "w": 1150,
+  "h": 280,
+  "page": 65,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p065_05.jpg",
+  "w": 1032,
+  "h": 327,
+  "page": 65,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p065_06.jpg",
+  "w": 1150,
+  "h": 785,
+  "page": 65,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p065_07.jpg",
+  "w": 1150,
+  "h": 586,
+  "page": 65,
+  "idx": 7,
+  "category": "structural"
+ },
+ {
+  "file": "p066_00.jpg",
+  "w": 1150,
+  "h": 291,
+  "page": 66,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p066_01.jpg",
+  "w": 957,
+  "h": 462,
+  "page": 66,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p066_02.jpg",
+  "w": 1150,
+  "h": 413,
+  "page": 66,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p066_03.jpg",
+  "w": 968,
+  "h": 612,
+  "page": 66,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p066_04.jpg",
+  "w": 1150,
+  "h": 301,
+  "page": 66,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p066_05.jpg",
+  "w": 1150,
+  "h": 289,
+  "page": 66,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p066_06.jpg",
+  "w": 1150,
+  "h": 352,
+  "page": 66,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p067_00.jpg",
+  "w": 1150,
+  "h": 537,
+  "page": 67,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p067_01.jpg",
+  "w": 787,
+  "h": 779,
+  "page": 67,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p067_02.jpg",
+  "w": 789,
+  "h": 867,
+  "page": 67,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p068_00.jpg",
+  "w": 882,
+  "h": 317,
+  "page": 68,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p068_01.jpg",
+  "w": 1150,
+  "h": 669,
+  "page": 68,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p068_02.jpg",
+  "w": 1150,
+  "h": 574,
+  "page": 68,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p068_03.jpg",
+  "w": 1104,
+  "h": 304,
+  "page": 68,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p068_04.jpg",
+  "w": 936,
+  "h": 282,
+  "page": 68,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p068_05.jpg",
+  "w": 1150,
+  "h": 222,
+  "page": 68,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p068_06.jpg",
+  "w": 899,
+  "h": 588,
+  "page": 68,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p068_07.jpg",
+  "w": 1090,
+  "h": 1112,
+  "page": 68,
+  "idx": 7,
+  "category": "structural"
+ },
+ {
+  "file": "p069_00.jpg",
+  "w": 1150,
+  "h": 678,
+  "page": 69,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p069_01.jpg",
+  "w": 516,
+  "h": 462,
+  "page": 69,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p069_02.jpg",
+  "w": 1150,
+  "h": 499,
+  "page": 69,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p069_03.jpg",
+  "w": 848,
+  "h": 352,
+  "page": 69,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p070_00.jpg",
+  "w": 1150,
+  "h": 400,
+  "page": 70,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p070_01.jpg",
+  "w": 714,
+  "h": 612,
+  "page": 70,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p070_02.jpg",
+  "w": 768,
+  "h": 479,
+  "page": 70,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p070_03.jpg",
+  "w": 1114,
+  "h": 458,
+  "page": 70,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p070_04.jpg",
+  "w": 1150,
+  "h": 1109,
+  "page": 70,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p070_05.jpg",
+  "w": 587,
+  "h": 457,
+  "page": 70,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p070_06.jpg",
+  "w": 1066,
+  "h": 307,
+  "page": 70,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p070_07.jpg",
+  "w": 1150,
+  "h": 1219,
+  "page": 70,
+  "idx": 7,
+  "category": "structural"
+ },
+ {
+  "file": "p070_08.jpg",
+  "w": 551,
+  "h": 218,
+  "page": 70,
+  "idx": 8,
+  "category": "structural"
+ },
+ {
+  "file": "p071_00.jpg",
+  "w": 1008,
+  "h": 462,
+  "page": 71,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p071_01.jpg",
+  "w": 590,
+  "h": 437,
+  "page": 71,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p071_02.jpg",
+  "w": 809,
+  "h": 232,
+  "page": 71,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p071_03.jpg",
+  "w": 936,
+  "h": 326,
+  "page": 71,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p071_04.jpg",
+  "w": 676,
+  "h": 156,
+  "page": 71,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p071_05.jpg",
+  "w": 304,
+  "h": 120,
+  "page": 71,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p071_06.jpg",
+  "w": 1076,
+  "h": 773,
+  "page": 71,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p071_07.jpg",
+  "w": 743,
+  "h": 156,
+  "page": 71,
+  "idx": 7,
+  "category": "structural"
+ },
+ {
+  "file": "p071_08.jpg",
+  "w": 1021,
+  "h": 736,
+  "page": 71,
+  "idx": 8,
+  "category": "structural"
+ },
+ {
+  "file": "p071_09.jpg",
+  "w": 1150,
+  "h": 842,
+  "page": 71,
+  "idx": 9,
+  "category": "structural"
+ },
+ {
+  "file": "p072_00.jpg",
+  "w": 932,
+  "h": 896,
+  "page": 72,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p072_01.jpg",
+  "w": 964,
+  "h": 615,
+  "page": 72,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p072_02.jpg",
+  "w": 774,
+  "h": 743,
+  "page": 72,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p072_03.jpg",
+  "w": 598,
+  "h": 248,
+  "page": 72,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p072_04.jpg",
+  "w": 798,
+  "h": 1107,
+  "page": 72,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p072_05.jpg",
+  "w": 468,
+  "h": 296,
+  "page": 72,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p072_06.jpg",
+  "w": 1000,
+  "h": 345,
+  "page": 72,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p072_07.jpg",
+  "w": 565,
+  "h": 274,
+  "page": 72,
+  "idx": 7,
+  "category": "structural"
+ },
+ {
+  "file": "p072_08.jpg",
+  "w": 517,
+  "h": 593,
+  "page": 72,
+  "idx": 8,
+  "category": "structural"
+ },
+ {
+  "file": "p072_09.jpg",
+  "w": 509,
+  "h": 336,
+  "page": 72,
+  "idx": 9,
+  "category": "structural"
+ },
+ {
+  "file": "p072_10.jpg",
+  "w": 582,
+  "h": 235,
+  "page": 72,
+  "idx": 10,
+  "category": "structural"
+ },
+ {
+  "file": "p073_00.jpg",
+  "w": 800,
+  "h": 321,
+  "page": 73,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p073_01.jpg",
+  "w": 625,
+  "h": 766,
+  "page": 73,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p073_02.jpg",
+  "w": 963,
+  "h": 464,
+  "page": 73,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p073_03.jpg",
+  "w": 910,
+  "h": 1120,
+  "page": 73,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p073_04.jpg",
+  "w": 1150,
+  "h": 268,
+  "page": 73,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p073_05.jpg",
+  "w": 1090,
+  "h": 799,
+  "page": 73,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p073_06.jpg",
+  "w": 523,
+  "h": 312,
+  "page": 73,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p074_00.jpg",
+  "w": 972,
+  "h": 460,
+  "page": 74,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p074_01.jpg",
+  "w": 509,
+  "h": 198,
+  "page": 74,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p075_00.jpg",
+  "w": 1150,
+  "h": 298,
+  "page": 75,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p075_01.jpg",
+  "w": 734,
+  "h": 318,
+  "page": 75,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p075_02.jpg",
+  "w": 436,
+  "h": 455,
+  "page": 75,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p075_03.jpg",
+  "w": 1150,
+  "h": 913,
+  "page": 75,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p075_04.jpg",
+  "w": 970,
+  "h": 598,
+  "page": 75,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p075_05.jpg",
+  "w": 455,
+  "h": 130,
+  "page": 75,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p075_06.jpg",
+  "w": 409,
+  "h": 312,
+  "page": 75,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p075_07.jpg",
+  "w": 1150,
+  "h": 862,
+  "page": 75,
+  "idx": 7,
+  "category": "structural"
+ },
+ {
+  "file": "p075_08.jpg",
+  "w": 630,
+  "h": 496,
+  "page": 75,
+  "idx": 8,
+  "category": "structural"
+ },
+ {
+  "file": "p075_09.jpg",
+  "w": 465,
+  "h": 307,
+  "page": 75,
+  "idx": 9,
+  "category": "structural"
+ },
+ {
+  "file": "p076_00.jpg",
+  "w": 1150,
+  "h": 781,
+  "page": 76,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p077_00.jpg",
+  "w": 1150,
+  "h": 455,
+  "page": 77,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p077_01.jpg",
+  "w": 871,
+  "h": 448,
+  "page": 77,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p077_02.jpg",
+  "w": 763,
+  "h": 462,
+  "page": 77,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p077_03.jpg",
+  "w": 1150,
+  "h": 1355,
+  "page": 77,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p077_04.jpg",
+  "w": 889,
+  "h": 256,
+  "page": 77,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p077_05.jpg",
+  "w": 1150,
+  "h": 478,
+  "page": 77,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p077_06.jpg",
+  "w": 892,
+  "h": 724,
+  "page": 77,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p077_07.jpg",
+  "w": 799,
+  "h": 504,
+  "page": 77,
+  "idx": 7,
+  "category": "structural"
+ },
+ {
+  "file": "p077_08.jpg",
+  "w": 1150,
+  "h": 202,
+  "page": 77,
+  "idx": 8,
+  "category": "structural"
+ },
+ {
+  "file": "p078_00.jpg",
+  "w": 478,
+  "h": 296,
+  "page": 78,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p078_01.jpg",
+  "w": 1102,
+  "h": 569,
+  "page": 78,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p078_02.jpg",
+  "w": 983,
+  "h": 440,
+  "page": 78,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p078_03.jpg",
+  "w": 828,
+  "h": 284,
+  "page": 78,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p078_04.jpg",
+  "w": 1035,
+  "h": 504,
+  "page": 78,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p078_05.jpg",
+  "w": 1116,
+  "h": 918,
+  "page": 78,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p078_06.jpg",
+  "w": 1150,
+  "h": 922,
+  "page": 78,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p079_00.jpg",
+  "w": 1150,
+  "h": 443,
+  "page": 79,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p079_01.jpg",
+  "w": 1037,
+  "h": 2124,
+  "page": 79,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p079_02.jpg",
+  "w": 777,
+  "h": 246,
+  "page": 79,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p079_03.jpg",
+  "w": 1150,
+  "h": 741,
+  "page": 79,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p079_04.jpg",
+  "w": 916,
+  "h": 776,
+  "page": 79,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p080_00.jpg",
+  "w": 1060,
+  "h": 665,
+  "page": 80,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p080_01.jpg",
+  "w": 1150,
+  "h": 468,
+  "page": 80,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p080_02.jpg",
+  "w": 1148,
+  "h": 287,
+  "page": 80,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p080_03.jpg",
+  "w": 976,
+  "h": 1021,
+  "page": 80,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p080_04.jpg",
+  "w": 1081,
+  "h": 396,
+  "page": 80,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p080_05.jpg",
+  "w": 1093,
+  "h": 396,
+  "page": 80,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p080_06.jpg",
+  "w": 647,
+  "h": 784,
+  "page": 80,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p080_07.jpg",
+  "w": 647,
+  "h": 763,
+  "page": 80,
+  "idx": 7,
+  "category": "structural"
+ },
+ {
+  "file": "p081_00.jpg",
+  "w": 1021,
+  "h": 414,
+  "page": 81,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p081_01.jpg",
+  "w": 1032,
+  "h": 538,
+  "page": 81,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p081_02.jpg",
+  "w": 693,
+  "h": 542,
+  "page": 81,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p081_03.jpg",
+  "w": 676,
+  "h": 490,
+  "page": 81,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p081_04.jpg",
+  "w": 1150,
+  "h": 394,
+  "page": 81,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p081_05.jpg",
+  "w": 1150,
+  "h": 1156,
+  "page": 81,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p081_06.jpg",
+  "w": 516,
+  "h": 268,
+  "page": 81,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p081_07.jpg",
+  "w": 817,
+  "h": 232,
+  "page": 81,
+  "idx": 7,
+  "category": "structural"
+ },
+ {
+  "file": "p081_08.jpg",
+  "w": 1150,
+  "h": 232,
+  "page": 81,
+  "idx": 8,
+  "category": "structural"
+ },
+ {
+  "file": "p082_00.jpg",
+  "w": 701,
+  "h": 800,
+  "page": 82,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p082_01.jpg",
+  "w": 763,
+  "h": 432,
+  "page": 82,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p082_02.jpg",
+  "w": 961,
+  "h": 642,
+  "page": 82,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p082_03.jpg",
+  "w": 634,
+  "h": 432,
+  "page": 82,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p082_04.jpg",
+  "w": 1150,
+  "h": 1087,
+  "page": 82,
+  "idx": 4,
+  "category": "structural"
+ },
+ {
+  "file": "p082_05.jpg",
+  "w": 376,
+  "h": 312,
+  "page": 82,
+  "idx": 5,
+  "category": "structural"
+ },
+ {
+  "file": "p082_06.jpg",
+  "w": 865,
+  "h": 1550,
+  "page": 82,
+  "idx": 6,
+  "category": "structural"
+ },
+ {
+  "file": "p082_07.jpg",
+  "w": 811,
+  "h": 250,
+  "page": 82,
+  "idx": 7,
+  "category": "structural"
+ },
+ {
+  "file": "p082_08.jpg",
+  "w": 1150,
+  "h": 1822,
+  "page": 82,
+  "idx": 8,
+  "category": "structural"
+ },
+ {
+  "file": "p083_00.jpg",
+  "w": 1150,
+  "h": 911,
+  "page": 83,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p083_01.jpg",
+  "w": 1147,
+  "h": 1527,
+  "page": 83,
+  "idx": 1,
+  "category": "structural"
+ },
+ {
+  "file": "p083_02.jpg",
+  "w": 957,
+  "h": 1087,
+  "page": 83,
+  "idx": 2,
+  "category": "structural"
+ },
+ {
+  "file": "p083_03.jpg",
+  "w": 1150,
+  "h": 897,
+  "page": 83,
+  "idx": 3,
+  "category": "structural"
+ },
+ {
+  "file": "p084_00.jpg",
+  "w": 1150,
+  "h": 885,
+  "page": 84,
+  "idx": 0,
+  "category": "structural"
+ },
+ {
+  "file": "p087_00.jpg",
+  "w": 840,
+  "h": 1923,
+  "page": 87,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p087_01.jpg",
+  "w": 1007,
+  "h": 706,
+  "page": 87,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p087_02.jpg",
+  "w": 816,
+  "h": 616,
+  "page": 87,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p087_03.jpg",
+  "w": 837,
+  "h": 642,
+  "page": 87,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p087_04.jpg",
+  "w": 1150,
+  "h": 1002,
+  "page": 87,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p087_05.jpg",
+  "w": 948,
+  "h": 535,
+  "page": 87,
+  "idx": 5,
+  "category": "math"
+ },
+ {
+  "file": "p088_00.jpg",
+  "w": 1048,
+  "h": 768,
+  "page": 88,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p088_01.jpg",
+  "w": 978,
+  "h": 1079,
+  "page": 88,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p088_02.jpg",
+  "w": 1150,
+  "h": 424,
+  "page": 88,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p088_03.jpg",
+  "w": 1150,
+  "h": 554,
+  "page": 88,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p088_04.jpg",
+  "w": 1150,
+  "h": 1149,
+  "page": 88,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p089_00.jpg",
+  "w": 700,
+  "h": 578,
+  "page": 89,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p089_01.jpg",
+  "w": 1108,
+  "h": 599,
+  "page": 89,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p089_02.jpg",
+  "w": 1030,
+  "h": 340,
+  "page": 89,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p089_03.jpg",
+  "w": 1048,
+  "h": 529,
+  "page": 89,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p089_04.jpg",
+  "w": 512,
+  "h": 566,
+  "page": 89,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p089_05.jpg",
+  "w": 1150,
+  "h": 852,
+  "page": 89,
+  "idx": 5,
+  "category": "math"
+ },
+ {
+  "file": "p090_00.jpg",
+  "w": 1090,
+  "h": 312,
+  "page": 90,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p090_01.jpg",
+  "w": 1027,
+  "h": 600,
+  "page": 90,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p090_02.jpg",
+  "w": 1150,
+  "h": 868,
+  "page": 90,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p090_03.jpg",
+  "w": 1109,
+  "h": 496,
+  "page": 90,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p090_04.jpg",
+  "w": 1120,
+  "h": 353,
+  "page": 90,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p090_05.jpg",
+  "w": 1150,
+  "h": 601,
+  "page": 90,
+  "idx": 5,
+  "category": "math"
+ },
+ {
+  "file": "p090_06.jpg",
+  "w": 1150,
+  "h": 283,
+  "page": 90,
+  "idx": 6,
+  "category": "math"
+ },
+ {
+  "file": "p090_07.jpg",
+  "w": 653,
+  "h": 783,
+  "page": 90,
+  "idx": 7,
+  "category": "math"
+ },
+ {
+  "file": "p090_08.jpg",
+  "w": 669,
+  "h": 299,
+  "page": 90,
+  "idx": 8,
+  "category": "math"
+ },
+ {
+  "file": "p091_00.jpg",
+  "w": 1150,
+  "h": 734,
+  "page": 91,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p091_01.jpg",
+  "w": 761,
+  "h": 561,
+  "page": 91,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p091_02.jpg",
+  "w": 971,
+  "h": 481,
+  "page": 91,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p091_03.jpg",
+  "w": 983,
+  "h": 301,
+  "page": 91,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p091_04.jpg",
+  "w": 1150,
+  "h": 1445,
+  "page": 91,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p091_05.jpg",
+  "w": 814,
+  "h": 822,
+  "page": 91,
+  "idx": 5,
+  "category": "math"
+ },
+ {
+  "file": "p091_06.jpg",
+  "w": 440,
+  "h": 432,
+  "page": 91,
+  "idx": 6,
+  "category": "math"
+ },
+ {
+  "file": "p091_07.jpg",
+  "w": 1150,
+  "h": 270,
+  "page": 91,
+  "idx": 7,
+  "category": "math"
+ },
+ {
+  "file": "p091_08.jpg",
+  "w": 439,
+  "h": 248,
+  "page": 91,
+  "idx": 8,
+  "category": "math"
+ },
+ {
+  "file": "p091_09.jpg",
+  "w": 379,
+  "h": 202,
+  "page": 91,
+  "idx": 9,
+  "category": "math"
+ },
+ {
+  "file": "p091_10.jpg",
+  "w": 538,
+  "h": 215,
+  "page": 91,
+  "idx": 10,
+  "category": "math"
+ },
+ {
+  "file": "p092_00.jpg",
+  "w": 743,
+  "h": 491,
+  "page": 92,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p092_01.jpg",
+  "w": 626,
+  "h": 496,
+  "page": 92,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p092_02.jpg",
+  "w": 1037,
+  "h": 420,
+  "page": 92,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p092_03.jpg",
+  "w": 738,
+  "h": 263,
+  "page": 92,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p092_04.jpg",
+  "w": 634,
+  "h": 398,
+  "page": 92,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p092_05.jpg",
+  "w": 660,
+  "h": 195,
+  "page": 92,
+  "idx": 5,
+  "category": "math"
+ },
+ {
+  "file": "p092_06.jpg",
+  "w": 1150,
+  "h": 184,
+  "page": 92,
+  "idx": 6,
+  "category": "math"
+ },
+ {
+  "file": "p092_07.jpg",
+  "w": 1150,
+  "h": 1885,
+  "page": 92,
+  "idx": 7,
+  "category": "math"
+ },
+ {
+  "file": "p092_08.jpg",
+  "w": 557,
+  "h": 548,
+  "page": 92,
+  "idx": 8,
+  "category": "math"
+ },
+ {
+  "file": "p092_09.jpg",
+  "w": 877,
+  "h": 200,
+  "page": 92,
+  "idx": 9,
+  "category": "math"
+ },
+ {
+  "file": "p092_10.jpg",
+  "w": 470,
+  "h": 214,
+  "page": 92,
+  "idx": 10,
+  "category": "math"
+ },
+ {
+  "file": "p092_11.jpg",
+  "w": 1150,
+  "h": 220,
+  "page": 92,
+  "idx": 11,
+  "category": "math"
+ },
+ {
+  "file": "p093_00.jpg",
+  "w": 1150,
+  "h": 498,
+  "page": 93,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p093_01.jpg",
+  "w": 889,
+  "h": 800,
+  "page": 93,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p093_02.jpg",
+  "w": 740,
+  "h": 204,
+  "page": 93,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p093_03.jpg",
+  "w": 512,
+  "h": 340,
+  "page": 93,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p093_04.jpg",
+  "w": 653,
+  "h": 1522,
+  "page": 93,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p093_05.jpg",
+  "w": 736,
+  "h": 355,
+  "page": 93,
+  "idx": 5,
+  "category": "math"
+ },
+ {
+  "file": "p093_06.jpg",
+  "w": 956,
+  "h": 358,
+  "page": 93,
+  "idx": 6,
+  "category": "math"
+ },
+ {
+  "file": "p093_07.jpg",
+  "w": 826,
+  "h": 643,
+  "page": 93,
+  "idx": 7,
+  "category": "math"
+ },
+ {
+  "file": "p093_08.jpg",
+  "w": 818,
+  "h": 942,
+  "page": 93,
+  "idx": 8,
+  "category": "math"
+ },
+ {
+  "file": "p093_09.jpg",
+  "w": 849,
+  "h": 351,
+  "page": 93,
+  "idx": 9,
+  "category": "math"
+ },
+ {
+  "file": "p093_10.jpg",
+  "w": 1002,
+  "h": 251,
+  "page": 93,
+  "idx": 10,
+  "category": "math"
+ },
+ {
+  "file": "p094_00.jpg",
+  "w": 670,
+  "h": 743,
+  "page": 94,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p094_01.jpg",
+  "w": 693,
+  "h": 717,
+  "page": 94,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p094_02.jpg",
+  "w": 514,
+  "h": 381,
+  "page": 94,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p094_03.jpg",
+  "w": 701,
+  "h": 265,
+  "page": 94,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p094_04.jpg",
+  "w": 982,
+  "h": 2312,
+  "page": 94,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p094_05.jpg",
+  "w": 1150,
+  "h": 655,
+  "page": 94,
+  "idx": 5,
+  "category": "math"
+ },
+ {
+  "file": "p095_00.jpg",
+  "w": 1033,
+  "h": 320,
+  "page": 95,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p095_01.jpg",
+  "w": 1084,
+  "h": 312,
+  "page": 95,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p095_02.jpg",
+  "w": 1015,
+  "h": 443,
+  "page": 95,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p095_03.jpg",
+  "w": 1150,
+  "h": 430,
+  "page": 95,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p095_04.jpg",
+  "w": 856,
+  "h": 201,
+  "page": 95,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p095_05.jpg",
+  "w": 699,
+  "h": 301,
+  "page": 95,
+  "idx": 5,
+  "category": "math"
+ },
+ {
+  "file": "p095_06.jpg",
+  "w": 1112,
+  "h": 643,
+  "page": 95,
+  "idx": 6,
+  "category": "math"
+ },
+ {
+  "file": "p095_07.jpg",
+  "w": 1012,
+  "h": 815,
+  "page": 95,
+  "idx": 7,
+  "category": "math"
+ },
+ {
+  "file": "p095_08.jpg",
+  "w": 1150,
+  "h": 780,
+  "page": 95,
+  "idx": 8,
+  "category": "math"
+ },
+ {
+  "file": "p096_00.jpg",
+  "w": 940,
+  "h": 776,
+  "page": 96,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p096_01.jpg",
+  "w": 800,
+  "h": 529,
+  "page": 96,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p096_02.jpg",
+  "w": 1015,
+  "h": 307,
+  "page": 96,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p096_03.jpg",
+  "w": 695,
+  "h": 306,
+  "page": 96,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p096_04.jpg",
+  "w": 1064,
+  "h": 304,
+  "page": 96,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p096_05.jpg",
+  "w": 846,
+  "h": 176,
+  "page": 96,
+  "idx": 5,
+  "category": "math"
+ },
+ {
+  "file": "p096_06.jpg",
+  "w": 1150,
+  "h": 810,
+  "page": 96,
+  "idx": 6,
+  "category": "math"
+ },
+ {
+  "file": "p096_07.jpg",
+  "w": 1150,
+  "h": 715,
+  "page": 96,
+  "idx": 7,
+  "category": "math"
+ },
+ {
+  "file": "p097_00.jpg",
+  "w": 797,
+  "h": 444,
+  "page": 97,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p097_01.jpg",
+  "w": 582,
+  "h": 309,
+  "page": 97,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p097_02.jpg",
+  "w": 862,
+  "h": 448,
+  "page": 97,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p097_03.jpg",
+  "w": 541,
+  "h": 328,
+  "page": 97,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p097_04.jpg",
+  "w": 747,
+  "h": 692,
+  "page": 97,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p097_05.jpg",
+  "w": 1150,
+  "h": 748,
+  "page": 97,
+  "idx": 5,
+  "category": "math"
+ },
+ {
+  "file": "p097_06.jpg",
+  "w": 985,
+  "h": 778,
+  "page": 97,
+  "idx": 6,
+  "category": "math"
+ },
+ {
+  "file": "p098_00.jpg",
+  "w": 965,
+  "h": 384,
+  "page": 98,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p098_01.jpg",
+  "w": 604,
+  "h": 309,
+  "page": 98,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p098_02.jpg",
+  "w": 485,
+  "h": 309,
+  "page": 98,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p098_03.jpg",
+  "w": 667,
+  "h": 682,
+  "page": 98,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p098_04.jpg",
+  "w": 1150,
+  "h": 138,
+  "page": 98,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p098_05.jpg",
+  "w": 1074,
+  "h": 127,
+  "page": 98,
+  "idx": 5,
+  "category": "math"
+ },
+ {
+  "file": "p098_06.jpg",
+  "w": 783,
+  "h": 122,
+  "page": 98,
+  "idx": 6,
+  "category": "math"
+ },
+ {
+  "file": "p098_07.jpg",
+  "w": 1150,
+  "h": 610,
+  "page": 98,
+  "idx": 7,
+  "category": "math"
+ },
+ {
+  "file": "p098_08.jpg",
+  "w": 1150,
+  "h": 551,
+  "page": 98,
+  "idx": 8,
+  "category": "math"
+ },
+ {
+  "file": "p099_00.jpg",
+  "w": 901,
+  "h": 1104,
+  "page": 99,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p099_01.jpg",
+  "w": 886,
+  "h": 1073,
+  "page": 99,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p099_02.jpg",
+  "w": 1150,
+  "h": 1401,
+  "page": 99,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p099_03.jpg",
+  "w": 1098,
+  "h": 956,
+  "page": 99,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p099_04.jpg",
+  "w": 1099,
+  "h": 468,
+  "page": 99,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p100_00.jpg",
+  "w": 1150,
+  "h": 280,
+  "page": 100,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p100_01.jpg",
+  "w": 1150,
+  "h": 595,
+  "page": 100,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p100_02.jpg",
+  "w": 1016,
+  "h": 343,
+  "page": 100,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p100_03.jpg",
+  "w": 1150,
+  "h": 1314,
+  "page": 100,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p101_00.jpg",
+  "w": 1150,
+  "h": 831,
+  "page": 101,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p101_01.jpg",
+  "w": 1150,
+  "h": 819,
+  "page": 101,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p101_02.jpg",
+  "w": 1150,
+  "h": 389,
+  "page": 101,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p101_03.jpg",
+  "w": 1150,
+  "h": 1347,
+  "page": 101,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p101_04.jpg",
+  "w": 1150,
+  "h": 243,
+  "page": 101,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p101_05.jpg",
+  "w": 1150,
+  "h": 919,
+  "page": 101,
+  "idx": 5,
+  "category": "math"
+ },
+ {
+  "file": "p102_00.jpg",
+  "w": 1150,
+  "h": 385,
+  "page": 102,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p102_01.jpg",
+  "w": 1150,
+  "h": 360,
+  "page": 102,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p102_02.jpg",
+  "w": 1150,
+  "h": 380,
+  "page": 102,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p102_03.jpg",
+  "w": 1112,
+  "h": 295,
+  "page": 102,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p102_04.jpg",
+  "w": 1121,
+  "h": 417,
+  "page": 102,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p102_05.jpg",
+  "w": 860,
+  "h": 192,
+  "page": 102,
+  "idx": 5,
+  "category": "math"
+ },
+ {
+  "file": "p102_06.jpg",
+  "w": 1150,
+  "h": 278,
+  "page": 102,
+  "idx": 6,
+  "category": "math"
+ },
+ {
+  "file": "p102_07.jpg",
+  "w": 1009,
+  "h": 607,
+  "page": 102,
+  "idx": 7,
+  "category": "math"
+ },
+ {
+  "file": "p102_08.jpg",
+  "w": 584,
+  "h": 314,
+  "page": 102,
+  "idx": 8,
+  "category": "math"
+ },
+ {
+  "file": "p102_09.jpg",
+  "w": 640,
+  "h": 350,
+  "page": 102,
+  "idx": 9,
+  "category": "math"
+ },
+ {
+  "file": "p102_10.jpg",
+  "w": 944,
+  "h": 672,
+  "page": 102,
+  "idx": 10,
+  "category": "math"
+ },
+ {
+  "file": "p102_11.jpg",
+  "w": 888,
+  "h": 1099,
+  "page": 102,
+  "idx": 11,
+  "category": "math"
+ },
+ {
+  "file": "p103_00.jpg",
+  "w": 694,
+  "h": 324,
+  "page": 103,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p103_01.jpg",
+  "w": 1070,
+  "h": 1399,
+  "page": 103,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p103_02.jpg",
+  "w": 1119,
+  "h": 2177,
+  "page": 103,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p103_03.jpg",
+  "w": 1150,
+  "h": 805,
+  "page": 103,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p103_04.jpg",
+  "w": 1150,
+  "h": 407,
+  "page": 103,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p104_00.jpg",
+  "w": 1150,
+  "h": 241,
+  "page": 104,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p104_01.jpg",
+  "w": 1150,
+  "h": 275,
+  "page": 104,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p104_02.jpg",
+  "w": 1150,
+  "h": 197,
+  "page": 104,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p104_03.jpg",
+  "w": 1150,
+  "h": 209,
+  "page": 104,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p104_04.jpg",
+  "w": 1150,
+  "h": 120,
+  "page": 104,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p104_05.jpg",
+  "w": 563,
+  "h": 392,
+  "page": 104,
+  "idx": 5,
+  "category": "math"
+ },
+ {
+  "file": "p104_06.jpg",
+  "w": 726,
+  "h": 431,
+  "page": 104,
+  "idx": 6,
+  "category": "math"
+ },
+ {
+  "file": "p104_07.jpg",
+  "w": 626,
+  "h": 432,
+  "page": 104,
+  "idx": 7,
+  "category": "math"
+ },
+ {
+  "file": "p104_08.jpg",
+  "w": 402,
+  "h": 259,
+  "page": 104,
+  "idx": 8,
+  "category": "math"
+ },
+ {
+  "file": "p104_09.jpg",
+  "w": 812,
+  "h": 581,
+  "page": 104,
+  "idx": 9,
+  "category": "math"
+ },
+ {
+  "file": "p104_10.jpg",
+  "w": 1150,
+  "h": 212,
+  "page": 104,
+  "idx": 10,
+  "category": "math"
+ },
+ {
+  "file": "p104_11.jpg",
+  "w": 1150,
+  "h": 184,
+  "page": 104,
+  "idx": 11,
+  "category": "math"
+ },
+ {
+  "file": "p104_12.jpg",
+  "w": 851,
+  "h": 240,
+  "page": 104,
+  "idx": 12,
+  "category": "math"
+ },
+ {
+  "file": "p105_00.jpg",
+  "w": 1150,
+  "h": 341,
+  "page": 105,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p105_01.jpg",
+  "w": 1150,
+  "h": 371,
+  "page": 105,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p105_02.jpg",
+  "w": 1150,
+  "h": 340,
+  "page": 105,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p105_03.jpg",
+  "w": 1150,
+  "h": 330,
+  "page": 105,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p105_04.jpg",
+  "w": 1150,
+  "h": 283,
+  "page": 105,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p105_05.jpg",
+  "w": 1150,
+  "h": 787,
+  "page": 105,
+  "idx": 5,
+  "category": "math"
+ },
+ {
+  "file": "p106_00.jpg",
+  "w": 1150,
+  "h": 578,
+  "page": 106,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p106_01.jpg",
+  "w": 1150,
+  "h": 643,
+  "page": 106,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p106_02.jpg",
+  "w": 1150,
+  "h": 611,
+  "page": 106,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p106_03.jpg",
+  "w": 1150,
+  "h": 1364,
+  "page": 106,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p106_04.jpg",
+  "w": 748,
+  "h": 225,
+  "page": 106,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p106_05.jpg",
+  "w": 1150,
+  "h": 629,
+  "page": 106,
+  "idx": 5,
+  "category": "math"
+ },
+ {
+  "file": "p106_06.jpg",
+  "w": 340,
+  "h": 181,
+  "page": 106,
+  "idx": 6,
+  "category": "math"
+ },
+ {
+  "file": "p106_07.jpg",
+  "w": 437,
+  "h": 340,
+  "page": 106,
+  "idx": 7,
+  "category": "math"
+ },
+ {
+  "file": "p107_00.jpg",
+  "w": 1150,
+  "h": 595,
+  "page": 107,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p107_01.jpg",
+  "w": 1150,
+  "h": 352,
+  "page": 107,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p107_02.jpg",
+  "w": 1150,
+  "h": 430,
+  "page": 107,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p107_03.jpg",
+  "w": 912,
+  "h": 194,
+  "page": 107,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p107_04.jpg",
+  "w": 919,
+  "h": 517,
+  "page": 107,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p107_05.jpg",
+  "w": 848,
+  "h": 286,
+  "page": 107,
+  "idx": 5,
+  "category": "math"
+ },
+ {
+  "file": "p107_06.jpg",
+  "w": 727,
+  "h": 626,
+  "page": 107,
+  "idx": 6,
+  "category": "math"
+ },
+ {
+  "file": "p108_00.jpg",
+  "w": 1150,
+  "h": 1133,
+  "page": 108,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p109_00.jpg",
+  "w": 1150,
+  "h": 1369,
+  "page": 109,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p109_01.jpg",
+  "w": 1150,
+  "h": 1782,
+  "page": 109,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p110_00.jpg",
+  "w": 1135,
+  "h": 412,
+  "page": 110,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p110_01.jpg",
+  "w": 1150,
+  "h": 299,
+  "page": 110,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p110_02.jpg",
+  "w": 1110,
+  "h": 628,
+  "page": 110,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p110_03.jpg",
+  "w": 958,
+  "h": 268,
+  "page": 110,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p110_04.jpg",
+  "w": 1150,
+  "h": 617,
+  "page": 110,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p110_05.jpg",
+  "w": 1142,
+  "h": 657,
+  "page": 110,
+  "idx": 5,
+  "category": "math"
+ },
+ {
+  "file": "p110_06.jpg",
+  "w": 926,
+  "h": 543,
+  "page": 110,
+  "idx": 6,
+  "category": "math"
+ },
+ {
+  "file": "p111_00.jpg",
+  "w": 1150,
+  "h": 402,
+  "page": 111,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p111_01.jpg",
+  "w": 1150,
+  "h": 427,
+  "page": 111,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p111_02.jpg",
+  "w": 1150,
+  "h": 280,
+  "page": 111,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p111_03.jpg",
+  "w": 1150,
+  "h": 609,
+  "page": 111,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p111_04.jpg",
+  "w": 1052,
+  "h": 365,
+  "page": 111,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p111_05.jpg",
+  "w": 1150,
+  "h": 690,
+  "page": 111,
+  "idx": 5,
+  "category": "math"
+ },
+ {
+  "file": "p111_06.jpg",
+  "w": 440,
+  "h": 198,
+  "page": 111,
+  "idx": 6,
+  "category": "math"
+ },
+ {
+  "file": "p111_07.jpg",
+  "w": 883,
+  "h": 755,
+  "page": 111,
+  "idx": 7,
+  "category": "math"
+ },
+ {
+  "file": "p111_08.jpg",
+  "w": 449,
+  "h": 288,
+  "page": 111,
+  "idx": 8,
+  "category": "math"
+ },
+ {
+  "file": "p111_09.jpg",
+  "w": 985,
+  "h": 1240,
+  "page": 111,
+  "idx": 9,
+  "category": "math"
+ },
+ {
+  "file": "p112_00.jpg",
+  "w": 1130,
+  "h": 469,
+  "page": 112,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p112_01.jpg",
+  "w": 892,
+  "h": 463,
+  "page": 112,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p112_02.jpg",
+  "w": 800,
+  "h": 322,
+  "page": 112,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p112_03.jpg",
+  "w": 1061,
+  "h": 615,
+  "page": 112,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p112_04.jpg",
+  "w": 644,
+  "h": 307,
+  "page": 112,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p112_05.jpg",
+  "w": 660,
+  "h": 471,
+  "page": 112,
+  "idx": 5,
+  "category": "math"
+ },
+ {
+  "file": "p112_06.jpg",
+  "w": 447,
+  "h": 287,
+  "page": 112,
+  "idx": 6,
+  "category": "math"
+ },
+ {
+  "file": "p112_07.jpg",
+  "w": 388,
+  "h": 259,
+  "page": 112,
+  "idx": 7,
+  "category": "math"
+ },
+ {
+  "file": "p112_08.jpg",
+  "w": 1150,
+  "h": 645,
+  "page": 112,
+  "idx": 8,
+  "category": "math"
+ },
+ {
+  "file": "p112_09.jpg",
+  "w": 396,
+  "h": 261,
+  "page": 112,
+  "idx": 9,
+  "category": "math"
+ },
+ {
+  "file": "p113_00.jpg",
+  "w": 889,
+  "h": 427,
+  "page": 113,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p113_01.jpg",
+  "w": 1043,
+  "h": 462,
+  "page": 113,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p113_02.jpg",
+  "w": 794,
+  "h": 478,
+  "page": 113,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p113_03.jpg",
+  "w": 1150,
+  "h": 1191,
+  "page": 113,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p113_04.jpg",
+  "w": 990,
+  "h": 801,
+  "page": 113,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p113_05.jpg",
+  "w": 723,
+  "h": 1230,
+  "page": 113,
+  "idx": 5,
+  "category": "math"
+ },
+ {
+  "file": "p113_06.jpg",
+  "w": 543,
+  "h": 187,
+  "page": 113,
+  "idx": 6,
+  "category": "math"
+ },
+ {
+  "file": "p113_07.jpg",
+  "w": 472,
+  "h": 184,
+  "page": 113,
+  "idx": 7,
+  "category": "math"
+ },
+ {
+  "file": "p114_00.jpg",
+  "w": 704,
+  "h": 636,
+  "page": 114,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p114_01.jpg",
+  "w": 914,
+  "h": 306,
+  "page": 114,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p114_02.jpg",
+  "w": 703,
+  "h": 402,
+  "page": 114,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p114_03.jpg",
+  "w": 526,
+  "h": 220,
+  "page": 114,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p114_04.jpg",
+  "w": 592,
+  "h": 184,
+  "page": 114,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p114_05.jpg",
+  "w": 721,
+  "h": 196,
+  "page": 114,
+  "idx": 5,
+  "category": "math"
+ },
+ {
+  "file": "p114_06.jpg",
+  "w": 1038,
+  "h": 1141,
+  "page": 114,
+  "idx": 6,
+  "category": "math"
+ },
+ {
+  "file": "p114_07.jpg",
+  "w": 425,
+  "h": 200,
+  "page": 114,
+  "idx": 7,
+  "category": "math"
+ },
+ {
+  "file": "p114_08.jpg",
+  "w": 476,
+  "h": 193,
+  "page": 114,
+  "idx": 8,
+  "category": "math"
+ },
+ {
+  "file": "p114_09.jpg",
+  "w": 466,
+  "h": 189,
+  "page": 114,
+  "idx": 9,
+  "category": "math"
+ },
+ {
+  "file": "p114_10.jpg",
+  "w": 831,
+  "h": 176,
+  "page": 114,
+  "idx": 10,
+  "category": "math"
+ },
+ {
+  "file": "p115_00.jpg",
+  "w": 1113,
+  "h": 620,
+  "page": 115,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p115_01.jpg",
+  "w": 699,
+  "h": 309,
+  "page": 115,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p115_02.jpg",
+  "w": 884,
+  "h": 781,
+  "page": 115,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p115_03.jpg",
+  "w": 904,
+  "h": 465,
+  "page": 115,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p116_00.jpg",
+  "w": 871,
+  "h": 458,
+  "page": 116,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p116_01.jpg",
+  "w": 1150,
+  "h": 279,
+  "page": 116,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p116_02.jpg",
+  "w": 1150,
+  "h": 290,
+  "page": 116,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p116_03.jpg",
+  "w": 1150,
+  "h": 433,
+  "page": 116,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p116_04.jpg",
+  "w": 1081,
+  "h": 917,
+  "page": 116,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p116_05.jpg",
+  "w": 837,
+  "h": 916,
+  "page": 116,
+  "idx": 5,
+  "category": "math"
+ },
+ {
+  "file": "p116_06.jpg",
+  "w": 825,
+  "h": 324,
+  "page": 116,
+  "idx": 6,
+  "category": "math"
+ },
+ {
+  "file": "p116_07.jpg",
+  "w": 788,
+  "h": 614,
+  "page": 116,
+  "idx": 7,
+  "category": "math"
+ },
+ {
+  "file": "p116_08.jpg",
+  "w": 1035,
+  "h": 794,
+  "page": 116,
+  "idx": 8,
+  "category": "math"
+ },
+ {
+  "file": "p116_09.jpg",
+  "w": 514,
+  "h": 184,
+  "page": 116,
+  "idx": 9,
+  "category": "math"
+ },
+ {
+  "file": "p117_00.jpg",
+  "w": 1013,
+  "h": 868,
+  "page": 117,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p117_01.jpg",
+  "w": 776,
+  "h": 346,
+  "page": 117,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p117_02.jpg",
+  "w": 1150,
+  "h": 324,
+  "page": 117,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p117_03.jpg",
+  "w": 1035,
+  "h": 571,
+  "page": 117,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p117_04.jpg",
+  "w": 1143,
+  "h": 815,
+  "page": 117,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p117_05.jpg",
+  "w": 679,
+  "h": 340,
+  "page": 117,
+  "idx": 5,
+  "category": "math"
+ },
+ {
+  "file": "p117_06.jpg",
+  "w": 909,
+  "h": 962,
+  "page": 117,
+  "idx": 6,
+  "category": "math"
+ },
+ {
+  "file": "p117_07.jpg",
+  "w": 537,
+  "h": 229,
+  "page": 117,
+  "idx": 7,
+  "category": "math"
+ },
+ {
+  "file": "p118_00.jpg",
+  "w": 1150,
+  "h": 1521,
+  "page": 118,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p118_01.jpg",
+  "w": 1150,
+  "h": 432,
+  "page": 118,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p118_02.jpg",
+  "w": 1150,
+  "h": 1956,
+  "page": 118,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p118_03.jpg",
+  "w": 440,
+  "h": 302,
+  "page": 118,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p118_04.jpg",
+  "w": 1150,
+  "h": 1170,
+  "page": 118,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p119_00.jpg",
+  "w": 1150,
+  "h": 224,
+  "page": 119,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p119_01.jpg",
+  "w": 1150,
+  "h": 539,
+  "page": 119,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p119_02.jpg",
+  "w": 1074,
+  "h": 1063,
+  "page": 119,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p120_00.jpg",
+  "w": 1150,
+  "h": 1908,
+  "page": 120,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p120_01.jpg",
+  "w": 1150,
+  "h": 442,
+  "page": 120,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p120_02.jpg",
+  "w": 1150,
+  "h": 1887,
+  "page": 120,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p120_03.jpg",
+  "w": 1150,
+  "h": 1646,
+  "page": 120,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p121_00.jpg",
+  "w": 1150,
+  "h": 410,
+  "page": 121,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p121_01.jpg",
+  "w": 1150,
+  "h": 399,
+  "page": 121,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p121_02.jpg",
+  "w": 1000,
+  "h": 578,
+  "page": 121,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p121_03.jpg",
+  "w": 1045,
+  "h": 380,
+  "page": 121,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p122_00.jpg",
+  "w": 1150,
+  "h": 437,
+  "page": 122,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p122_01.jpg",
+  "w": 1150,
+  "h": 408,
+  "page": 122,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p122_02.jpg",
+  "w": 1150,
+  "h": 292,
+  "page": 122,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p122_03.jpg",
+  "w": 1150,
+  "h": 317,
+  "page": 122,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p122_04.jpg",
+  "w": 736,
+  "h": 723,
+  "page": 122,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p122_05.jpg",
+  "w": 868,
+  "h": 496,
+  "page": 122,
+  "idx": 5,
+  "category": "math"
+ },
+ {
+  "file": "p123_00.jpg",
+  "w": 1150,
+  "h": 755,
+  "page": 123,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p123_01.jpg",
+  "w": 665,
+  "h": 628,
+  "page": 123,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p123_02.jpg",
+  "w": 1150,
+  "h": 1827,
+  "page": 123,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p123_03.jpg",
+  "w": 933,
+  "h": 364,
+  "page": 123,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p123_04.jpg",
+  "w": 937,
+  "h": 1394,
+  "page": 123,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p123_05.jpg",
+  "w": 549,
+  "h": 608,
+  "page": 123,
+  "idx": 5,
+  "category": "math"
+ },
+ {
+  "file": "p124_00.jpg",
+  "w": 1150,
+  "h": 343,
+  "page": 124,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p124_01.jpg",
+  "w": 1137,
+  "h": 467,
+  "page": 124,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p124_02.jpg",
+  "w": 1150,
+  "h": 714,
+  "page": 124,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p124_03.jpg",
+  "w": 1150,
+  "h": 1053,
+  "page": 124,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p124_04.jpg",
+  "w": 476,
+  "h": 189,
+  "page": 124,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p124_05.jpg",
+  "w": 1150,
+  "h": 927,
+  "page": 124,
+  "idx": 5,
+  "category": "math"
+ },
+ {
+  "file": "p125_00.jpg",
+  "w": 630,
+  "h": 437,
+  "page": 125,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p125_01.jpg",
+  "w": 828,
+  "h": 443,
+  "page": 125,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p125_02.jpg",
+  "w": 972,
+  "h": 450,
+  "page": 125,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p125_03.jpg",
+  "w": 923,
+  "h": 456,
+  "page": 125,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p125_04.jpg",
+  "w": 1150,
+  "h": 410,
+  "page": 125,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p125_05.jpg",
+  "w": 1150,
+  "h": 160,
+  "page": 125,
+  "idx": 5,
+  "category": "math"
+ },
+ {
+  "file": "p125_06.jpg",
+  "w": 1150,
+  "h": 247,
+  "page": 125,
+  "idx": 6,
+  "category": "math"
+ },
+ {
+  "file": "p125_07.jpg",
+  "w": 876,
+  "h": 192,
+  "page": 125,
+  "idx": 7,
+  "category": "math"
+ },
+ {
+  "file": "p125_08.jpg",
+  "w": 971,
+  "h": 648,
+  "page": 125,
+  "idx": 8,
+  "category": "math"
+ },
+ {
+  "file": "p125_09.jpg",
+  "w": 1150,
+  "h": 1472,
+  "page": 125,
+  "idx": 9,
+  "category": "math"
+ },
+ {
+  "file": "p126_00.jpg",
+  "w": 1097,
+  "h": 926,
+  "page": 126,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p126_01.jpg",
+  "w": 1092,
+  "h": 1246,
+  "page": 126,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p126_02.jpg",
+  "w": 1150,
+  "h": 1826,
+  "page": 126,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p126_03.jpg",
+  "w": 1150,
+  "h": 2108,
+  "page": 126,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p127_00.jpg",
+  "w": 1006,
+  "h": 334,
+  "page": 127,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p127_01.jpg",
+  "w": 941,
+  "h": 304,
+  "page": 127,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p127_02.jpg",
+  "w": 1150,
+  "h": 761,
+  "page": 127,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p127_03.jpg",
+  "w": 647,
+  "h": 286,
+  "page": 127,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p127_04.jpg",
+  "w": 917,
+  "h": 340,
+  "page": 127,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p127_05.jpg",
+  "w": 1150,
+  "h": 312,
+  "page": 127,
+  "idx": 5,
+  "category": "math"
+ },
+ {
+  "file": "p127_06.jpg",
+  "w": 1044,
+  "h": 471,
+  "page": 127,
+  "idx": 6,
+  "category": "math"
+ },
+ {
+  "file": "p127_07.jpg",
+  "w": 776,
+  "h": 568,
+  "page": 127,
+  "idx": 7,
+  "category": "math"
+ },
+ {
+  "file": "p128_00.jpg",
+  "w": 1150,
+  "h": 451,
+  "page": 128,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p128_01.jpg",
+  "w": 1150,
+  "h": 273,
+  "page": 128,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p128_02.jpg",
+  "w": 1150,
+  "h": 366,
+  "page": 128,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p128_03.jpg",
+  "w": 535,
+  "h": 212,
+  "page": 128,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p128_04.jpg",
+  "w": 1150,
+  "h": 282,
+  "page": 128,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p128_05.jpg",
+  "w": 1150,
+  "h": 358,
+  "page": 128,
+  "idx": 5,
+  "category": "math"
+ },
+ {
+  "file": "p128_06.jpg",
+  "w": 1150,
+  "h": 327,
+  "page": 128,
+  "idx": 6,
+  "category": "math"
+ },
+ {
+  "file": "p128_07.jpg",
+  "w": 854,
+  "h": 467,
+  "page": 128,
+  "idx": 7,
+  "category": "math"
+ },
+ {
+  "file": "p129_00.jpg",
+  "w": 1150,
+  "h": 1021,
+  "page": 129,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p129_01.jpg",
+  "w": 1150,
+  "h": 854,
+  "page": 129,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p129_02.jpg",
+  "w": 805,
+  "h": 207,
+  "page": 129,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p129_03.jpg",
+  "w": 507,
+  "h": 189,
+  "page": 129,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p129_04.jpg",
+  "w": 915,
+  "h": 536,
+  "page": 129,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p129_05.jpg",
+  "w": 974,
+  "h": 576,
+  "page": 129,
+  "idx": 5,
+  "category": "math"
+ },
+ {
+  "file": "p129_06.jpg",
+  "w": 499,
+  "h": 199,
+  "page": 129,
+  "idx": 6,
+  "category": "math"
+ },
+ {
+  "file": "p129_07.jpg",
+  "w": 422,
+  "h": 196,
+  "page": 129,
+  "idx": 7,
+  "category": "math"
+ },
+ {
+  "file": "p129_08.jpg",
+  "w": 1150,
+  "h": 493,
+  "page": 129,
+  "idx": 8,
+  "category": "math"
+ },
+ {
+  "file": "p129_09.jpg",
+  "w": 1150,
+  "h": 1041,
+  "page": 129,
+  "idx": 9,
+  "category": "math"
+ },
+ {
+  "file": "p130_00.jpg",
+  "w": 1044,
+  "h": 781,
+  "page": 130,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p130_01.jpg",
+  "w": 1055,
+  "h": 340,
+  "page": 130,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p130_02.jpg",
+  "w": 1150,
+  "h": 285,
+  "page": 130,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p130_03.jpg",
+  "w": 1031,
+  "h": 322,
+  "page": 130,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p130_04.jpg",
+  "w": 1150,
+  "h": 322,
+  "page": 130,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p130_05.jpg",
+  "w": 479,
+  "h": 188,
+  "page": 130,
+  "idx": 5,
+  "category": "math"
+ },
+ {
+  "file": "p130_06.jpg",
+  "w": 479,
+  "h": 189,
+  "page": 130,
+  "idx": 6,
+  "category": "math"
+ },
+ {
+  "file": "p130_07.jpg",
+  "w": 742,
+  "h": 247,
+  "page": 130,
+  "idx": 7,
+  "category": "math"
+ },
+ {
+  "file": "p130_08.jpg",
+  "w": 1150,
+  "h": 136,
+  "page": 130,
+  "idx": 8,
+  "category": "math"
+ },
+ {
+  "file": "p130_09.jpg",
+  "w": 1150,
+  "h": 193,
+  "page": 130,
+  "idx": 9,
+  "category": "math"
+ },
+ {
+  "file": "p130_10.jpg",
+  "w": 1150,
+  "h": 376,
+  "page": 130,
+  "idx": 10,
+  "category": "math"
+ },
+ {
+  "file": "p130_11.jpg",
+  "w": 1150,
+  "h": 517,
+  "page": 130,
+  "idx": 11,
+  "category": "math"
+ },
+ {
+  "file": "p131_00.jpg",
+  "w": 1150,
+  "h": 307,
+  "page": 131,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p131_01.jpg",
+  "w": 1150,
+  "h": 331,
+  "page": 131,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p131_02.jpg",
+  "w": 1150,
+  "h": 616,
+  "page": 131,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p131_03.jpg",
+  "w": 1150,
+  "h": 383,
+  "page": 131,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p132_00.jpg",
+  "w": 582,
+  "h": 463,
+  "page": 132,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p132_01.jpg",
+  "w": 1145,
+  "h": 469,
+  "page": 132,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p132_02.jpg",
+  "w": 941,
+  "h": 601,
+  "page": 132,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p132_03.jpg",
+  "w": 359,
+  "h": 201,
+  "page": 132,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p132_04.jpg",
+  "w": 1150,
+  "h": 1720,
+  "page": 132,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p132_05.jpg",
+  "w": 662,
+  "h": 220,
+  "page": 132,
+  "idx": 5,
+  "category": "math"
+ },
+ {
+  "file": "p132_06.jpg",
+  "w": 1150,
+  "h": 333,
+  "page": 132,
+  "idx": 6,
+  "category": "math"
+ },
+ {
+  "file": "p132_07.jpg",
+  "w": 735,
+  "h": 504,
+  "page": 132,
+  "idx": 7,
+  "category": "math"
+ },
+ {
+  "file": "p132_08.jpg",
+  "w": 901,
+  "h": 576,
+  "page": 132,
+  "idx": 8,
+  "category": "math"
+ },
+ {
+  "file": "p133_00.jpg",
+  "w": 1092,
+  "h": 446,
+  "page": 133,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p133_01.jpg",
+  "w": 783,
+  "h": 312,
+  "page": 133,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p133_02.jpg",
+  "w": 573,
+  "h": 309,
+  "page": 133,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p133_03.jpg",
+  "w": 568,
+  "h": 284,
+  "page": 133,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p133_04.jpg",
+  "w": 612,
+  "h": 322,
+  "page": 133,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p133_05.jpg",
+  "w": 635,
+  "h": 315,
+  "page": 133,
+  "idx": 5,
+  "category": "math"
+ },
+ {
+  "file": "p133_06.jpg",
+  "w": 915,
+  "h": 637,
+  "page": 133,
+  "idx": 6,
+  "category": "math"
+ },
+ {
+  "file": "p133_07.jpg",
+  "w": 484,
+  "h": 183,
+  "page": 133,
+  "idx": 7,
+  "category": "math"
+ },
+ {
+  "file": "p133_08.jpg",
+  "w": 1052,
+  "h": 287,
+  "page": 133,
+  "idx": 8,
+  "category": "math"
+ },
+ {
+  "file": "p133_09.jpg",
+  "w": 720,
+  "h": 415,
+  "page": 133,
+  "idx": 9,
+  "category": "math"
+ },
+ {
+  "file": "p133_10.jpg",
+  "w": 307,
+  "h": 494,
+  "page": 133,
+  "idx": 10,
+  "category": "math"
+ },
+ {
+  "file": "p133_11.jpg",
+  "w": 1150,
+  "h": 800,
+  "page": 133,
+  "idx": 11,
+  "category": "math"
+ },
+ {
+  "file": "p134_00.jpg",
+  "w": 695,
+  "h": 292,
+  "page": 134,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p134_01.jpg",
+  "w": 979,
+  "h": 750,
+  "page": 134,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p134_02.jpg",
+  "w": 842,
+  "h": 291,
+  "page": 134,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p134_03.jpg",
+  "w": 1150,
+  "h": 434,
+  "page": 134,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p134_04.jpg",
+  "w": 807,
+  "h": 1093,
+  "page": 134,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p135_00.jpg",
+  "w": 1104,
+  "h": 454,
+  "page": 135,
+  "idx": 0,
+  "category": "math"
+ },
+ {
+  "file": "p135_01.jpg",
+  "w": 1150,
+  "h": 391,
+  "page": 135,
+  "idx": 1,
+  "category": "math"
+ },
+ {
+  "file": "p135_02.jpg",
+  "w": 1150,
+  "h": 737,
+  "page": 135,
+  "idx": 2,
+  "category": "math"
+ },
+ {
+  "file": "p135_03.jpg",
+  "w": 576,
+  "h": 296,
+  "page": 135,
+  "idx": 3,
+  "category": "math"
+ },
+ {
+  "file": "p135_04.jpg",
+  "w": 1150,
+  "h": 1483,
+  "page": 135,
+  "idx": 4,
+  "category": "math"
+ },
+ {
+  "file": "p135_05.jpg",
+  "w": 924,
+  "h": 1001,
+  "page": 135,
+  "idx": 5,
+  "category": "math"
+ }
+]
