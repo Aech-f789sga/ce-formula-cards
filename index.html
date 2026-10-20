@@ -71,7 +71,7 @@
   .switch-link{
     display:inline-flex;align-items:center;gap:7px;padding:8px 14px;border-radius:999px;
     border:1px solid var(--line);background:#fff;font-size:12.5px;font-weight:600;color:var(--ink-2);
-    transition:.16s;white-space:nowrap;
+    transition:.16s;white-space:nowrap;text-decoration:none;
   }
   .switch-link:hover{transform:translateY(-1px);box-shadow:0 10px 20px -16px rgba(0,0,0,.6)}
 
@@ -212,8 +212,9 @@
   .bar{flex:1;height:5px;border-radius:99px;background:rgba(27,26,23,.09);overflow:hidden}
   .bar i{display:block;height:100%;width:0;background:var(--accent);border-radius:99px;transition:width .4s ease}
   .progress-line .txt{font-size:11.5px;color:var(--muted);font-variant-numeric:tabular-nums;white-space:nowrap}
-  .credit{text-align:center;font-size:11.5px;color:var(--muted);margin:22px 0 0;line-height:1.6}
+  .credit{text-align:center;font-size:11.5px;color:var(--muted);margin:26px 0 0;padding-top:18px;border-top:1px solid var(--line-2);line-height:1.65}
   .credit b{color:var(--ink-2);font-weight:600}
+  .credit .sep{opacity:.45;margin:0 7px}
 
   /* ---------------- browse drawer ---------------- */
   .scrim{position:fixed;inset:0;background:rgba(20,19,16,.32);backdrop-filter:blur(2px);opacity:0;pointer-events:none;transition:.25s;z-index:60}
@@ -407,7 +408,8 @@
     </div>
 
     <p class="credit">
-      Formula cards by <b>Engr. Aleah Pearl Javier Once, RCE 2024</b> · cropped page-by-page for review.
+      Formulas from <b>Engr. Aleah Pearl Javier Once, RCE 2024</b>
+      <span class="sep">·</span> cropped page by page from the review deck
     </p>
   </section>
 </main>

@@ -121,7 +121,7 @@ The repo is a plain static site. On Vercel: import the repo, framework preset **
 
 ## Credit
 
-- Formulas and handwriting: **FORMULA CARD (Engr. APJO)**, a review deck compiled by Engr. APJO for the Philippine CE board exam.
-- Definitions: the **Engineereya** definition-of-terms decks (Geotechnical, Fluid Mechanics & Hydraulics, Structural & Construction, Transportation, Highway & Ports/Harbor).
+- **Formulas** — **Engr. Aleah Pearl Javier Once, RCE 2024** ("Engr. APJO"). Her formula card deck is the source of all 971 formula cards; the handwriting and every equation on them are hers.
+- **Terms** — **Engineereya's Vlog**, whose definition-of-terms decks (Geotechnical, Fluid Mechanics & Hydraulics, Structural & Construction, Transportation, Highway & Ports/Harbor) are the source of all 1,059 definitions.
 
-This repo only re-presents that material as interactive study tools; the engineering content is theirs. Terms are reproduced as written in the source PDFs, including their wording and any source typos.
+Both credits are also shown at the bottom of their page on the site. This repo only re-presents that material as interactive study tools; the engineering content is theirs. Terms are reproduced as written in the source PDFs, including their wording and any source typos.
