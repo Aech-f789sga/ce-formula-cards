@@ -1,0 +1,770 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Term Quiz — Civil Engineering Board Review</title>
+<meta name="description" content="Definition-of-terms quiz built from the Engineereya review decks — multiple choice with related distractors, or flashcards with know / don't know.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%231c4f7c'/%3E%3Ctext x='32' y='45' font-family='Georgia,serif' font-size='34' fill='%23fff' text-anchor='middle'%3EQ%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#f4f1ea;
+    --paper-2:#efece4;
+    --card:#fffefb;
+    --ink:#1b1a17;
+    --ink-2:#3d3a34;
+    --muted:#7b756a;
+    --line:rgba(27,26,23,.10);
+    --line-2:rgba(27,26,23,.06);
+    --shadow:0 1px 2px rgba(27,26,23,.05),0 18px 50px -22px rgba(27,26,23,.35);
+    --radius:26px;
+    --good:#2f7d4f;
+    --bad:#c0392b;
+    --accent:#1c4f7c;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{
+    background:
+      radial-gradient(1200px 600px at 15% -10%, #fffdf8 0%, transparent 60%),
+      radial-gradient(900px 500px at 90% 0%, #f7f4ec 0%, transparent 55%),
+      var(--paper);
+    color:var(--ink);
+    font-family:Inter,system-ui,-apple-system,"Segoe UI",sans-serif;
+    -webkit-font-smoothing:antialiased;
+    min-height:100%;
+  }
+  body::before{
+    content:"";position:fixed;inset:0;pointer-events:none;z-index:0;
+    background-image:radial-gradient(rgba(27,26,23,.16) 1px, transparent 1px);
+    background-size:26px 26px;opacity:.16;
+    mask-image:radial-gradient(circle at 50% 30%, #000 0%, transparent 78%);
+    -webkit-mask-image:radial-gradient(circle at 50% 30%, #000 0%, transparent 78%);
+  }
+  button{font:inherit;color:inherit;background:none;border:0;cursor:pointer;padding:0}
+  a{color:inherit;text-decoration:none}
+  ::selection{background:rgba(28,79,124,.16)}
+
+  /* ---------------- top bar ---------------- */
+  .topbar{
+    position:sticky;top:0;z-index:40;
+    display:flex;align-items:center;gap:16px;
+    padding:13px 26px;
+    background:rgba(250,248,242,.84);
+    backdrop-filter:blur(18px) saturate(1.2);-webkit-backdrop-filter:blur(18px) saturate(1.2);
+    border-bottom:1px solid var(--line-2);
+  }
+  .brand{display:flex;align-items:center;gap:11px;flex:0 0 auto}
+  .logo{
+    width:34px;height:34px;border-radius:11px;display:grid;place-items:center;
+    background:linear-gradient(145deg,#1c4f7c,#2f7ba8);
+    box-shadow:inset 0 0 0 1px rgba(255,255,255,.25), 0 6px 14px -6px rgba(28,79,124,.6);
+    color:#fff;font-family:Fraunces,Georgia,serif;font-size:17px;font-weight:600;
+  }
+  .brand-txt b{display:block;font-family:Fraunces,Georgia,serif;font-size:16px;letter-spacing:-.01em;line-height:1.1}
+  .brand-txt span{display:block;font-size:11px;color:var(--muted);letter-spacing:.06em;text-transform:uppercase;margin-top:2px}
+
+  .switch-link{
+    display:inline-flex;align-items:center;gap:7px;padding:8px 14px;border-radius:999px;
+    border:1px solid var(--line);background:#fff;font-size:12.5px;font-weight:600;color:var(--ink-2);
+    transition:.16s;white-space:nowrap;
+  }
+  .switch-link:hover{transform:translateY(-1px);box-shadow:0 10px 20px -16px rgba(0,0,0,.6)}
+
+  .top-right{margin-left:auto;display:flex;align-items:center;gap:10px}
+  .scorepill{
+    display:flex;align-items:center;gap:8px;padding:6px 13px;border-radius:999px;
+    border:1px solid var(--line);background:#fff;font-size:12px;font-weight:600;
+    color:var(--ink-2);font-variant-numeric:tabular-nums;
+  }
+  .scorepill i{width:7px;height:7px;border-radius:50%;background:var(--good);display:block}
+  .scorepill .sep{width:1px;height:12px;background:var(--line);display:block}
+
+  /* ---------------- shell ---------------- */
+  .wrap{position:relative;z-index:1;max-width:1040px;margin:0 auto;padding:22px 26px 46px}
+  .head{margin:4px 2px 14px}
+  .head h1{font-family:Fraunces,Georgia,serif;font-size:clamp(23px,3.2vw,31px);letter-spacing:-.02em;margin:0;line-height:1.12}
+  .head p{color:var(--muted);font-size:13px;margin:6px 0 0;max-width:660px;line-height:1.5}
+
+  .bar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:16px 0 14px}
+  .chips{display:flex;gap:6px;flex-wrap:wrap;flex:1 1 auto;min-width:0}
+  .chip{
+    white-space:nowrap;padding:7px 13px;border-radius:999px;font-size:12.5px;font-weight:600;
+    color:var(--ink-2);border:1px solid var(--line);background:rgba(255,255,255,.55);
+    display:flex;align-items:center;gap:7px;transition:.16s;
+  }
+  .chip:hover{background:#fff}
+  .chip .dot{width:7px;height:7px;border-radius:50%;background:currentColor;opacity:.5}
+  .chip[aria-pressed="true"]{background:#fff;border-color:transparent;box-shadow:0 1px 2px rgba(0,0,0,.05),0 8px 20px -14px rgba(0,0,0,.5);color:var(--ink)}
+  .chip[aria-pressed="true"] .dot{opacity:1}
+  .chip.review{border-style:dashed}
+  .chip.review[aria-pressed="true"]{color:var(--bad);border-style:solid}
+
+  .seg{display:flex;gap:3px;padding:3px;border-radius:12px;background:rgba(27,26,23,.06);flex:0 0 auto;margin-left:auto}
+  .seg button{
+    padding:7px 13px;border-radius:9px;font-size:12px;font-weight:600;color:var(--muted);transition:.16s;white-space:nowrap;
+  }
+  .seg button[aria-pressed="true"]{background:#fff;color:var(--ink);box-shadow:0 1px 3px rgba(0,0,0,.08)}
+
+  /* ---------------- shared panel ---------------- */
+  .panel{
+    background:var(--card);border-radius:var(--radius);border:1px solid var(--line);
+    box-shadow:var(--shadow);position:relative;overflow:hidden;
+  }
+  .panel::before{
+    content:"";position:absolute;left:0;right:0;top:0;height:4px;
+    background:linear-gradient(90deg,var(--accent),color-mix(in srgb,var(--accent) 30%,#fff));
+  }
+  .meta{
+    display:flex;align-items:center;gap:9px;flex-wrap:wrap;
+    font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);
+    padding:20px 26px 0;
+  }
+  .meta .tag{
+    display:inline-flex;align-items:center;gap:6px;padding:4px 10px;border-radius:999px;
+    background:color-mix(in srgb,var(--accent) 10%,#fff);color:var(--accent);font-weight:700;letter-spacing:.05em;
+  }
+  .meta .num{margin-left:auto;font-variant-numeric:tabular-nums;letter-spacing:.04em}
+
+  /* ---------------- multiple choice ---------------- */
+  #mcView{padding:0 0 4px;min-height:392px;display:flex;flex-direction:column}
+  #mcView[hidden]{display:none}
+  .stem{flex:0 0 auto;
+    padding:16px 26px 4px;font-family:Fraunces,Georgia,serif;
+    font-size:clamp(18px,2.5vw,23px);line-height:1.42;letter-spacing:-.01em;
+    max-height:min(34vh,260px);overflow:auto;
+  }
+  .stem.long{font-family:Inter,sans-serif;font-size:14.5px;line-height:1.65;letter-spacing:0}
+  .ask{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);padding:16px 26px 10px}
+
+  .opts{display:grid;grid-template-columns:1fr 1fr;gap:10px;padding:0 26px 8px}
+  .opt{
+    display:flex;align-items:flex-start;gap:11px;text-align:left;
+    padding:13px 15px;border-radius:14px;border:1px solid var(--line);background:#fff;
+    font-size:14px;font-weight:500;line-height:1.35;transition:.14s ease;position:relative;
+  }
+  .opt:hover:not(.done){transform:translateY(-1px);border-color:rgba(27,26,23,.2);box-shadow:0 10px 22px -18px rgba(0,0,0,.6)}
+  .opt .key{
+    flex:0 0 auto;width:22px;height:22px;border-radius:7px;display:grid;place-items:center;
+    background:rgba(27,26,23,.06);font-size:11px;font-weight:700;color:var(--ink-2);margin-top:1px;
+  }
+  .opt .txt{min-width:0}
+  .opt.correct{background:color-mix(in srgb,var(--good) 9%,#fff);border-color:color-mix(in srgb,var(--good) 45%,#fff)}
+  .opt.correct .key{background:var(--good);color:#fff}
+  .opt.wrong{background:color-mix(in srgb,var(--bad) 8%,#fff);border-color:color-mix(in srgb,var(--bad) 42%,#fff)}
+  .opt.wrong .key{background:var(--bad);color:#fff}
+  .opt.dim{opacity:.45}
+  .opt.done{cursor:default}
+
+  .mcfoot{
+    display:flex;align-items:center;gap:12px;padding:12px 26px 20px;
+    border-top:1px solid var(--line-2);margin-top:auto;
+  }
+  .verdict{font-size:12.5px;font-weight:600;color:var(--muted);min-height:18px}
+  .verdict.ok{color:var(--good)}
+  .verdict.no{color:var(--bad)}
+  .mcfoot .spacer{flex:1}
+
+  /* ---------------- buttons ---------------- */
+  .btn{
+    display:inline-flex;align-items:center;gap:8px;padding:10px 18px;border-radius:12px;
+    font-size:13px;font-weight:600;border:1px solid var(--line);background:#fff;color:var(--ink-2);
+    transition:.15s;
+  }
+  .btn:hover:not(:disabled){transform:translateY(-1px);box-shadow:0 10px 20px -16px rgba(0,0,0,.6)}
+  .btn:disabled{opacity:.38;cursor:default}
+  .btn.primary{background:var(--ink);color:#fff;border-color:var(--ink)}
+  .btn.ghost{background:transparent}
+  .btn.good{background:color-mix(in srgb,var(--good) 12%,#fff);border-color:color-mix(in srgb,var(--good) 35%,#fff);color:var(--good)}
+  .btn.bad{background:color-mix(in srgb,var(--bad) 10%,#fff);border-color:color-mix(in srgb,var(--bad) 32%,#fff);color:var(--bad)}
+  .btn svg{flex:0 0 auto}
+
+  /* ---------------- flashcards ---------------- */
+  .fc-top{display:flex;align-items:center;gap:10px;padding:18px 26px 0;flex-wrap:wrap}
+  .fc-top .spacer{flex:1}
+  .shell{perspective:1800px;padding:16px 26px 0}
+  .card{
+    position:relative;width:100%;min-height:min(44vh,330px);
+    transform-style:preserve-3d;transition:transform .6s cubic-bezier(.4,.12,.2,1);
+    cursor:pointer;
+  }
+  .card.flipped{transform:rotateY(180deg)}
+  .face{
+    position:absolute;inset:0;backface-visibility:hidden;-webkit-backface-visibility:hidden;
+    border-radius:20px;border:1px solid var(--line);background:#fff;
+    display:flex;flex-direction:column;justify-content:center;
+    padding:28px 32px;overflow:auto;
+  }
+  .face.back{transform:rotateY(180deg);background:color-mix(in srgb,var(--accent) 4%,#fff)}
+  .face .kicker{font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);margin-bottom:10px}
+  .face .big{font-family:Fraunces,Georgia,serif;font-size:clamp(24px,3.6vw,36px);line-height:1.16;letter-spacing:-.02em;margin:0}
+  .face .body{font-size:clamp(14px,1.6vw,16.5px);line-height:1.62;color:var(--ink-2);margin:0}
+  .face .hint{position:absolute;left:32px;bottom:16px;font-size:11px;color:var(--muted);letter-spacing:.04em}
+  .badge{
+    position:absolute;right:16px;top:14px;font-size:10px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;
+    padding:4px 9px;border-radius:999px;background:color-mix(in srgb,var(--bad) 12%,#fff);color:var(--bad);
+  }
+
+  .fc-foot{display:flex;align-items:center;gap:9px;padding:18px 26px 20px;flex-wrap:wrap}
+  .fc-foot .spacer{flex:1}
+  .fc-count{font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
+
+  .progress{height:4px;border-radius:999px;background:rgba(27,26,23,.08);margin:0 26px 18px;overflow:hidden}
+  .progress i{display:block;height:100%;width:0;background:var(--accent);border-radius:999px;transition:width .3s ease}
+
+  .empty{padding:44px 24px;text-align:center;color:var(--muted);font-size:13.5px;line-height:1.6}
+
+  .hintbar{
+    display:flex;align-items:center;gap:14px;flex-wrap:wrap;
+    margin-top:14px;font-size:11.5px;color:var(--muted);
+  }
+  .hintbar kbd{
+    font-family:inherit;font-size:10.5px;font-weight:600;padding:2px 6px;border-radius:5px;
+    background:#fff;border:1px solid var(--line);box-shadow:0 1px 0 rgba(0,0,0,.04);color:var(--ink-2);
+  }
+
+  @media (max-width:820px){
+    .opts{grid-template-columns:1fr}
+  }
+  @media (max-width:620px){
+    .topbar{padding:10px 14px;gap:10px;flex-wrap:wrap}
+    .brand-txt span{display:none}
+    .switch-link{padding:7px 11px;font-size:12px}
+    .wrap{padding:16px 14px 40px}
+    .meta,.stem,.ask,.opts,.mcfoot,.fc-top,.shell,.fc-foot{padding-left:16px;padding-right:16px}
+    .progress{margin-left:16px;margin-right:16px}
+    .scorepill{padding:5px 10px;font-size:11px}
+    .face{padding:22px}
+    .face .hint{left:22px}
+    .hintbar{display:none}
+  }
+</style>
+</head>
+<body>
+
+<header class="topbar">
+  <div class="brand">
+    <div class="logo">Q</div>
+    <div class="brand-txt">
+      <b>Term Quiz</b>
+      <span>RCE Board Review</span>
+    </div>
+  </div>
+  <div class="top-right">
+    <a href="index.html" class="switch-link">
+      <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5"/><path d="M11 6l-6 6 6 6"/></svg>
+      Formulas
+    </a>
+    <div class="scorepill" id="scorePill">
+      <i></i><span id="scoreTxt">0 / 0</span>
+      <span class="sep"></span><span id="missTxt">0 missed</span>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="head">
+    <h1 id="title">All terms</h1>
+    <p id="sub">1,059 terms and definitions from the Engineereya review decks.</p>
+  </div>
+
+  <div class="bar">
+    <div class="chips" id="chips"></div>
+    <div class="seg" id="modeSeg">
+      <button data-mode="mc" aria-pressed="true">Multiple choice</button>
+      <button data-mode="fc" aria-pressed="false">Flashcards</button>
+    </div>
+  </div>
+
+  <section class="panel" id="mcView">
+    <div class="meta">
+      <span class="tag" id="mcTag">Geotechnical</span>
+      <span id="mcSec">Soil Properties</span>
+      <span class="num" id="mcNum">1 / 150</span>
+    </div>
+    <div class="stem" id="mcStem">…</div>
+    <div class="ask">Which term matches this definition?</div>
+    <div class="opts" id="opts"></div>
+    <div class="mcfoot">
+      <span class="verdict" id="verdict"></span>
+      <span class="spacer"></span>
+      <button class="btn" id="btnSkip">Skip</button>
+      <button class="btn primary" id="btnNextQ">Next</button>
+    </div>
+  </section>
+
+  <section class="panel" id="fcView" hidden>
+    <div class="fc-top">
+      <span class="tag" id="fcTag" style="display:inline-flex;align-items:center;gap:6px;padding:4px 10px;border-radius:999px;font-size:11px;font-weight:700;letter-spacing:.05em;text-transform:uppercase">Geotechnical</span>
+      <span style="font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)" id="fcSec">Soil Properties</span>
+      <span class="spacer"></span>
+      <div class="seg" id="dirSeg">
+        <button data-dir="t2d" aria-pressed="true">Term → Definition</button>
+        <button data-dir="d2t" aria-pressed="false">Definition → Term</button>
+      </div>
+    </div>
+    <div class="shell">
+      <div class="card" id="card">
+        <div class="face front" id="faceFront">
+          <div class="kicker" id="fcKicker">Term</div>
+          <p class="big" id="fcFront">…</p>
+          <span class="hint">Click or press Space to flip</span>
+        </div>
+        <div class="face back" id="faceBack">
+          <div class="kicker" id="fcKickerBack">Definition</div>
+          <p class="body" id="fcBack">…</p>
+        </div>
+      </div>
+    </div>
+    <div class="progress"><i id="fcBar"></i></div>
+    <div class="fc-foot">
+      <button class="btn" id="btnPrev">
+        <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg>
+        Previous
+      </button>
+      <span class="spacer"></span>
+      <span class="fc-count" id="fcCount">1 of 150</span>
+      <span class="spacer"></span>
+      <button class="btn bad" id="btnDont">Don't know</button>
+      <button class="btn good" id="btnKnow">Know</button>
+      <button class="btn primary" id="btnNext">
+        Next
+        <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18l6-6-6-6"/></svg>
+      </button>
+    </div>
+  </section>
+
+  <div class="hintbar">
+    <span><kbd>1</kbd>–<kbd>4</kbd> answer</span>
+    <span><kbd>Space</kbd> flip</span>
+    <span><kbd>←</kbd><kbd>→</kbd> prev / next</span>
+    <span><kbd>K</kbd> know</span>
+    <span><kbd>X</kbd> don't know</span>
+    <span><kbd>M</kbd> switch mode</span>
+  </div>
+</main>
+
+<script src="terms.js"></script>
+<script>
+(function(){
+  "use strict";
+
+  const CATS = window.TERMS.cats;
+  const ITEMS = window.TERMS.items;
+  const STORE = "cefc.terms.v1";
+  const LETTERS = ["A","B","C","D"];
+
+  const el = id => document.getElementById(id);
+
+  /* ---------------- state ---------------- */
+  const state = {
+    cat: "all",
+    mode: "mc",
+    dir: "t2d",
+    reviewOnly: false,
+    known: new Set(),          // session only, per the "know" semantics
+    missed: new Set(),         // survives a reload, for "highlight for later"
+    mc: { queue: [], pos: 0, asked: 0, right: 0, answered: null },
+    fc: { queue: [], pos: 0, flipped: false }
+  };
+
+  function load(){
+    try{
+      const raw = JSON.parse(localStorage.getItem(STORE) || "{}");
+      if (Array.isArray(raw.missed)) state.missed = new Set(raw.missed);
+      if (raw.cat) state.cat = raw.cat;
+      if (raw.mode === "mc" || raw.mode === "fc") state.mode = raw.mode;
+      if (raw.dir === "t2d" || raw.dir === "d2t") state.dir = raw.dir;
+      if (typeof raw.reviewOnly === "boolean") state.reviewOnly = raw.reviewOnly;
+    }catch(e){}
+  }
+  function save(){
+    try{
+      localStorage.setItem(STORE, JSON.stringify({
+        missed: [...state.missed], cat: state.cat, mode: state.mode,
+        dir: state.dir, reviewOnly: state.reviewOnly
+      }));
+    }catch(e){}
+  }
+
+  const accentOf = cat => (CATS.find(c => c.id === cat) || {}).color || "#1c4f7c";
+  const nameOf = cat => (CATS.find(c => c.id === cat) || {}).name || cat;
+  const item = i => ITEMS[i];
+
+  function pool(){
+    return ITEMS.filter(it =>
+      (state.cat === "all" || it.cat === state.cat) &&
+      (!state.reviewOnly || state.missed.has(it.i))
+    ).map(it => it.i);
+  }
+
+  function shuffle(a){
+    for (let i = a.length - 1; i > 0; i--){
+      const j = Math.floor(Math.random() * (i + 1));
+      [a[i], a[j]] = [a[j], a[i]];
+    }
+    return a;
+  }
+
+  /* ---------------- deck chips ---------------- */
+  function renderChips(){
+    const wrap = el("chips");
+    wrap.textContent = "";
+    const mk = (id, label, color, count, extra) => {
+      const b = document.createElement("button");
+      b.className = "chip" + (extra || "");
+      b.setAttribute("aria-pressed", String(state.cat === id && !state.reviewOnly));
+      b.dataset.cat = id;
+      if (color) b.style.color = color;
+      const dot = document.createElement("span");
+      dot.className = "dot";
+      b.appendChild(dot);
+      b.appendChild(document.createTextNode(label + (count != null ? " " + count : "")));
+      b.addEventListener("click", () => {
+        state.cat = id;
+        state.reviewOnly = false;
+        restart();
+      });
+      wrap.appendChild(b);
+    };
+    mk("all", "All", null, ITEMS.length);
+    CATS.forEach(c => mk(c.id, c.name, c.color, c.count));
+    if (state.missed.size){
+      const b = document.createElement("button");
+      b.className = "chip review";
+      b.setAttribute("aria-pressed", String(state.reviewOnly));
+      b.style.color = "#c0392b";
+      b.appendChild(document.createTextNode("Needs review " + state.missed.size));
+      b.addEventListener("click", () => { state.reviewOnly = true; restart(); });
+      wrap.appendChild(b);
+    }
+  }
+
+  /* ---------------- multiple choice ---------------- */
+  function buildOptions(it){
+    const picked = [it.i];
+    const seen = new Set([it.t.toLowerCase()]);
+    const near = shuffle(it.near.slice());
+    for (const j of near){
+      if (picked.length >= 4) break;
+      const t = ITEMS[j].t.toLowerCase();
+      if (seen.has(t)) continue;
+      seen.add(t);
+      picked.push(j);
+    }
+    // a deck can be small; fall back to anything in the same category
+    if (picked.length < 4){
+      for (const j of shuffle(ITEMS.filter(x => x.cat === it.cat).map(x => x.i))){
+        if (picked.length >= 4) break;
+        const t = ITEMS[j].t.toLowerCase();
+        if (seen.has(t)) continue;
+        seen.add(t);
+        picked.push(j);
+      }
+    }
+    return shuffle(picked);
+  }
+
+  function renderMC(){
+    const q = state.mc;
+    const view = el("mcView");
+
+    if (!q.queue.length){
+      view.querySelector(".stem").textContent = "";
+      el("opts").textContent = "";
+      el("mcNum").textContent = "0 / 0";
+      el("mcStem").textContent = state.reviewOnly
+        ? "Nothing left in the review pile. Mark some answers wrong and they will show up here."
+        : "No terms in this deck.";
+      el("mcStem").classList.remove("long");
+      el("verdict").textContent = "";
+      el("verdict").className = "verdict";
+      el("btnNextQ").disabled = true;
+      el("btnSkip").disabled = true;
+      return;
+    }
+
+    if (q.pos >= q.queue.length) q.pos = 0;
+    const it = item(q.queue[q.pos]);
+    const accent = accentOf(it.cat);
+    view.style.setProperty("--accent", accent);
+    el("mcTag").textContent = nameOf(it.cat);
+    el("mcSec").textContent = it.sec || "";
+    el("mcNum").textContent = (q.pos + 1) + " / " + q.queue.length;
+
+    const stem = el("mcStem");
+    stem.textContent = it.d;
+    stem.classList.toggle("long", it.d.length > 180);
+    stem.scrollTop = 0;
+
+    const opts = el("opts");
+    opts.textContent = "";
+    q.answered = null;
+    const order = buildOptions(it);
+    order.forEach((idx, k) => {
+      const b = document.createElement("button");
+      b.className = "opt";
+      b.dataset.idx = idx;
+      const key = document.createElement("span");
+      key.className = "key";
+      key.textContent = LETTERS[k];
+      const txt = document.createElement("span");
+      txt.className = "txt";
+      txt.textContent = ITEMS[idx].t;
+      b.appendChild(key);
+      b.appendChild(txt);
+      b.addEventListener("click", () => answer(idx, b));
+      opts.appendChild(b);
+    });
+
+    el("verdict").textContent = "";
+    el("verdict").className = "verdict";
+    el("btnNextQ").disabled = false;
+    el("btnSkip").disabled = false;
+    el("btnNextQ").textContent = q.pos === q.queue.length - 1 ? "Finish" : "Next";
+  }
+
+  function answer(idx, btn){
+    const q = state.mc;
+    if (q.answered !== null) return;
+    q.answered = idx;
+    const it = item(q.queue[q.pos]);
+    const right = idx === it.i;
+    q.asked++;
+    if (right){
+      q.right++;
+      state.missed.delete(it.i);
+    } else {
+      state.missed.add(it.i);
+    }
+    save();
+
+    [...el("opts").children].forEach(b => {
+      b.classList.add("done");
+      const j = Number(b.dataset.idx);
+      if (j === it.i) b.classList.add("correct");
+      else if (b === btn) b.classList.add("wrong");
+      else b.classList.add("dim");
+    });
+
+    const v = el("verdict");
+    if (right){
+      v.textContent = "Correct";
+      v.className = "verdict ok";
+      setTimeout(() => { if (state.mc.answered === idx) nextQ(); }, 620);
+    } else {
+      v.textContent = "Answer: " + it.t;
+      v.className = "verdict no";
+    }
+    paintScore();
+    renderChips();
+  }
+
+  function nextQ(){
+    const q = state.mc;
+    if (!q.queue.length) return;
+    q.pos = (q.pos + 1) % q.queue.length;
+    renderMC();
+  }
+
+  /* ---------------- flashcards ---------------- */
+  function renderFC(){
+    const f = state.fc;
+    const it = f.queue.length ? item(f.queue[Math.min(f.pos, f.queue.length - 1)]) : null;
+    const card = el("card");
+    card.classList.remove("flipped");
+    f.flipped = false;
+
+    if (!it){
+      el("fcFront").textContent = state.reviewOnly
+        ? "Nothing left in the review pile."
+        : "No terms in this deck.";
+      el("fcBack").textContent = "";
+      el("fcCount").textContent = "0 of 0";
+      el("fcBar").style.width = "0%";
+      el("fcTag").textContent = "";
+      el("fcSec").textContent = "";
+      el("btnPrev").disabled = true;
+      el("btnNext").disabled = true;
+      el("btnKnow").disabled = true;
+      el("btnDont").disabled = true;
+      return;
+    }
+
+    const accent = accentOf(it.cat);
+    el("fcView").style.setProperty("--accent", accent);
+    el("fcTag").textContent = nameOf(it.cat);
+    el("fcSec").textContent = it.sec || "";
+    el("fcTag").style.color = accent;
+    el("fcTag").style.background = "color-mix(in srgb," + accent + " 12%, #fff)";
+
+    const termFirst = state.dir === "t2d";
+    el("fcKicker").textContent = termFirst ? "Term" : "Definition";
+    el("fcKickerBack").textContent = termFirst ? "Definition" : "Term";
+    el("fcFront").textContent = termFirst ? it.t : it.d;
+    el("fcBack").textContent = termFirst ? it.d : it.t;
+    el("fcFront").classList.toggle("big", termFirst);
+    el("fcBack").classList.toggle("big", !termFirst);
+    el("fcBack").classList.toggle("body", termFirst);
+    el("fcFront").classList.toggle("body", !termFirst);
+    el("fcFront").style.fontSize = termFirst ? "" : "";
+
+    const stale = el("faceBack").querySelector(".badge");
+    if (stale) stale.remove();
+    if (state.missed.has(it.i)){
+      const b = document.createElement("span");
+      b.className = "badge";
+      b.textContent = "needs review";
+      el("faceBack").appendChild(b);
+    }
+
+    el("fcCount").textContent = (f.pos + 1) + " of " + f.queue.length;
+    el("fcBar").style.width = Math.round(((f.pos + 1) / f.queue.length) * 100) + "%";
+    el("btnPrev").disabled = f.pos === 0;
+    el("btnNext").disabled = f.queue.length < 2;
+    el("btnKnow").disabled = false;
+    el("btnDont").disabled = false;
+  }
+
+  function flip(){
+    const f = state.fc;
+    if (!f.queue.length) return;
+    f.flipped = !f.flipped;
+    el("card").classList.toggle("flipped", f.flipped);
+  }
+
+  function fcNext(step){
+    const f = state.fc;
+    if (!f.queue.length) return;
+    f.pos = Math.max(0, Math.min(f.queue.length - 1, f.pos + step));
+    renderFC();
+  }
+
+  function know(){
+    const f = state.fc;
+    if (!f.queue.length) return;
+    const id = f.queue[f.pos];
+    state.known.add(id);
+    state.missed.delete(id);
+    f.queue.splice(f.pos, 1);
+    if (f.pos >= f.queue.length) f.pos = Math.max(0, f.queue.length - 1);
+    save();
+    paintScore();
+    renderFC();
+    renderChips();
+  }
+
+  function dontKnow(){
+    const f = state.fc;
+    if (!f.queue.length) return;
+    const id = f.queue[f.pos];
+    state.missed.add(id);
+    state.known.delete(id);
+    // come back a few cards later rather than immediately
+    f.queue.splice(f.pos, 1);
+    const back = Math.min(f.queue.length, f.pos + 4);
+    f.queue.splice(back, 0, id);
+    f.pos = Math.min(f.pos, f.queue.length - 1);
+    save();
+    paintScore();
+    renderFC();
+    renderChips();
+  }
+
+  /* ---------------- chrome ---------------- */
+  function paintScore(){
+    const q = state.mc;
+    el("scoreTxt").textContent = q.right + " / " + q.asked;
+    el("missTxt").textContent = state.missed.size + " missed";
+  }
+
+  function renderHead(){
+    const cat = CATS.find(c => c.id === state.cat);
+    const n = pool().length;
+    el("title").textContent = state.reviewOnly ? "Needs review" : (cat ? cat.name : "All terms");
+    el("sub").textContent = state.reviewOnly
+      ? "The terms you have answered wrong or marked as don't know."
+      : (cat ? cat.name + " — " + n + " terms and definitions."
+             : ITEMS.length.toLocaleString() + " terms and definitions across six decks.");
+  }
+
+  function restart(){
+    state.mc = { queue: shuffle(pool()), pos: 0, asked: state.mc.asked, right: state.mc.right, answered: null };
+    state.fc = { queue: shuffle(pool()), pos: 0, flipped: false };
+    save();
+    renderAll();
+  }
+
+  function renderAll(){
+    renderChips();
+    renderHead();
+    document.querySelectorAll("#modeSeg button").forEach(b =>
+      b.setAttribute("aria-pressed", String(b.dataset.mode === state.mode)));
+    document.querySelectorAll("#dirSeg button").forEach(b =>
+      b.setAttribute("aria-pressed", String(b.dataset.dir === state.dir)));
+    el("mcView").hidden = state.mode !== "mc";
+    el("fcView").hidden = state.mode !== "fc";
+    paintScore();
+    if (state.mode === "mc") renderMC(); else renderFC();
+  }
+
+  function setMode(m){
+    if (state.mode === m) return;
+    state.mode = m;
+    if (m === "mc" && !state.mc.queue.length) state.mc.queue = shuffle(pool());
+    if (m === "fc" && !state.fc.queue.length) state.fc.queue = shuffle(pool());
+    save();
+    renderAll();
+  }
+
+  /* ---------------- wiring ---------------- */
+  el("modeSeg").addEventListener("click", e => {
+    const b = e.target.closest("button[data-mode]");
+    if (b) setMode(b.dataset.mode);
+  });
+  el("dirSeg").addEventListener("click", e => {
+    const b = e.target.closest("button[data-dir]");
+    if (!b) return;
+    state.dir = b.dataset.dir;
+    save();
+    renderAll();
+  });
+  el("btnNextQ").addEventListener("click", nextQ);
+  el("btnSkip").addEventListener("click", nextQ);
+  el("btnNext").addEventListener("click", () => fcNext(1));
+  el("btnPrev").addEventListener("click", () => fcNext(-1));
+  el("btnKnow").addEventListener("click", know);
+  el("btnDont").addEventListener("click", dontKnow);
+  el("card").addEventListener("click", flip);
+
+  document.addEventListener("keydown", e => {
+    if (e.metaKey || e.ctrlKey || e.altKey) return;
+    const k = e.key.toLowerCase();
+    if (state.mode === "mc"){
+      if (["1","2","3","4"].includes(k)){
+        const b = el("opts").children[Number(k) - 1];
+        if (b && !b.classList.contains("done")) b.click();
+        e.preventDefault();
+      } else if (k === " " || k === "enter" || k === "arrowright"){
+        nextQ(); e.preventDefault();
+      } else if (k === "m"){ setMode("fc"); }
+    } else {
+      if (k === " "){ flip(); e.preventDefault(); }
+      else if (k === "arrowright") fcNext(1);
+      else if (k === "arrowleft") fcNext(-1);
+      else if (k === "k") know();
+      else if (k === "x") dontKnow();
+      else if (k === "m") setMode("mc");
+    }
+  });
+
+  load();
+  if (!CATS.some(c => c.id === state.cat)) state.cat = "all";
+  restart();
+})();
+</script>
+</body>
+</html>
