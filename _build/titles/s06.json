@@ -1,0 +1,18 @@
+{
+ "p053_09b": "Allowable Compressive Stress — End Conditions",
+ "p054_03b": "Combined Stress (fa/Fa > 0.15)",
+ "p054_04b": "Euler Buckling — K Factor for Sidesway",
+ "p055_10b": "Moment about Axes",
+ "p056_00b": "Purlins with Sagrods",
+ "p056_00c": "Purlins with Sagrods — Three Points",
+ "p056_02b": "Allowable Axial Load and Plate Thickness",
+ "p057_11b": "Critical Slenderness (Cc) — Intermediate",
+ "p057_11c": "Critical Slenderness (Cc) — Long Column",
+ "p057_07b": "Euler's Buckling (Critical Load)",
+ "p058_00b": "Gross Area (Ag = tw)",
+ "p058_05b": "Bearing Stress",
+ "p058_04b": "Torque from Eccentric Load",
+ "p058_04c": "Stress due to Moment alone",
+ "p058_05c": "Bending and Tensile Stress",
+ "p058_04d": "Combined Stress at Corner"
+}

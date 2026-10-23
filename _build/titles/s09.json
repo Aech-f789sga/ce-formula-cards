@@ -1,0 +1,18 @@
+{
+ "p078_01b": "Column Location Factors",
+ "p078_06b": "Steel Column Base Plate",
+ "p079_03b": "Tension Bars in Footing",
+ "p079_04b": "Center Band Number of Bars",
+ "p080_06b": "One-Way Shear (Vu)",
+ "p080_03b": "Maximum Factored Moment (Equilibrium)",
+ "p080_03c": "Maximum Factored Moment (Mu)",
+ "p080_07b": "Two-Way Shear (Vup)",
+ "p081_08b": "Punching Shear Force (Circular)",
+ "p082_04b": "Solve for Steel Ratio (ρ)",
+ "p082_06b": "Eccentricity and qmax",
+ "p082_08b": "Overturning Moment (Mx)",
+ "p082_08c": "Eccentricity — qmax = 2P/A",
+ "p082_08d": "Eccentricity — qmax with 6e/B",
+ "p083_02b": "Base Shear on Each Frame",
+ "p087_01b": "Cosine Law"
+}

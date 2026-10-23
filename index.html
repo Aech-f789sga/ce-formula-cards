@@ -669,7 +669,7 @@
     document.documentElement.style.setProperty("--accent", accentOf(state.cat));
     el("deckTitle").textContent = state.cat === "all" ? "Complete Formula Deck" : (CATS[state.cat]?.name || "");
     el("deckSub").textContent = state.cat === "all"
-      ? "All 976 cards from the four board-exam areas, cropped straight from the review deck."
+      ? "All " + DECK.cards.length + " cards from the four board-exam areas, cropped straight from the review deck."
       : (CATS[state.cat]?.blurb || "");
     renderTabs();
     renderCard();

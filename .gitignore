@@ -15,6 +15,30 @@ __pycache__/
 # local QA output from _build/overlays.py
 _build/qa/
 _build/*.png
+_build/review/
+_build/*.txt
+_build/audit*.json
+_build/suspect.json
+_build/cuts.json
+_build/plan_all.json
+_build/cards_raw.json
+_build/pages_cache.json
+_build/pieces_manifest.json
+
+# superseded experiments from the first splitting pass
+_build/analyze_all.py
+_build/build2.py
+_build/recrop.py
+_build/split_cards.py
+_build/audit.py
+_build/audit2.py
+_build/audit3.py
+_build/audit4.py
+_build/qa2.py
+_build/seps.json
+_build/review_new.py
+_build/review_sheet.py
+_build/plan_overlay.py
 
 # keep the card images — they are the deck
 !assets/cards/*.jpg

@@ -1,0 +1,18 @@
+{
+ "p065_07c": "Number of Bars (N = As/Ab)",
+ "p068_07b": "Values for λ",
+ "p070_04b": "Spacing based on Confinement",
+ "p070_07b": "Minimum Longitudinal Reinforcement",
+ "p071_09b": "Maximum Spiral Spacing",
+ "p071_08b": "Volumetric Spiral Ratio (ρs)",
+ "p072_04b": "Tension-Controlled Case — Get a and c",
+ "p072_04c": "Tension-Controlled Case — T in terms of a",
+ "p072_04d": "Tension-Controlled Case — Nominal Moment",
+ "p073_05b": "Short Column Check (Slender Column)",
+ "p075_03b": "Footing — Two-Way Slab Load",
+ "p075_07b": "Minimum Steel Ratio (0.0018)",
+ "p075_07c": "Minimum Steel Ratio (fy-based)",
+ "p077_07b": "Punching Shear Perimeter (bo)",
+ "p077_03b": "Actual Shear (Vu)",
+ "p077_06b": "Critical Section for Punching"
+}

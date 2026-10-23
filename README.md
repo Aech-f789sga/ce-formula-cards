@@ -4,7 +4,7 @@ Two study tools for the Philippine Civil Engineering Licensure Examination, buil
 
 | Page | What it is |
 | --- | --- |
-| `index.html` | **Formula Deck** — 971 formula cards cropped straight out of Engr. APJO's RCE formula card PDF |
+| `index.html` | **Formula Deck** — 1,192 formula cards cropped straight out of Engr. APJO's RCE formula card PDF |
 | `quiz.html` | **Term Quiz** — 1,059 definitions from the Engineereya definition-of-terms decks, as multiple choice or flashcards |
 
 Both pages link to each other from the top bar.
@@ -15,14 +15,16 @@ Both pages link to each other from the top bar.
 
 Every card is a real crop taken from the source PDF — the handwritten topic heading plus its formulas — so what you flip to is exactly what is on the review card.
 
-**971 cards**, split into the four areas the deck is organised by:
+**1,192 cards**, split into the four areas the deck is organised by:
 
 | Area | Cards |
 | --- | --- |
-| Geotechnical Engineering | 102 |
-| Hydraulics | 112 |
-| Principles of Structural Analysis and Design | 399 |
-| Math, Surveying & Transportation Engineering | 358 |
+| Geotechnical Engineering | 128 |
+| Hydraulics | 137 |
+| Principles of Structural Analysis and Design | 486 |
+| Math, Surveying & Transportation Engineering | 441 |
+
+Panels that stack several unrelated formulas are cut into one card per formula, and every crop is grown out until none of its own ink is sliced off.
 
 - **Front** = topic title. Click the card or press `Space` to flip to the formula crop.
 - **Zoom** opens the crop full-screen for reading small subscripts.
@@ -76,7 +78,7 @@ Progress is per device in `localStorage`: the *know* marks are session-only by d
 ```
 index.html          formula deck (HTML + CSS + JS, no dependencies)
 quiz.html           term quiz (HTML + CSS + JS, no dependencies)
-data.js             formula deck data: 971 cards
+data.js             formula deck data: 1,192 cards
 terms.js            quiz data: 1,059 terms + precomputed confusion candidates
 assets/cards/*.jpg  the cropped formula images
 _build/             reproducible pipelines (Python + PyMuPDF)
@@ -92,15 +94,24 @@ _build/             reproducible pipelines (Python + PyMuPDF)
 4. clusters boxes into columns, then widens each crop to the sibling notes in its own column band — never across the gutter into the next card;
 5. crops at 200 dpi and trims to content.
 
-`build_data.py` then merges the crop boxes with the titles in `titles.json` and writes `data.js`.
+That first pass merged anything that shared a panel, so a second pass (`_build/plan.py` → `build_plan.py`) re-reads every panel and separates it:
+
+1. **panel borders** — the first 70 px of each crop are scanned for a full-height / full-width ink line and the box is inset past it, so a border is never mistaken for content;
+2. **topic boundaries** — a split is placed on a wide blank band (≥ 44 px at 150 dpi) that has real content above and below, or on a coloured heading run that sits outside every detected box; panels that stack four or five unrelated formulas become four or five cards;
+3. **gap-bridging growth** — each piece then grows outward stroke by stroke (bridging letter gaps up to 12 px) until it reaches blank paper, blocked by the *core* of its neighbours rather than their loose boxes, with an overlap rollback so a grown piece never swallows another card.
+
+`_build/growfix.py` then writes `boxes.json`: it snaps shared boundaries onto the nearest blank row, and grows any edge that still slices a glyph. `_build/export2.py` crops at 200 dpi, and pads each side only as far as the nearest foreign ink — so a crop shows its own content and nothing of the card next to it.
+
+Hand corrections live in `_build/fixes.json` (`box`, `expand`, `union`, `drop`, `title`) and `_build/drop.json`.
 
 ```bash
 python -m pip install pymupdf pillow opencv-python-headless numpy
-python _build/build_all.py     # writes assets/cards/*.jpg + _build/cards_raw.json
-python _build/build_data.py    # writes data.js
+python _build/build_plan.py    # plan_all.json: the piece boxes for every page
+python _build/growfix.py       # boxes.json: boundary snapping + edge growth
+python _build/export2.py       # assets/cards/*.jpg + data.js
 ```
 
-`_build/overlays.py` renders numbered QA overlays per page if you want to check crop boundaries visually.
+`_build/overlay2.py` and `_build/pairov.py` draw crop boxes back onto the page if you want to check a boundary visually.
 
 ## How the terms were parsed
 
@@ -121,7 +132,7 @@ The repo is a plain static site. On Vercel: import the repo, framework preset **
 
 ## Credit
 
-- **Formulas** — **Engr. Aleah Pearl Javier Once, RCE 2024** ("Engr. APJO"). Her formula card deck is the source of all 971 formula cards; the handwriting and every equation on them are hers.
+- **Formulas** — **Engr. Aleah Pearl Javier Once, RCE 2024** ("Engr. APJO"). Her formula card deck is the source of all 1,192 formula cards; the handwriting and every equation on them are hers.
 - **Terms** — **Engineereya's Vlog**, whose definition-of-terms decks (Geotechnical, Fluid Mechanics & Hydraulics, Structural & Construction, Transportation, Highway & Ports/Harbor) are the source of all 1,059 definitions.
 
 Both credits are also shown at the bottom of their page on the site. This repo only re-presents that material as interactive study tools; the engineering content is theirs. Terms are reproduced as written in the source PDFs, including their wording and any source typos.

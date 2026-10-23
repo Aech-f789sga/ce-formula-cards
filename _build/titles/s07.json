@@ -1,0 +1,18 @@
+{
+ "p059_04b": "Polar Moment of Inertia (J)",
+ "p059_05b": "Stress due to Combined Load",
+ "p060_04b": "Plastic Section Modulus",
+ "p060_04c": "Plastic Moment",
+ "p062_03b": "Tensile Stress (WSD)",
+ "p062_03c": "Compression Steel Stress",
+ "p063_06b": "Beam Design (WSD) — Nominal Moment",
+ "p063_06c": "Beam Design (WSD) — Doubly Reinforced Mn",
+ "p063_07b": "Nominal Moment (Mn1 + Mn2)",
+ "p063_07c": "Total Steel Area",
+ "p064_06b": "Actual Steel Stress (fs)",
+ "p064_11b": "Doubly Reinforced Beam — Check Yielding",
+ "p064_11c": "T-Beam Nominal Moment (Mn2)",
+ "p065_06b": "T-Beam — Depth of Compression Block",
+ "p065_06c": "T-Beam — Web Nominal Moment",
+ "p065_07b": "Number of Bars Required"
+}

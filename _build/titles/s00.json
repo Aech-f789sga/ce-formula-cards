@@ -1,0 +1,12 @@
+{
+ "p001_10b": "Bulk Specific Gravity (bulk)",
+ "p001_10e": "Soil Cost from Borrow Pit",
+ "p002_07b": "Percent Passing Notes",
+ "p002_07c": "Sn Rating Scale",
+ "p003_00b": "Shrinkage Limit from Void Ratio",
+ "p003_08b": "Consistency Index (CI) Classification",
+ "p003_10b": "Plasticity Index (PI) Description",
+ "p006_09b": "Pore Water Pressure (Pw)",
+ "p006_09c": "Peak and Hansen Bearing Capacity",
+ "p006_09d": "Capillary Height (hc)"
+}

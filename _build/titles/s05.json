@@ -1,0 +1,18 @@
+{
+ "p041_05b": "Deflection by Double Integration",
+ "p047_05b": "Simple Beam Influence Line (RL)",
+ "p047_05c": "Simple Beam Influence Line (Rn)",
+ "p047_05d": "Simple Beam Influence Line (Lengths)",
+ "p047_05e": "Simple Beam Influence Line (Mn)",
+ "p048_00b": "Influence Line for Member BH",
+ "p051_07b": "Section Modulus",
+ "p051_11b": "Allowable Compressive Stress (Non-Slender)",
+ "p052_02b": "Partly Compact Section — Slenderness Check",
+ "p052_02c": "Partly Compact Section — Solve for Fb",
+ "p052_02d": "Partly Compact Section — Fb Formula",
+ "p052_02e": "Partly Compact Section — Non-Compact",
+ "p052_01b": "Compact Section — Slenderness Check",
+ "p052_01c": "Compact Section — Solve for Fb",
+ "p053_00b": "Check if Short Beam",
+ "p053_04b": "Moment of Inertia by Symmetry"
+}

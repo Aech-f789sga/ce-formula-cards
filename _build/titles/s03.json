@@ -1,0 +1,18 @@
+{
+ "p018_06b": "Overturning Moment (Mbo)",
+ "p019_02b": "Moving Vessel — Inclined Motion",
+ "p019_02c": "Moving Vessel — Acceleration Angle",
+ "p019_02d": "Moving Vessel — Vertical Motion",
+ "p019_00b": "Circumferential Stress (Thin-Walled Cylinder)",
+ "p021_05b": "Zero Depth of Flow",
+ "p022_05b": "Continuity of Flow",
+ "p023_04b": "Head Loss at Sudden Contraction",
+ "p024_02b": "Chezy Formula and Hydraulic Radius",
+ "p025_03b": "Most Efficient Circular Section",
+ "p026_05b": "Force on a Curve Vane",
+ "p027_00b": "Friction Factor (Laminar and Turbulent)",
+ "p029_06b": "Wave Speed in Non-Rigid Pipe",
+ "p029_00b": "Wave Speed in Composite Pipe",
+ "p029_00c": "Composite Modulus of Elasticity (Ep)",
+ "p030_04b": "Total Head Loss (Three-Reservoir Method)"
+}

@@ -1,0 +1,18 @@
+{
+ "p010_01b": "Passive Pressure Coefficient (kp, general β)",
+ "p011_04b": "Bearing Capacity Factors (Nc, Nq, Nγ)",
+ "p011_04c": "Local Shear Failure Factors",
+ "p012_05b": "Pile Group Efficiency and Capacity in Sand",
+ "p013_00b": "Braced Cut Pressure Envelope (Peck 1969)",
+ "p013_05b": "Shear Strength FS — Cohesion (FSc)",
+ "p013_05c": "Shear Strength FS — Friction (FSτ)",
+ "p015_06b": "Absolute Pressure",
+ "p015_06c": "Atmospheric Pressure",
+ "p015_06d": "Pressure Head (h)",
+ "p015_04b": "Bulk Modulus of Elasticity (Eb)",
+ "p017_01b": "Reaction from Soil",
+ "p017_01c": "Moment about the Toe",
+ "p017_00b": "Gravity Dam Cross Section",
+ "p018_07b": "Overturning Check (Mbo > Gbo)",
+ "p018_08b": "Overturning Check (Mbo < Gbo)"
+}
